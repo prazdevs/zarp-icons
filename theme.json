@@ -1,0 +1,14 @@
+{
+  "fileNames": {
+    "Cargo.toml": "cargo"
+  },
+  "fileExtensions": {
+    "go": "go",
+    "rs": "rust"
+  },
+  "iconDefinitions": {
+    "cargo": "./icons/cargo.svg",
+    "go": "./icons/go.svg",
+    "rust": "./icons/rust.svg"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "zarp-icons",
+  "displayName": "vscode-zarp-icons",
+  "repository": "https://github.com/prazdevs/zarp-icons",
+  "description": "",
+  "publisher": "prazdevs",
+  "version": "0.0.7",
+  "scripts": {
+    "build": "esno build.ts"
+  },
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "label": "Zarp Icons",
+        "id": "zarp-icons",
+        "path": "./theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.1",
+    "esno": "^0.16.3"
+  }
+}
