@@ -3,6 +3,7 @@
   "displayName": "vscode-zarp-icons",
   "repository": "https://github.com/prazdevs/zarp-icons",
   "description": "",
+  "type": "module",
   "publisher": "prazdevs",
   "version": "0.0.7",
   "scripts": {
@@ -24,7 +25,11 @@
     ]
   },
   "devDependencies": {
+    "@types/fs-extra": "^9.0.13",
     "@types/node": "^18.7.1",
-    "esno": "^0.16.3"
+    "@types/svgo": "^2.6.3",
+    "esno": "^0.16.3",
+    "fs-extra": "^10.1.0",
+    "svgo": "^2.8.0"
   }
 }
