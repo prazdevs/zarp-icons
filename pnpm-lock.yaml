@@ -4,17 +4,17 @@ specifiers:
   '@types/fs-extra': ^9.0.13
   '@types/node': ^18.7.1
   '@types/svgo': ^2.6.3
-  esno: ^0.16.3
   fs-extra: ^10.1.0
   svgo: ^2.8.0
+  tsx: ^3.8.2
 
 devDependencies:
   '@types/fs-extra': 9.0.13
   '@types/node': 18.7.1
   '@types/svgo': 2.6.3
-  esno: 0.16.3
   fs-extra: 10.1.0
   svgo: 2.8.0
+  tsx: 3.8.2
 
 packages:
 
@@ -350,13 +350,6 @@ packages:
       esbuild-windows-32: 0.14.54
       esbuild-windows-64: 0.14.54
       esbuild-windows-arm64: 0.14.54
-    dev: true
-
-  /esno/0.16.3:
-    resolution: {integrity: sha512-6slSBEV1lMKcX13DBifvnDFpNno5WXhw4j/ff7RI0y51BZiDqEe5dNhhjhIQ3iCOQuzsm2MbVzmwqbN78BBhPg==}
-    hasBin: true
-    dependencies:
-      tsx: 3.8.2
     dev: true
 
   /fs-extra/10.1.0:

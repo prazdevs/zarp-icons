@@ -1,14 +1,95 @@
 {
-  "fileNames": {
-    "Cargo.toml": "cargo"
+  "hidesExplorerArrows": false,
+  "file": "file",
+  "folder": "folder",
+  "folderExpanded": "folder_open",
+  "rootFolder": "folder_root",
+  "rootFolderExpanded": "folder_root_open",
+  "iconDefinitions": {
+    "cargo": {
+      "iconPath": "./icons/cargo.svg"
+    },
+    "cargo_lock": {
+      "iconPath": "./icons/cargo_lock.svg"
+    },
+    "dts": {
+      "iconPath": "./icons/dts.svg"
+    },
+    "file": {
+      "iconPath": "./icons/file.svg"
+    },
+    "folder": {
+      "iconPath": "./icons/folder.svg"
+    },
+    "Folder_default_close": {
+      "iconPath": "./icons/Folder_default_close.svg"
+    },
+    "Folder_default_open": {
+      "iconPath": "./icons/Folder_default_open.svg"
+    },
+    "folder_open": {
+      "iconPath": "./icons/folder_open.svg"
+    },
+    "folder_root": {
+      "iconPath": "./icons/folder_root.svg"
+    },
+    "folder_root_open": {
+      "iconPath": "./icons/folder_root_open.svg"
+    },
+    "go": {
+      "iconPath": "./icons/go.svg"
+    },
+    "js": {
+      "iconPath": "./icons/js.svg"
+    },
+    "jsx": {
+      "iconPath": "./icons/jsx.svg"
+    },
+    "mapjs": {
+      "iconPath": "./icons/mapjs.svg"
+    },
+    "packagejson": {
+      "iconPath": "./icons/packagejson.svg"
+    },
+    "packagelock": {
+      "iconPath": "./icons/packagelock.svg"
+    },
+    "rust": {
+      "iconPath": "./icons/rust.svg"
+    },
+    "ts": {
+      "iconPath": "./icons/ts.svg"
+    },
+    "tsx": {
+      "iconPath": "./icons/tsx.svg"
+    }
   },
   "fileExtensions": {
     "go": "go",
+    "esx": "js",
+    "cjs": "js",
+    "js.map": "mapjs",
+    "cjs.map": "mapjs",
+    "mjs.map": "mapjs",
+    "d.ts": "dts",
+    "d.cts": "dts",
+    "d.mts": "dts",
     "rs": "rust"
   },
-  "iconDefinitions": {
-    "cargo": "./icons/cargo.svg",
-    "go": "./icons/go.svg",
-    "rust": "./icons/rust.svg"
+  "fileNames": {
+    "Cargo.toml": "cargo",
+    "Cargo.lock": "cargo_lock",
+    "package.json": "packagejson",
+    "package-lock.json": "packagelock",
+    "yarn.lock": "packagelock",
+    "pnpm-lock.yaml": "packagelock"
+  },
+  "folderNames": {},
+  "folderNamesExpanded": {},
+  "languageIds": {
+    "javascript": "js",
+    "javascriptreact": "jsx",
+    "typescript": "ts",
+    "typescriptreact": "tsx"
   }
 }

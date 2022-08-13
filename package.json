@@ -7,7 +7,7 @@
   "publisher": "prazdevs",
   "version": "0.0.7",
   "scripts": {
-    "build": "esno build.ts"
+    "build": "tsx scripts/build.ts"
   },
   "engines": {
     "vscode": "^1.67.0"
@@ -28,8 +28,8 @@
     "@types/fs-extra": "^9.0.13",
     "@types/node": "^18.7.1",
     "@types/svgo": "^2.6.3",
-    "esno": "^0.16.3",
     "fs-extra": "^10.1.0",
-    "svgo": "^2.8.0"
+    "svgo": "^2.8.0",
+    "tsx": "^3.8.2"
   }
 }
