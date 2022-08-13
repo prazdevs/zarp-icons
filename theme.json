@@ -30,11 +30,17 @@
     "folder_root_open": {
       "iconPath": "./icons/folder_root_open.svg"
     },
+    "git": {
+      "iconPath": "./icons/git.svg"
+    },
     "go": {
       "iconPath": "./icons/go.svg"
     },
     "js": {
       "iconPath": "./icons/js.svg"
+    },
+    "json": {
+      "iconPath": "./icons/json.svg"
     },
     "jsx": {
       "iconPath": "./icons/jsx.svg"
@@ -51,6 +57,9 @@
     "rust": {
       "iconPath": "./icons/rust.svg"
     },
+    "svelte": {
+      "iconPath": "./icons/svelte.svg"
+    },
     "ts": {
       "iconPath": "./icons/ts.svg"
     },
@@ -59,7 +68,6 @@
     }
   },
   "fileExtensions": {
-    "go": "go",
     "esx": "js",
     "cjs": "js",
     "js.map": "mapjs",
@@ -67,8 +75,7 @@
     "mjs.map": "mapjs",
     "d.ts": "dts",
     "d.cts": "dts",
-    "d.mts": "dts",
-    "rs": "rust"
+    "d.mts": "dts"
   },
   "fileNames": {
     "Cargo.toml": "cargo",
@@ -81,8 +88,18 @@
   "folderNames": {},
   "folderNamesExpanded": {},
   "languageIds": {
+    "git": "git",
+    "git-commit": "git",
+    "git-rebase": "git",
+    "ignore": "git",
+    "go": "go",
     "javascript": "js",
+    "json": "json",
+    "jsonc": "json",
+    "json5": "json",
     "javascriptreact": "jsx",
+    "rust": "rust",
+    "svelte": "svelte",
     "typescript": "ts",
     "typescriptreact": "tsx"
   }
