@@ -21,12 +21,6 @@
     "folder": {
       "iconPath": "./icons/folder.svg"
     },
-    "Folder_default_close": {
-      "iconPath": "./icons/Folder_default_close.svg"
-    },
-    "Folder_default_open": {
-      "iconPath": "./icons/Folder_default_open.svg"
-    },
     "folder_open": {
       "iconPath": "./icons/folder_open.svg"
     },

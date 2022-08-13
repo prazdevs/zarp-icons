@@ -14,7 +14,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview3411"
+     id="namedview15953"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="2.9825758"
-     inkscape:cx="3.017526"
-     inkscape:cy="61.021082"
+     inkscape:cx="30.845822"
+     inkscape:cy="39.563119"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1912"
@@ -35,18 +35,23 @@
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
-       id="grid3534" />
+       id="grid16076" />
   </sodipodi:namedview>
   <defs
-     id="defs3406" />
+     id="defs15948" />
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#fff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
-       d="m 11.125066,88.499993 c 0,0 -0.01225,7 7.112459,7 h 63.637541 c 0,0 7,0.0035 7,-7 V 24.646043 L 68.843951,4.4999934 H 18.125066 c 0,0 -7,8.878e-4 -7,6.9999996 z"
-       id="path3554"
-       sodipodi:nodetypes="cscscccsc" />
+       style="fill:none;stroke:#d9d9d9;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 83,79.75 c 0,6.128259 -6.871741,13 -13,13 H 30 c -6.128259,0 -13,-6.871741 -13,-13 V 19.664656 C 17,13.756666 24.09201,7.25 30,7.25 h 20 l 33,33 z"
+       id="path16150"
+       sodipodi:nodetypes="ssssssccs" />
+    <path
+       style="fill:none;stroke:#d9d9d9;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 50,7.25 v 20 c 0,6.128259 6.871741,13 13,13 h 20"
+       id="path21195"
+       sodipodi:nodetypes="cssc" />
   </g>
 </svg>
