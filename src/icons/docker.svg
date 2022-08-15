@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.0px"
+   height="100.0px"
+   viewBox="0 0 100.0 100.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="docker.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18857"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="4.2179991"
+     inkscape:cx="13.987675"
+     inkscape:cy="39.355153"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid18980" />
+  </sodipodi:namedview>
+  <defs
+     id="defs18852" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#2396ed;stroke-width:5.38554;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 8.5936969,49.881907 H 66.558206 l 5.593778,-2.028978 c -1.810547,-6.327975 -1.189015,-12.655952 1.378178,-18.983926 5.6208,3.385468 3.432187,11.626451 7.60825,12.339113 4.269647,-0.506239 6.60589,-0.917118 10.875538,1.993751 0,0 -4.267653,8.350126 -12.808941,9.586883 C 68.43802,73.585255 52.199203,86.858176 39.109864,85.862271 3.5980071,83.160344 8.5936969,49.881907 8.5936969,49.881907 Z"
+       id="path19054"
+       sodipodi:nodetypes="cccccccsc" />
+    <rect
+       style="fill:none;stroke:#2396ed;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect22137"
+       width="10"
+       height="10"
+       x="13.5"
+       y="40" />
+    <rect
+       style="fill:none;stroke:#2396ed;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect22502"
+       width="10"
+       height="10"
+       x="23.5"
+       y="40" />
+    <rect
+       style="fill:none;stroke:#2396ed;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect22504"
+       width="10"
+       height="10"
+       x="33.5"
+       y="40" />
+    <rect
+       style="fill:none;stroke:#2396ed;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect22506"
+       width="10"
+       height="10"
+       x="43.5"
+       y="40" />
+    <rect
+       style="fill:none;stroke:#2396ed;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect22508"
+       width="10"
+       height="10"
+       x="53.5"
+       y="40" />
+    <rect
+       style="fill:none;stroke:#2396ed;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect22510"
+       width="10"
+       height="10"
+       x="23.5"
+       y="30" />
+    <rect
+       style="fill:none;stroke:#2396ed;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect22521"
+       width="10"
+       height="10"
+       x="33.5"
+       y="30" />
+    <rect
+       style="fill:none;stroke:#2396ed;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect22523"
+       width="10"
+       height="10"
+       x="43.5"
+       y="30" />
+    <rect
+       style="fill:none;stroke:#2396ed;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect22525"
+       width="10"
+       height="10"
+       x="43.5"
+       y="20" />
+  </g>
+</svg>

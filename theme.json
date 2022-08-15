@@ -12,6 +12,15 @@
     "cargo_lock": {
       "iconPath": "./icons/cargo_lock.svg"
     },
+    "css": {
+      "iconPath": "./icons/css.svg"
+    },
+    "docker": {
+      "iconPath": "./icons/docker.svg"
+    },
+    "dotenv": {
+      "iconPath": "./icons/dotenv.svg"
+    },
     "dts": {
       "iconPath": "./icons/dts.svg"
     },
@@ -36,6 +45,9 @@
     "go": {
       "iconPath": "./icons/go.svg"
     },
+    "html": {
+      "iconPath": "./icons/html.svg"
+    },
     "js": {
       "iconPath": "./icons/js.svg"
     },
@@ -45,8 +57,14 @@
     "jsx": {
       "iconPath": "./icons/jsx.svg"
     },
+    "license": {
+      "iconPath": "./icons/license.svg"
+    },
     "mapjs": {
       "iconPath": "./icons/mapjs.svg"
+    },
+    "markdown": {
+      "iconPath": "./icons/markdown.svg"
     },
     "packagejson": {
       "iconPath": "./icons/packagejson.svg"
@@ -54,17 +72,32 @@
     "packagelock": {
       "iconPath": "./icons/packagelock.svg"
     },
+    "properties": {
+      "iconPath": "./icons/properties.svg"
+    },
     "rust": {
       "iconPath": "./icons/rust.svg"
     },
+    "sass": {
+      "iconPath": "./icons/sass.svg"
+    },
     "svelte": {
       "iconPath": "./icons/svelte.svg"
+    },
+    "toml": {
+      "iconPath": "./icons/toml.svg"
     },
     "ts": {
       "iconPath": "./icons/ts.svg"
     },
     "tsx": {
       "iconPath": "./icons/tsx.svg"
+    },
+    "vue": {
+      "iconPath": "./icons/vue.svg"
+    },
+    "yaml": {
+      "iconPath": "./icons/yaml.svg"
     }
   },
   "fileExtensions": {
@@ -75,11 +108,40 @@
     "mjs.map": "mapjs",
     "d.ts": "dts",
     "d.cts": "dts",
-    "d.mts": "dts"
+    "d.mts": "dts",
+    "env": "dotenv"
   },
   "fileNames": {
     "Cargo.toml": "cargo",
     "Cargo.lock": "cargo_lock",
+    "copying": "license",
+    "copying.md": "license",
+    "copying.rst": "license",
+    "copying.txt": "license",
+    "copyright": "license",
+    "copyright.md": "license",
+    "copyright.rst": "license",
+    "copyright.txt": "license",
+    "license": "license",
+    "license-agpl": "license",
+    "license-apache": "license",
+    "license-bsd": "license",
+    "license-mit": "license",
+    "license-gpl": "license",
+    "license-lgpl": "license",
+    "license.md": "license",
+    "license.rst": "license",
+    "license.txt": "license",
+    "licence": "license",
+    "licence-agpl": "license",
+    "licence-apache": "license",
+    "licence-bsd": "license",
+    "licence-mit": "license",
+    "licence-gpl": "license",
+    "licence-lgpl": "license",
+    "licence.md": "license",
+    "licence.rst": "license",
+    "licence.txt": "license",
     "package.json": "packagejson",
     "package-lock.json": "packagelock",
     "yarn.lock": "packagelock",
@@ -88,19 +150,35 @@
   "folderNames": {},
   "folderNamesExpanded": {},
   "languageIds": {
+    "css": "css",
+    "less": "css",
+    "postcss": "css",
+    "dockerfile": "docker",
     "git": "git",
     "git-commit": "git",
     "git-rebase": "git",
     "ignore": "git",
     "go": "go",
+    "html": "html",
     "javascript": "js",
     "json": "json",
     "jsonc": "json",
     "json5": "json",
     "javascriptreact": "jsx",
+    "markdown": "markdown",
+    "makefile": "properties",
+    "ini": "properties",
+    "properties": "properties",
     "rust": "rust",
+    "sass": "sass",
+    "scss": "sass",
     "svelte": "svelte",
+    "toml": "toml",
     "typescript": "ts",
-    "typescriptreact": "tsx"
+    "typescriptreact": "tsx",
+    "vue": "vue",
+    "vue-postcss": "vue",
+    "vue-html": "vue",
+    "yaml": "yaml"
   }
 }

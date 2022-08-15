@@ -1,11 +1,20 @@
 export const languages: IconMap = {
+  css: ['css', 'less', 'postcss'],
+  docker: ['dockerfile'],
   git: ['git', 'git-commit', 'git-rebase', 'ignore'],
   go: ['go'],
+  html: ['html'],
   js: ['javascript'],
   json: ['json', 'jsonc', 'json5'],
   jsx: ['javascriptreact'],
+  markdown: ['markdown'],
+  properties: ['makefile', 'ini', 'properties'],
   rust: ['rust'],
+  sass: ['sass', 'scss'],
   svelte: ['svelte'],
+  toml: ['toml'],
   ts: ['typescript'],
   tsx: ['typescriptreact'],
+  vue: ['vue', 'vue-postcss', 'vue-html'],
+  yaml: ['yaml']
 }
