@@ -21,6 +21,18 @@
     "cargo_lock": {
       "iconPath": "./icons/cargo_lock.svg"
     },
+    "certificate": {
+      "iconPath": "./icons/certificate.svg"
+    },
+    "changelog": {
+      "iconPath": "./icons/changelog.svg"
+    },
+    "code_of_conduct": {
+      "iconPath": "./icons/code_of_conduct.svg"
+    },
+    "contributing": {
+      "iconPath": "./icons/contributing.svg"
+    },
     "cpp": {
       "iconPath": "./icons/cpp.svg"
     },
@@ -41,6 +53,12 @@
     },
     "editorconfig": {
       "iconPath": "./icons/editorconfig.svg"
+    },
+    "eslint": {
+      "iconPath": "./icons/eslint.svg"
+    },
+    "eslint_alt": {
+      "iconPath": "./icons/eslint_alt.svg"
     },
     "file": {
       "iconPath": "./icons/file.svg"
@@ -93,6 +111,12 @@
     "jsx": {
       "iconPath": "./icons/jsx.svg"
     },
+    "js_config": {
+      "iconPath": "./icons/js_config.svg"
+    },
+    "key": {
+      "iconPath": "./icons/key.svg"
+    },
     "license": {
       "iconPath": "./icons/license.svg"
     },
@@ -117,6 +141,9 @@
     "powershell": {
       "iconPath": "./icons/powershell.svg"
     },
+    "prettier": {
+      "iconPath": "./icons/prettier.svg"
+    },
     "properties": {
       "iconPath": "./icons/properties.svg"
     },
@@ -125,6 +152,9 @@
     },
     "python_alt": {
       "iconPath": "./icons/python_alt.svg"
+    },
+    "readme": {
+      "iconPath": "./icons/readme.svg"
     },
     "rust": {
       "iconPath": "./icons/rust.svg"
@@ -153,11 +183,23 @@
     "tsx": {
       "iconPath": "./icons/tsx.svg"
     },
+    "ts_config": {
+      "iconPath": "./icons/ts_config.svg"
+    },
+    "vite": {
+      "iconPath": "./icons/vite.svg"
+    },
+    "vitest": {
+      "iconPath": "./icons/vitest.svg"
+    },
     "vlang": {
       "iconPath": "./icons/vlang.svg"
     },
     "vue": {
       "iconPath": "./icons/vue.svg"
+    },
+    "vue_config": {
+      "iconPath": "./icons/vue_config.svg"
     },
     "xml": {
       "iconPath": "./icons/xml.svg"
@@ -174,6 +216,10 @@
     "c": "c",
     "i": "c",
     "mi": "c",
+    "cer": "certificate",
+    "cert": "certificate",
+    "crt": "certificate",
+    "pfx": "certificate",
     "cs": "csharp",
     "csx": "csharp",
     "cc": "cpp",
@@ -208,10 +254,17 @@
     "class": "java",
     "esx": "js",
     "cjs": "js",
+    "jsconfig.json": "js_config",
     "json": "json",
     "jsonc": "json",
     "json5": "json",
     "jsonl": "json",
+    "pub": "key",
+    "key": "key",
+    "pem": "key",
+    "asc": "key",
+    "gpg": "key",
+    "passwd": "key",
     "js.map": "mapjs",
     "cjs.map": "mapjs",
     "mjs.map": "mapjs",
@@ -255,6 +308,7 @@
     "svg": "svg",
     "txt": "text",
     "toml": "toml",
+    "tsconfig.json": "ts_config",
     "v": "vlang",
     "xml": "xml",
     "plist": "xml",
@@ -281,9 +335,35 @@
     "post-merge": "bash",
     "Cargo.toml": "cargo",
     "Cargo.lock": "cargo_lock",
+    "changelog": "changelog",
+    "changelog.md": "changelog",
+    "changelog.rst": "changelog",
+    "changelog.txt": "changelog",
+    "changes": "changelog",
+    "changes.md": "changelog",
+    "changes.rst": "changelog",
+    "changes.txt": "changelog",
+    "code_of_conduct": "code_of_conduct",
+    "code_of_conduct.md": "code_of_conduct",
+    "code_of_conduct.rst": "code_of_conduct",
+    "code_of_conduct.txt": "code_of_conduct",
+    "contributing": "contributing",
+    "contributing.md": "contributing",
+    "contributing.rst": "contributing",
+    "contributing.txt": "contributing",
     "dockerfile": "docker",
     "docker-compose.yml": "docker",
     "docker-compose.yaml": "docker",
+    ".eslintrc.js": "eslint",
+    ".eslintrc.cjs": "eslint",
+    ".eslintrc.yaml": "eslint",
+    ".eslintrc.yml": "eslint",
+    ".eslintrc.json": "eslint",
+    ".eslintrc-md.js": "eslint",
+    ".eslintrc-jsdoc.js": "eslint",
+    ".eslintrc": "eslint",
+    ".eslintignore": "eslint_alt",
+    ".eslintcache": "eslint_alt",
     ".gitignore": "git",
     ".gitconfig": "git",
     ".gitattributes": "git",
@@ -292,6 +372,7 @@
     ".git-include": "git",
     "go.mod": "gomod",
     "go.sum": "gosum",
+    "jsconfig.json": "js_config",
     "copying": "license",
     "copying.md": "license",
     "copying.rst": "license",
@@ -324,10 +405,52 @@
     "package-lock.json": "packagelock",
     "yarn.lock": "packagelock",
     "pnpm-lock.yaml": "packagelock",
+    ".prettierrc": "prettier",
+    "prettier.config.js": "prettier",
+    "prettier.config.cjs": "prettier",
+    ".prettierrc.js": "prettier",
+    ".prettierrc.cjs": "prettier",
+    ".prettierrc.json": "prettier",
+    ".prettierrc.json5": "prettier",
+    ".prettierrc.yaml": "prettier",
+    ".prettierrc.yml": "prettier",
+    ".prettierignore": "prettier",
+    ".prettierrc.toml": "prettier",
+    "readme.md": "readme",
+    "readme.rst": "readme",
+    "readme.txt": "readme",
+    "readme": "readme",
     "svelte.config.js": "svelte",
     "svelte.config.cjs": "svelte",
+    "tsconfig.json": "ts_config",
+    "tsconfig.app.json": "ts_config",
+    "tsconfig.editor.json": "ts_config",
+    "tsconfig.spec.json": "ts_config",
+    "tsconfig.base.json": "ts_config",
+    "tsconfig.build.json": "ts_config",
+    "tsconfig.eslint.json": "ts_config",
+    "tsconfig.lib.json": "ts_config",
+    "tsconfig.node.json": "ts_config",
+    "tsconfig.test.json": "ts_config",
+    "tsconfig.e2e.json": "ts_config",
+    "tsconfig.web.json": "ts_config",
+    "tsconfig.webworker.json": "ts_config",
+    "vite.config.js": "vite",
+    "vite.config.mjs": "vite",
+    "vite.config.cjs": "vite",
+    "vite.config.ts": "vite",
+    "vite.config.cts": "vite",
+    "vite.config.mts": "vite",
+    "vitest.config.js": "vitest",
+    "vitest.config.mjs": "vitest",
+    "vitest.config.cjs": "vitest",
+    "vitest.config.ts": "vitest",
+    "vitest.config.cts": "vitest",
+    "vitest.config.mts": "vitest",
     "vpkg.json": "vlang",
-    "v.mod": "vlang"
+    "v.mod": "vlang",
+    "vue.config.js": "vue_config",
+    "vue.config.ts": "vue_config"
   },
   "folderNames": {},
   "folderNamesExpanded": {},

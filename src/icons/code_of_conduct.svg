@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.0px"
+   height="100.0px"
+   viewBox="0 0 100.0 100.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="contributing.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview62536"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="4.2179991"
+     inkscape:cx="41.725946"
+     inkscape:cy="55.71362"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid62659" />
+  </sodipodi:namedview>
+  <defs
+     id="defs62531" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       fill="none"
+       stroke="currentColor"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="g61669"
+       transform="matrix(4.5329617,0,0,4.5329617,-4.3579654,-4.3794902)"
+       style="stroke-width:1.14132;stroke-dasharray:none">
+      <path
+         d="M 19.5,12.572 12,20 4.5,12.572 a 5,5 0 1 1 7.5,-6.566 5,5 0 1 1 7.5,6.572"
+         id="path61665"
+         style="stroke-width:1.1414171;stroke-dasharray:none;stroke:#b0204a;stroke-opacity:1" />
+      <path
+         d="M 12,6 8.707,9.293 a 1,1 0 0 0 0,1.414 L 9.25,11.25 c 0.69,0.69 1.81,0.69 2.5,0 l 1,-1 a 3.182,3.182 0 0 1 4.5,0 l 2.25,2.25 m -7,3 2,2 M 15,13 l 2,2"
+         id="path61667"
+         style="stroke-width:1.1414171;stroke-dasharray:none;stroke:#b0204a;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
