@@ -6,11 +6,26 @@
   "rootFolder": "folder_root",
   "rootFolderExpanded": "folder_root_open",
   "iconDefinitions": {
+    "bash": {
+      "iconPath": "./icons/bash.svg"
+    },
+    "bat": {
+      "iconPath": "./icons/bat.svg"
+    },
+    "c": {
+      "iconPath": "./icons/c.svg"
+    },
     "cargo": {
       "iconPath": "./icons/cargo.svg"
     },
     "cargo_lock": {
       "iconPath": "./icons/cargo_lock.svg"
+    },
+    "cpp": {
+      "iconPath": "./icons/cpp.svg"
+    },
+    "csharp": {
+      "iconPath": "./icons/csharp.svg"
     },
     "css": {
       "iconPath": "./icons/css.svg"
@@ -23,6 +38,9 @@
     },
     "dts": {
       "iconPath": "./icons/dts.svg"
+    },
+    "editorconfig": {
+      "iconPath": "./icons/editorconfig.svg"
     },
     "file": {
       "iconPath": "./icons/file.svg"
@@ -45,8 +63,23 @@
     "go": {
       "iconPath": "./icons/go.svg"
     },
+    "gomod": {
+      "iconPath": "./icons/gomod.svg"
+    },
+    "gosum": {
+      "iconPath": "./icons/gosum.svg"
+    },
+    "h": {
+      "iconPath": "./icons/h.svg"
+    },
+    "hpp": {
+      "iconPath": "./icons/hpp.svg"
+    },
     "html": {
       "iconPath": "./icons/html.svg"
+    },
+    "java": {
+      "iconPath": "./icons/java.svg"
     },
     "js": {
       "iconPath": "./icons/js.svg"
@@ -72,6 +105,12 @@
     "packagelock": {
       "iconPath": "./icons/packagelock.svg"
     },
+    "pdf": {
+      "iconPath": "./icons/pdf.svg"
+    },
+    "powershell": {
+      "iconPath": "./icons/powershell.svg"
+    },
     "properties": {
       "iconPath": "./icons/properties.svg"
     },
@@ -81,8 +120,17 @@
     "sass": {
       "iconPath": "./icons/sass.svg"
     },
+    "spreadsheet": {
+      "iconPath": "./icons/spreadsheet.svg"
+    },
     "svelte": {
       "iconPath": "./icons/svelte.svg"
+    },
+    "svg": {
+      "iconPath": "./icons/svg.svg"
+    },
+    "text": {
+      "iconPath": "./icons/text.svg"
     },
     "toml": {
       "iconPath": "./icons/toml.svg"
@@ -93,27 +141,140 @@
     "tsx": {
       "iconPath": "./icons/tsx.svg"
     },
+    "vlang": {
+      "iconPath": "./icons/vlang.svg"
+    },
     "vue": {
       "iconPath": "./icons/vue.svg"
+    },
+    "xml": {
+      "iconPath": "./icons/xml.svg"
     },
     "yaml": {
       "iconPath": "./icons/yaml.svg"
     }
   },
   "fileExtensions": {
-    "esx": "js",
-    "cjs": "js",
-    "js.map": "mapjs",
-    "cjs.map": "mapjs",
-    "mjs.map": "mapjs",
+    "bash": "bash",
+    "sh": "bash",
+    "awk": "bash",
+    "bat": "bat",
+    "c": "c",
+    "i": "c",
+    "mi": "c",
+    "cs": "csharp",
+    "csx": "csharp",
+    "cc": "cpp",
+    "cpp": "cpp",
+    "cxx": "cpp",
+    "c++": "cpp",
+    "cp": "cpp",
+    "mm": "cpp",
+    "mii": "cpp",
+    "ii": "cpp",
+    "dockerfile": "docker",
+    "dockerignore": "docker",
+    "env": "dotenv",
     "d.ts": "dts",
     "d.cts": "dts",
     "d.mts": "dts",
-    "env": "dotenv"
+    "h": "h",
+    "hh": "hpp",
+    "hpp": "hpp",
+    "hxx": "hpp",
+    "h++": "hpp",
+    "hp": "hpp",
+    "tcc": "hpp",
+    "inl": "hpp",
+    "htm": "html",
+    "xhtml": "html",
+    "html_vm": "html",
+    "asp": "html",
+    "java": "java",
+    "jsp": "java",
+    "class": "java",
+    "esx": "js",
+    "cjs": "js",
+    "json": "json",
+    "jsonc": "json",
+    "json5": "json",
+    "jsonl": "json",
+    "js.map": "mapjs",
+    "cjs.map": "mapjs",
+    "mjs.map": "mapjs",
+    "md": "markdown",
+    "markdown": "markdown",
+    "pdf": "pdf",
+    "ps1": "powershell",
+    "psm1": "powershell",
+    "psd1": "powershell",
+    "ps1xml": "powershell",
+    "psc1": "powershell",
+    "pssc": "powershell",
+    "ini": "properties",
+    "dlc": "properties",
+    "dll": "properties",
+    "config": "properties",
+    "conf": "properties",
+    "properties": "properties",
+    "prop": "properties",
+    "settings": "properties",
+    "option": "properties",
+    "props": "properties",
+    "cfg": "properties",
+    "prefs": "properties",
+    "rs": "rust",
+    "ron": "rust",
+    "scss": "sass",
+    "sass": "sass",
+    "xlsx": "spreadsheet",
+    "xlsm": "spreadsheet",
+    "xls": "spreadsheet",
+    "csv": "spreadsheet",
+    "tsv": "spreadsheet",
+    "psv": "spreadsheet",
+    "ods": "spreadsheet",
+    "svelte": "svelte",
+    "svg": "svg",
+    "txt": "text",
+    "toml": "toml",
+    "v": "vlang",
+    "xml": "xml",
+    "plist": "xml",
+    "xsd": "xml",
+    "dtd": "xml",
+    "xsl": "xml",
+    "xslt": "xml",
+    "resx": "xml",
+    "iml": "xml",
+    "xquery": "xml",
+    "tmLanguage": "xml",
+    "manifest": "xml",
+    "project": "xml",
+    "xml.dist": "xml",
+    "xml.dist.sample": "xml",
+    "dmn": "xml",
+    "yml": "yaml",
+    "yaml": "yaml"
   },
   "fileNames": {
+    "commit-msg": "bash",
+    "pre-commit": "bash",
+    "pre-push": "bash",
+    "post-merge": "bash",
     "Cargo.toml": "cargo",
     "Cargo.lock": "cargo_lock",
+    "dockerfile": "docker",
+    "docker-compose.yml": "docker",
+    "docker-compose.yaml": "docker",
+    ".gitignore": "git",
+    ".gitconfig": "git",
+    ".gitattributes": "git",
+    ".gitmodules": "git",
+    ".gitkeep": "git",
+    ".git-include": "git",
+    "go.mod": "gomod",
+    "go.sum": "gosum",
     "copying": "license",
     "copying.md": "license",
     "copying.rst": "license",
@@ -145,40 +306,65 @@
     "package.json": "packagejson",
     "package-lock.json": "packagelock",
     "yarn.lock": "packagelock",
-    "pnpm-lock.yaml": "packagelock"
+    "pnpm-lock.yaml": "packagelock",
+    "svelte.config.js": "svelte",
+    "svelte.config.cjs": "svelte",
+    "vpkg.json": "vlang",
+    "v.mod": "vlang"
   },
   "folderNames": {},
   "folderNamesExpanded": {},
   "languageIds": {
+    "awk": "bash",
+    "shellscript": "bash",
+    "bat": "bat",
+    "c": "c",
+    "objective-c": "c",
+    "objective-cpp": "c",
+    "cpp": "cpp",
+    "csharp": "csharp",
     "css": "css",
     "less": "css",
     "postcss": "css",
     "dockerfile": "docker",
+    "editorconfig": "editorconfig",
     "git": "git",
     "git-commit": "git",
     "git-rebase": "git",
     "ignore": "git",
     "go": "go",
     "html": "html",
+    "java": "java",
     "javascript": "js",
     "json": "json",
     "jsonc": "json",
     "json5": "json",
     "javascriptreact": "jsx",
     "markdown": "markdown",
+    "pdf": "pdf",
+    "powershell": "powershell",
     "makefile": "properties",
     "ini": "properties",
     "properties": "properties",
     "rust": "rust",
     "sass": "sass",
     "scss": "sass",
+    "csv": "spreadsheet",
+    "tsv": "spreadsheet",
+    "psv": "spreadsheet",
     "svelte": "svelte",
+    "svg": "svg",
+    "plaintext": "text",
     "toml": "toml",
     "typescript": "ts",
     "typescriptreact": "tsx",
+    "v": "vlang",
     "vue": "vue",
     "vue-postcss": "vue",
     "vue-html": "vue",
+    "xml": "xml",
+    "xquery": "xml",
+    "xsl": "xml",
     "yaml": "yaml"
   }
 }

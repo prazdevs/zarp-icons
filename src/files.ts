@@ -1,6 +1,11 @@
 export const files: Record<string, string[]> = {
+  bash: ['commit-msg', 'pre-commit', 'pre-push', 'post-merge'],
   cargo: ['Cargo.toml'],
   cargo_lock: ['Cargo.lock'],
+  docker: ['dockerfile', 'docker-compose.yml', 'docker-compose.yaml'],
+  git: ['.gitignore', '.gitconfig', '.gitattributes', '.gitmodules', '.gitkeep', '.git-include'],
+  gomod: ['go.mod'],
+  gosum: ['go.sum'],
   license: [
     'copying',
     'copying.md',
@@ -33,4 +38,6 @@ export const files: Record<string, string[]> = {
   ],
   packagejson: ['package.json'],
   packagelock: ['package-lock.json', 'yarn.lock', 'pnpm-lock.yaml'],
+  svelte: ['svelte.config.js', 'svelte.config.cjs'],
+  vlang: ['vpkg.json', 'v.mod']
 }
