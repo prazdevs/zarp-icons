@@ -5,9 +5,10 @@
   "description": "",
   "type": "module",
   "publisher": "prazdevs",
-  "version": "0.0.1",
+  "version": "0.0.8",
   "scripts": {
-    "build": "tsx scripts/build.ts"
+    "build": "tsx scripts/build.ts",
+    "package": "vsce package -o dist"
   },
   "engines": {
     "vscode": "^1.67.0"

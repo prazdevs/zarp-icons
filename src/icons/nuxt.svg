@@ -7,14 +7,14 @@
    viewBox="0 0 100.0 100.0"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="vue.svg"
+   sodipodi:docname="nuxt.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview2217"
+     id="namedview33980"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="4.2179991"
-     inkscape:cx="5.4528224"
-     inkscape:cy="29.397825"
+     inkscape:zoom="5.9651515"
+     inkscape:cx="74.85141"
+     inkscape:cy="58.003556"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1912"
@@ -35,23 +35,18 @@
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
-       id="grid2340" />
+       id="grid34103" />
   </sodipodi:namedview>
   <defs
-     id="defs2212" />
+     id="defs33975" />
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#41b883;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       d="M 7.4901275,9.4509802 H 40.553361 L 50,28.533124 59.446638,9.4509802 H 92.509872 L 50.038392,90.549308 Z"
-       id="path2368"
-       sodipodi:nodetypes="ccccccc" />
-    <path
-       style="fill:none;stroke:#41b883;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       d="M 74.595771,10.897934 50,57.960269 25.404229,10.897934"
-       id="path2466"
-       sodipodi:nodetypes="ccc" />
+       style="fill:none;stroke:#41b883;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stroke-dasharray:none;stroke-opacity:1"
+       d="M 34.701549,79.7968 61.266251,33.785387 c 0.7694,-1.33264 3.847001,-1.33264 4.616401,0 l 26.70173,46.248753 c 0.590013,1.021933 -1.323188,2.503213 -2.503214,2.503213 H 9.8907798 c -1.1991395,0 -3.1433289,-1.505274 -2.5437591,-2.543759 L 40.949047,21.793178 c 0.663094,-1.148512 3.315469,-1.148512 3.978563,0 l 33.987004,58.867218"
+       id="path34177"
+       sodipodi:nodetypes="cssssssssc" />
   </g>
 </svg>

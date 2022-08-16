@@ -77,6 +77,8 @@ export const files: Record<string, string[]> = {
     'licence.rst',
     'licence.txt',
   ],
+  npm: ['.npmrc', '.npmignore'],
+  nuxt: ['nuxt.config.js', 'nuxt.config.ts', '.nuxtignore'],
   packagejson: ['package.json'],
   packagelock: ['package-lock.json', 'yarn.lock', 'pnpm-lock.yaml'],
   prettier: [

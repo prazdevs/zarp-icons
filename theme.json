@@ -66,6 +66,18 @@
     "folder": {
       "iconPath": "./icons/folder.svg"
     },
+    "folder_dist": {
+      "iconPath": "./icons/folder_dist.svg"
+    },
+    "folder_dist_open": {
+      "iconPath": "./icons/folder_dist_open.svg"
+    },
+    "folder_node": {
+      "iconPath": "./icons/folder_node.svg"
+    },
+    "folder_node_open": {
+      "iconPath": "./icons/folder_node_open.svg"
+    },
     "folder_open": {
       "iconPath": "./icons/folder_open.svg"
     },
@@ -74,6 +86,18 @@
     },
     "folder_root_open": {
       "iconPath": "./icons/folder_root_open.svg"
+    },
+    "folder_src": {
+      "iconPath": "./icons/folder_src.svg"
+    },
+    "folder_src_open": {
+      "iconPath": "./icons/folder_src_open.svg"
+    },
+    "folder_test": {
+      "iconPath": "./icons/folder_test.svg"
+    },
+    "folder_test_open": {
+      "iconPath": "./icons/folder_test_open.svg"
     },
     "git": {
       "iconPath": "./icons/git.svg"
@@ -98,6 +122,9 @@
     },
     "html": {
       "iconPath": "./icons/html.svg"
+    },
+    "image": {
+      "iconPath": "./icons/image.svg"
     },
     "java": {
       "iconPath": "./icons/java.svg"
@@ -125,6 +152,12 @@
     },
     "markdown": {
       "iconPath": "./icons/markdown.svg"
+    },
+    "npm": {
+      "iconPath": "./icons/npm.svg"
+    },
+    "nuxt": {
+      "iconPath": "./icons/nuxt.svg"
     },
     "packagejson": {
       "iconPath": "./icons/packagejson.svg"
@@ -170,6 +203,12 @@
     },
     "svg": {
       "iconPath": "./icons/svg.svg"
+    },
+    "test_js": {
+      "iconPath": "./icons/test_js.svg"
+    },
+    "test_ts": {
+      "iconPath": "./icons/test_ts.svg"
     },
     "text": {
       "iconPath": "./icons/text.svg"
@@ -249,6 +288,57 @@
     "xhtml": "html",
     "html_vm": "html",
     "asp": "html",
+    "png": "image",
+    "jpeg": "image",
+    "jpg": "image",
+    "gif": "image",
+    "ico": "image",
+    "tif": "image",
+    "tiff": "image",
+    "psd": "image",
+    "psb": "image",
+    "ami": "image",
+    "apx": "image",
+    "avif": "image",
+    "bmp": "image",
+    "bpg": "image",
+    "brk": "image",
+    "cur": "image",
+    "dds": "image",
+    "dng": "image",
+    "exr": "image",
+    "fpx": "image",
+    "gbr": "image",
+    "img": "image",
+    "jbig2": "image",
+    "jb2": "image",
+    "jng": "image",
+    "jxr": "image",
+    "pgf": "image",
+    "pic": "image",
+    "raw": "image",
+    "webp": "image",
+    "eps": "image",
+    "afphoto": "image",
+    "ase": "image",
+    "aseprite": "image",
+    "clip": "image",
+    "cpt": "image",
+    "heif": "image",
+    "heic": "image",
+    "kra": "image",
+    "mdp": "image",
+    "ora": "image",
+    "pdn": "image",
+    "reb": "image",
+    "sai": "image",
+    "tga": "image",
+    "xcf": "image",
+    "jfif": "image",
+    "ppm": "image",
+    "pbm": "image",
+    "pgm": "image",
+    "pnm": "image",
     "java": "java",
     "jsp": "java",
     "class": "java",
@@ -306,6 +396,36 @@
     "ods": "spreadsheet",
     "svelte": "svelte",
     "svg": "svg",
+    "spec.js": "test_js",
+    "spec.cjs": "test_js",
+    "spec.mjs": "test_js",
+    "e2e-spec.js": "test_js",
+    "e2e-spec.cjs": "test_js",
+    "e2e-spec.mjs": "test_js",
+    "test.js": "test_js",
+    "test.cjs": "test_js",
+    "test.mjs": "test_js",
+    "js.snap": "test_js",
+    "cy.js": "test_js",
+    "spec.jsx": "test_js",
+    "test.jsx": "test_js",
+    "jsx.snap": "test_js",
+    "cy.jsx": "test_js",
+    "spec.ts": "test_ts",
+    "spec.cts": "test_ts",
+    "spec.mts": "test_ts",
+    "cy.ts": "test_ts",
+    "e2e-spec.ts": "test_ts",
+    "e2e-spec.cts": "test_ts",
+    "e2e-spec.mts": "test_ts",
+    "test.ts": "test_ts",
+    "test.cts": "test_ts",
+    "test.mts": "test_ts",
+    "ts.snap": "test_ts",
+    "spec.tsx": "test_ts",
+    "test.tsx": "test_ts",
+    "tsx.snap": "test_ts",
+    "cy.tsx": "test_ts",
     "txt": "text",
     "toml": "toml",
     "tsconfig.json": "ts_config",
@@ -401,6 +521,11 @@
     "licence.md": "license",
     "licence.rst": "license",
     "licence.txt": "license",
+    ".npmrc": "npm",
+    ".npmignore": "npm",
+    "nuxt.config.js": "nuxt",
+    "nuxt.config.ts": "nuxt",
+    ".nuxtignore": "nuxt",
     "package.json": "packagejson",
     "package-lock.json": "packagelock",
     "yarn.lock": "packagelock",
@@ -452,8 +577,54 @@
     "vue.config.js": "vue_config",
     "vue.config.ts": "vue_config"
   },
-  "folderNames": {},
-  "folderNamesExpanded": {},
+  "folderNames": {
+    "dist": "folder_dist",
+    "out": "folder_dist",
+    "build": "folder_dist",
+    "release": "folder_dist",
+    "bin": "folder_dist",
+    "target": "folder_dist",
+    "node_modules": "folder_node",
+    "src": "folder_src",
+    "srcs": "folder_src",
+    "source": "folder_src",
+    "sources": "folder_src",
+    "code": "folder_src",
+    "test": "folder_test",
+    "tests": "folder_test",
+    "testing": "folder_test",
+    "__tests__": "folder_test",
+    "__snapshots__": "folder_test",
+    "__mocks__": "folder_test",
+    "__fixtures__": "folder_test",
+    "__test__": "folder_test",
+    "spec": "folder_test",
+    "specs": "folder_test"
+  },
+  "folderNamesExpanded": {
+    "dist": "folder_dist_open",
+    "out": "folder_dist_open",
+    "build": "folder_dist_open",
+    "release": "folder_dist_open",
+    "bin": "folder_dist_open",
+    "target": "folder_dist_open",
+    "node_modules": "folder_node_open",
+    "src": "folder_src_open",
+    "srcs": "folder_src_open",
+    "source": "folder_src_open",
+    "sources": "folder_src_open",
+    "code": "folder_src_open",
+    "test": "folder_test_open",
+    "tests": "folder_test_open",
+    "testing": "folder_test_open",
+    "__tests__": "folder_test_open",
+    "__snapshots__": "folder_test_open",
+    "__mocks__": "folder_test_open",
+    "__fixtures__": "folder_test_open",
+    "__test__": "folder_test_open",
+    "spec": "folder_test_open",
+    "specs": "folder_test_open"
+  },
   "languageIds": {
     "awk": "bash",
     "shellscript": "bash",
