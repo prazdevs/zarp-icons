@@ -28,12 +28,15 @@ const todo =[
   //* { icon: { name: 'cpp' }, ids: ['cpp'] },
   //* { icon: { name: 'document' }, ids: ['plaintext'] },
   //* { icon: { name: 'java' }, ids: ['java'] },
+  //* { icon: { name: 'svg' }, ids: ['svg'] },
+  //* { icon: { name: 'python' }, ids: ['python'] },
+  //* { icon: { name: 'haskell' }, ids: ['haskell'] },
+  //* { icon: { name: 'php' }, ids: ['php'] },
 
   //TODO { icon: { name: 'postcss' }, ids: ['postcss'] },
-  //TODO { icon: { name: 'haskell' }, ids: ['haskell'] },
-  //TODO { icon: { name: 'php' }, ids: ['php'] },
-  //TODO { icon: { name: 'svg' }, ids: ['svg'] },
-  //TODO { icon: { name: 'python' }, ids: ['python'] },
+
+
+
 
 
 

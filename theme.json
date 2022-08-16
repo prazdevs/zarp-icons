@@ -72,6 +72,9 @@
     "h": {
       "iconPath": "./icons/h.svg"
     },
+    "haskell": {
+      "iconPath": "./icons/haskell.svg"
+    },
     "hpp": {
       "iconPath": "./icons/hpp.svg"
     },
@@ -108,11 +111,20 @@
     "pdf": {
       "iconPath": "./icons/pdf.svg"
     },
+    "php": {
+      "iconPath": "./icons/php.svg"
+    },
     "powershell": {
       "iconPath": "./icons/powershell.svg"
     },
     "properties": {
       "iconPath": "./icons/properties.svg"
+    },
+    "python": {
+      "iconPath": "./icons/python.svg"
+    },
+    "python_alt": {
+      "iconPath": "./icons/python_alt.svg"
     },
     "rust": {
       "iconPath": "./icons/rust.svg"
@@ -179,6 +191,7 @@
     "d.cts": "dts",
     "d.mts": "dts",
     "h": "h",
+    "hs": "haskell",
     "hh": "hpp",
     "hpp": "hpp",
     "hxx": "hpp",
@@ -223,6 +236,10 @@
     "props": "properties",
     "cfg": "properties",
     "prefs": "properties",
+    "py": "python",
+    "pyc": "python_alt",
+    "pyo": "python_alt",
+    "pyd": "python_alt",
     "rs": "rust",
     "ron": "rust",
     "scss": "sass",
@@ -333,6 +350,7 @@
     "git-rebase": "git",
     "ignore": "git",
     "go": "go",
+    "haskell": "haskell",
     "html": "html",
     "java": "java",
     "javascript": "js",
@@ -342,10 +360,12 @@
     "javascriptreact": "jsx",
     "markdown": "markdown",
     "pdf": "pdf",
+    "php": "php",
     "powershell": "powershell",
     "makefile": "properties",
     "ini": "properties",
     "properties": "properties",
+    "python": "python",
     "rust": "rust",
     "sass": "sass",
     "scss": "sass",
