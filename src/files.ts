@@ -1,4 +1,4 @@
-export const files: Record<string, string[]> = {
+export const files: IconMap = {
   bash: ['commit-msg', 'pre-commit', 'pre-push', 'post-merge'],
   cargo: ['Cargo.toml'],
   cargo_lock: ['Cargo.lock'],

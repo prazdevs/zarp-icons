@@ -5,7 +5,7 @@
   "description": "",
   "type": "module",
   "publisher": "prazdevs",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "scripts": {
     "build": "tsx scripts/build.ts",
     "package": "vsce package -o dist"

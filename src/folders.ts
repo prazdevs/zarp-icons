@@ -1,4 +1,4 @@
-export const folders = {
+export const folders: IconMap = {
   folder_dist: ['dist', 'out', 'build', 'release', 'bin', 'target'],
   folder_node: ['node_modules'],
   folder_src: ['src', 'srcs', 'source', 'sources', 'code'],
@@ -16,7 +16,6 @@ export const folders = {
   ],
 }
 
-export const foldersExpanded = Object.keys(folders).reduce(
-  (acc, cur) => ({ ...acc, [`${cur}_open`]: folders[cur] }),
-  {},
-)
+export const foldersExpanded: IconMap = Object.keys(
+  folders,
+).reduce((acc, cur) => ({ ...acc, [`${cur}_open`]: folders[cur] }), {})
