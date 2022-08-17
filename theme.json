@@ -132,14 +132,14 @@
     "js": {
       "iconPath": "./icons/js.svg"
     },
+    "js_config": {
+      "iconPath": "./icons/js_config.svg"
+    },
     "json": {
       "iconPath": "./icons/json.svg"
     },
     "jsx": {
       "iconPath": "./icons/jsx.svg"
-    },
-    "js_config": {
-      "iconPath": "./icons/js_config.svg"
     },
     "key": {
       "iconPath": "./icons/key.svg"
@@ -219,11 +219,11 @@
     "ts": {
       "iconPath": "./icons/ts.svg"
     },
-    "tsx": {
-      "iconPath": "./icons/tsx.svg"
-    },
     "ts_config": {
       "iconPath": "./icons/ts_config.svg"
+    },
+    "tsx": {
+      "iconPath": "./icons/tsx.svg"
     },
     "vite": {
       "iconPath": "./icons/vite.svg"
