@@ -12,6 +12,9 @@
     "bat": {
       "iconPath": "./icons/bat.svg"
     },
+    "browserslist": {
+      "iconPath": "./icons/browserslist.svg"
+    },
     "c": {
       "iconPath": "./icons/c.svg"
     },
@@ -128,6 +131,9 @@
     },
     "java": {
       "iconPath": "./icons/java.svg"
+    },
+    "jest": {
+      "iconPath": "./icons/jest.svg"
     },
     "js": {
       "iconPath": "./icons/js.svg"
@@ -453,6 +459,8 @@
     "pre-commit": "bash",
     "pre-push": "bash",
     "post-merge": "bash",
+    "browserslist": "browserslist",
+    ".browserslistrc": "browserslist",
     "Cargo.toml": "cargo",
     "Cargo.lock": "cargo_lock",
     "changelog": "changelog",
@@ -492,6 +500,38 @@
     ".git-include": "git",
     "go.mod": "gomod",
     "go.sum": "gosum",
+    "jest.config.js": "jest",
+    "jest.config.cjs": "jest",
+    "jest.config.mjs": "jest",
+    "jest.config.ts": "jest",
+    "jest.config.cts": "jest",
+    "jest.config.mts": "jest",
+    "jest.config.json": "jest",
+    "jest.e2e.config.js": "jest",
+    "jest.e2e.config.cjs": "jest",
+    "jest.e2e.config.mjs": "jest",
+    "jest.e2e.config.ts": "jest",
+    "jest.e2e.config.cts": "jest",
+    "jest.e2e.config.mts": "jest",
+    "jest.e2e.config.json": "jest",
+    "jest.e2e.json": "jest",
+    "jest-unit.config.js": "jest",
+    "jest-e2e.config.js": "jest",
+    "jest-e2e.config.cjs": "jest",
+    "jest-e2e.config.mjs": "jest",
+    "jest-e2e.config.ts": "jest",
+    "jest-e2e.config.cts": "jest",
+    "jest-e2e.config.mts": "jest",
+    "jest-e2e.config.json": "jest",
+    "jest-e2e.json": "jest",
+    "jest-github-actions-reporter.js": "jest",
+    "jest.setup.js": "jest",
+    "jest.setup.ts": "jest",
+    "jest.json": "jest",
+    ".jestrc": "jest",
+    ".jestrc.js": "jest",
+    ".jestrc.json": "jest",
+    "jest.teardown.js": "jest",
     "jsconfig.json": "js_config",
     "copying": "license",
     "copying.md": "license",
