@@ -44,12 +44,12 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#d9d9d9;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
+       style="fill:none;stroke:#a1a1a1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
        d="m 83,79.75 c 0,6.128259 -6.871741,13 -13,13 H 30 c -6.128259,0 -13,-6.871741 -13,-13 V 19.664656 C 17,13.756666 24.09201,7.25 30,7.25 h 20 l 33,33 z"
        id="path16150"
        sodipodi:nodetypes="ssssssccs" />
     <path
-       style="fill:none;stroke:#d9d9d9;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
+       style="fill:none;stroke:#a1a1a1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
        d="m 50,7.25 v 20 c 0,6.128259 6.871741,13 13,13 h 20"
        id="path21195"
        sodipodi:nodetypes="cssc" />
