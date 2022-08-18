@@ -9,7 +9,7 @@
     "url": "https://praz.dev"
   },
   "version": "0.0.13",
-  "description": "A consistent VSCode icon theme.",
+  "description": "A consistent icon theme.",
   "type": "module",
   "scripts": {
     "build": "tsx scripts/build.ts",
