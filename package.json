@@ -9,7 +9,7 @@
   "description": "A consistent VSCode icon theme.",
   "type": "module",
   "publisher": "prazdevs",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "scripts": {
     "build": "tsx scripts/build.ts",
     "package": "vsce package -o dist"

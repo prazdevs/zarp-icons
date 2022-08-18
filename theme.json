@@ -51,6 +51,9 @@
     "css": {
       "iconPath": "./icons/css.svg"
     },
+    "cypress": {
+      "iconPath": "./icons/cypress.svg"
+    },
     "docker": {
       "iconPath": "./icons/docker.svg"
     },
@@ -75,6 +78,12 @@
     "folder": {
       "iconPath": "./icons/folder.svg"
     },
+    "folder_components": {
+      "iconPath": "./icons/folder_components.svg"
+    },
+    "folder_components_open": {
+      "iconPath": "./icons/folder_components_open.svg"
+    },
     "folder_composables": {
       "iconPath": "./icons/folder_composables.svg"
     },
@@ -86,6 +95,12 @@
     },
     "folder_coverage_open": {
       "iconPath": "./icons/folder_coverage_open.svg"
+    },
+    "folder_cypress": {
+      "iconPath": "./icons/folder_cypress.svg"
+    },
+    "folder_cypress_open": {
+      "iconPath": "./icons/folder_cypress_open.svg"
     },
     "folder_dist": {
       "iconPath": "./icons/folder_dist.svg"
@@ -116,6 +131,12 @@
     },
     "folder_husky_open": {
       "iconPath": "./icons/folder_husky_open.svg"
+    },
+    "folder_layouts": {
+      "iconPath": "./icons/folder_layouts.svg"
+    },
+    "folder_layouts_open": {
+      "iconPath": "./icons/folder_layouts_open.svg"
     },
     "folder_locales": {
       "iconPath": "./icons/folder_locales.svg"
@@ -156,6 +177,18 @@
     "folder_root_open": {
       "iconPath": "./icons/folder_root_open.svg"
     },
+    "folder_routes": {
+      "iconPath": "./icons/folder_routes.svg"
+    },
+    "folder_routes_open": {
+      "iconPath": "./icons/folder_routes_open.svg"
+    },
+    "folder_sass": {
+      "iconPath": "./icons/folder_sass.svg"
+    },
+    "folder_sass_open": {
+      "iconPath": "./icons/folder_sass_open.svg"
+    },
     "folder_scripts": {
       "iconPath": "./icons/folder_scripts.svg"
     },
@@ -167,6 +200,12 @@
     },
     "folder_src_open": {
       "iconPath": "./icons/folder_src_open.svg"
+    },
+    "folder_styles": {
+      "iconPath": "./icons/folder_styles.svg"
+    },
+    "folder_styles_open": {
+      "iconPath": "./icons/folder_styles_open.svg"
     },
     "folder_test": {
       "iconPath": "./icons/folder_test.svg"
@@ -317,6 +356,9 @@
     },
     "ts_config": {
       "iconPath": "./icons/ts_config.svg"
+    },
+    "unocss": {
+      "iconPath": "./icons/unocss.svg"
     },
     "vite": {
       "iconPath": "./icons/vite.svg"
@@ -603,6 +645,12 @@
     "contributing.md": "contributing",
     "contributing.rst": "contributing",
     "contributing.txt": "contributing",
+    "cypress.json": "cypress",
+    "cypress.env.json": "cypress",
+    "cypress.config.ts": "cypress",
+    "cypress.config.js": "cypress",
+    "cypress.config.cjs": "cypress",
+    "cypress.config.mjs": "cypress",
     "dockerfile": "docker",
     "docker-compose.yml": "docker",
     "docker-compose.yaml": "docker",
@@ -748,6 +796,8 @@
     "tsconfig.e2e.json": "ts_config",
     "tsconfig.web.json": "ts_config",
     "tsconfig.webworker.json": "ts_config",
+    "unocss.config.js": "unocss",
+    "unocss.config.ts": "unocss",
     "vite.config.js": "vite",
     "vite.config.mjs": "vite",
     "vite.config.cjs": "vite",
@@ -766,6 +816,10 @@
     "vue.config.ts": "vue_config"
   },
   "folderNames": {
+    "components": "folder_components",
+    "widget": "folder_components",
+    "widgets": "folder_components",
+    "fragments": "folder_components",
     "hook": "folder_composables",
     "hooks": "folder_composables",
     "composable": "folder_composables",
@@ -773,6 +827,8 @@
     "coverage": "folder_coverage",
     ".nyc-output": "folder_coverage",
     ".nyc_output": "folder_coverage",
+    "cypress": "folder_cypress",
+    ".cypress": "folder_cypress",
     ".output": "folder_dist",
     "dist": "folder_dist",
     "out": "folder_dist",
@@ -796,6 +852,9 @@
     ".github": "folder_github",
     "husky": "folder_husky",
     ".husky": "folder_husky",
+    "layout": "folder_layouts",
+    "layouts": "folder_layouts",
+    "_layouts": "folder_layouts",
     "i18n": "folder_locales",
     "internationalization": "folder_locales",
     "lang": "folder_locales",
@@ -826,12 +885,24 @@
     "web": "folder_public",
     "website": "folder_public",
     "site": "folder_public",
+    "routes": "folder_routes",
+    "router": "folder_routes",
+    "routers": "folder_routes",
     "scripts": "folder_scripts",
+    "sass": "folder_sass",
+    "_sass": "folder_sass",
+    "scss": "folder_sass",
+    "_scss": "folder_sass",
     "src": "folder_src",
     "srcs": "folder_src",
     "source": "folder_src",
     "sources": "folder_src",
     "code": "folder_src",
+    "css": "folder_styles",
+    "stylesheet": "folder_styles",
+    "stylesheets": "folder_styles",
+    "style": "folder_styles",
+    "styles": "folder_styles",
     "test": "folder_test",
     "tests": "folder_test",
     "testing": "folder_test",
@@ -846,6 +917,10 @@
     ".vscode-test": "folder_vscode"
   },
   "folderNamesExpanded": {
+    "components": "folder_components_open",
+    "widget": "folder_components_open",
+    "widgets": "folder_components_open",
+    "fragments": "folder_components_open",
     "hook": "folder_composables_open",
     "hooks": "folder_composables_open",
     "composable": "folder_composables_open",
@@ -853,6 +928,8 @@
     "coverage": "folder_coverage_open",
     ".nyc-output": "folder_coverage_open",
     ".nyc_output": "folder_coverage_open",
+    "cypress": "folder_cypress_open",
+    ".cypress": "folder_cypress_open",
     ".output": "folder_dist_open",
     "dist": "folder_dist_open",
     "out": "folder_dist_open",
@@ -876,6 +953,9 @@
     ".github": "folder_github_open",
     "husky": "folder_husky_open",
     ".husky": "folder_husky_open",
+    "layout": "folder_layouts_open",
+    "layouts": "folder_layouts_open",
+    "_layouts": "folder_layouts_open",
     "i18n": "folder_locales_open",
     "internationalization": "folder_locales_open",
     "lang": "folder_locales_open",
@@ -906,12 +986,24 @@
     "web": "folder_public_open",
     "website": "folder_public_open",
     "site": "folder_public_open",
+    "routes": "folder_routes_open",
+    "router": "folder_routes_open",
+    "routers": "folder_routes_open",
     "scripts": "folder_scripts_open",
+    "sass": "folder_sass_open",
+    "_sass": "folder_sass_open",
+    "scss": "folder_sass_open",
+    "_scss": "folder_sass_open",
     "src": "folder_src_open",
     "srcs": "folder_src_open",
     "source": "folder_src_open",
     "sources": "folder_src_open",
     "code": "folder_src_open",
+    "css": "folder_styles_open",
+    "stylesheet": "folder_styles_open",
+    "stylesheets": "folder_styles_open",
+    "style": "folder_styles_open",
+    "styles": "folder_styles_open",
     "test": "folder_test_open",
     "tests": "folder_test_open",
     "testing": "folder_test_open",

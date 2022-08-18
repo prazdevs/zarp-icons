@@ -44,6 +44,14 @@ export const files: IconMap = {
     'contributing.rst',
     'contributing.txt',
   ],
+  cypress: [
+    'cypress.json',
+    'cypress.env.json',
+    'cypress.config.ts',
+    'cypress.config.js',
+    'cypress.config.cjs',
+    'cypress.config.mjs',
+  ],
   docker: ['dockerfile', 'docker-compose.yml', 'docker-compose.yaml'],
   eslint: [
     '.eslintrc.js',
@@ -195,6 +203,7 @@ export const files: IconMap = {
     'tsconfig.web.json',
     'tsconfig.webworker.json',
   ],
+  unocss: ['unocss.config.js', 'unocss.config.ts'],
   vite: [
     'vite.config.js',
     'vite.config.mjs',

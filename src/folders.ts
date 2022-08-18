@@ -1,6 +1,8 @@
 export const folders: IconMap = {
+  folder_components: ['components', 'widget', 'widgets', 'fragments'],
   folder_composables: ['hook', 'hooks', 'composable', 'composables'],
   folder_coverage: ['coverage', '.nyc-output', '.nyc_output'],
+  folder_cypress: ['cypress', '.cypress'],
   folder_dist: [
     '.output',
     'dist',
@@ -23,6 +25,7 @@ export const folders: IconMap = {
   ],
   folder_github: ['.github'],
   folder_husky: ['husky', '.husky'],
+  folder_layouts: ['layout', 'layouts', '_layouts'],
   folder_locales: [
     'i18n',
     'internationalization',
@@ -52,8 +55,11 @@ export const folders: IconMap = {
     'modules',
   ],
   folder_public: ['public', 'www', 'wwwroot', 'web', 'website', 'site'],
+  folder_routes: ['routes', 'router', 'routers'],
   folder_scripts: ['scripts'],
+  folder_sass: ['sass', '_sass', 'scss', '_scss'],
   folder_src: ['src', 'srcs', 'source', 'sources', 'code'],
+  folder_styles: ['css', 'stylesheet', 'stylesheets', 'style', 'styles'],
   folder_test: [
     'test',
     'tests',
