@@ -34,7 +34,7 @@ The theme mostly consist of icons inspired by open source icon projects that I r
 
 It is primarily for my personal use, but I'd be more than happy to share it with others to use!
 
-🤝 Contributing
+## 🤝 Contributing
 
 Feel free to open an issue to request icons!
 
