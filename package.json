@@ -8,7 +8,7 @@
     "name": "Sacha Bouillez",
     "url": "https://praz.dev"
   },
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "A consistent VSCode icon theme.",
   "type": "module",
   "scripts": {

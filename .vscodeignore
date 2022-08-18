@@ -1,3 +1,6 @@
 **/*.ts
 **/tsconfig.json
 src/**/*.svg
+.vscode/launch.json
+.gitignore
+pnpm-lock.yaml
