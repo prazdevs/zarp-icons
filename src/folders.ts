@@ -1,6 +1,58 @@
 export const folders: IconMap = {
-  folder_dist: ['dist', 'out', 'build', 'release', 'bin', 'target'],
+  folder_composables: ['hook', 'hooks', 'composable', 'composables'],
+  folder_coverage: ['coverage', '.nyc-output', '.nyc_output'],
+  folder_dist: [
+    '.output',
+    'dist',
+    'out',
+    'output',
+    'build',
+    'release',
+    'bin',
+    'target',
+  ],
+  folder_docs: ['doc', 'docs', 'document', 'documents', 'documentation'],
+  folder_examples: [
+    'demo',
+    'demos',
+    'example',
+    'examples',
+    'sample',
+    'samples',
+    'sample-data',
+  ],
+  folder_github: ['.github'],
+  folder_husky: ['husky', '.husky'],
+  folder_locales: [
+    'i18n',
+    'internationalization',
+    'lang',
+    'langs',
+    'language',
+    'languages',
+    'locale',
+    'locales',
+    'l10n',
+    'localization',
+    'translation',
+    'translate',
+    'translations',
+  ],
   folder_node: ['node_modules'],
+  folder_nuxt: ['.nuxt'],
+  folder_plugins: [
+    'plugin',
+    'plugins',
+    '_plugins',
+    'extension',
+    'extensions',
+    'addon',
+    'addons',
+    'module',
+    'modules',
+  ],
+  folder_public: ['public', 'www', 'wwwroot', 'web', 'website', 'site'],
+  folder_scripts: ['scripts'],
   folder_src: ['src', 'srcs', 'source', 'sources', 'code'],
   folder_test: [
     'test',
@@ -14,8 +66,10 @@ export const folders: IconMap = {
     'spec',
     'specs',
   ],
+  folder_vscode: ['.vscode', '.vscode-test'],
 }
 
-export const foldersExpanded: IconMap = Object.keys(
-  folders,
-).reduce((acc, cur) => ({ ...acc, [`${cur}_open`]: folders[cur] }), {})
+export const foldersExpanded: IconMap = Object.keys(folders).reduce(
+  (acc, cur) => ({ ...acc, [`${cur}_open`]: folders[cur] }),
+  {},
+)

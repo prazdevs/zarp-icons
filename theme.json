@@ -33,6 +33,9 @@
     "changelog": {
       "iconPath": "./icons/changelog.svg"
     },
+    "codeclimate": {
+      "iconPath": "./icons/codeclimate.svg"
+    },
     "code_of_conduct": {
       "iconPath": "./icons/code_of_conduct.svg"
     },
@@ -72,11 +75,53 @@
     "folder": {
       "iconPath": "./icons/folder.svg"
     },
+    "folder_composables": {
+      "iconPath": "./icons/folder_composables.svg"
+    },
+    "folder_composables_open": {
+      "iconPath": "./icons/folder_composables_open.svg"
+    },
+    "folder_coverage": {
+      "iconPath": "./icons/folder_coverage.svg"
+    },
+    "folder_coverage_open": {
+      "iconPath": "./icons/folder_coverage_open.svg"
+    },
     "folder_dist": {
       "iconPath": "./icons/folder_dist.svg"
     },
     "folder_dist_open": {
       "iconPath": "./icons/folder_dist_open.svg"
+    },
+    "folder_docs": {
+      "iconPath": "./icons/folder_docs.svg"
+    },
+    "folder_docs_open": {
+      "iconPath": "./icons/folder_docs_open.svg"
+    },
+    "folder_examples": {
+      "iconPath": "./icons/folder_examples.svg"
+    },
+    "folder_examples_open": {
+      "iconPath": "./icons/folder_examples_open.svg"
+    },
+    "folder_github": {
+      "iconPath": "./icons/folder_github.svg"
+    },
+    "folder_github_open": {
+      "iconPath": "./icons/folder_github_open.svg"
+    },
+    "folder_husky": {
+      "iconPath": "./icons/folder_husky.svg"
+    },
+    "folder_husky_open": {
+      "iconPath": "./icons/folder_husky_open.svg"
+    },
+    "folder_locales": {
+      "iconPath": "./icons/folder_locales.svg"
+    },
+    "folder_locales_open": {
+      "iconPath": "./icons/folder_locales_open.svg"
     },
     "folder_node": {
       "iconPath": "./icons/folder_node.svg"
@@ -84,14 +129,38 @@
     "folder_node_open": {
       "iconPath": "./icons/folder_node_open.svg"
     },
+    "folder_nuxt": {
+      "iconPath": "./icons/folder_nuxt.svg"
+    },
+    "folder_nuxt_open": {
+      "iconPath": "./icons/folder_nuxt_open.svg"
+    },
     "folder_open": {
       "iconPath": "./icons/folder_open.svg"
+    },
+    "folder_plugins": {
+      "iconPath": "./icons/folder_plugins.svg"
+    },
+    "folder_plugins_open": {
+      "iconPath": "./icons/folder_plugins_open.svg"
+    },
+    "folder_public": {
+      "iconPath": "./icons/folder_public.svg"
+    },
+    "folder_public_open": {
+      "iconPath": "./icons/folder_public_open.svg"
     },
     "folder_root": {
       "iconPath": "./icons/folder_root.svg"
     },
     "folder_root_open": {
       "iconPath": "./icons/folder_root_open.svg"
+    },
+    "folder_scripts": {
+      "iconPath": "./icons/folder_scripts.svg"
+    },
+    "folder_scripts_open": {
+      "iconPath": "./icons/folder_scripts_open.svg"
     },
     "folder_src": {
       "iconPath": "./icons/folder_src.svg"
@@ -104,6 +173,12 @@
     },
     "folder_test_open": {
       "iconPath": "./icons/folder_test_open.svg"
+    },
+    "folder_vscode": {
+      "iconPath": "./icons/folder_vscode.svg"
+    },
+    "folder_vscode_open": {
+      "iconPath": "./icons/folder_vscode_open.svg"
     },
     "git": {
       "iconPath": "./icons/git.svg"
@@ -129,6 +204,9 @@
     "html": {
       "iconPath": "./icons/html.svg"
     },
+    "husky": {
+      "iconPath": "./icons/husky.svg"
+    },
     "image": {
       "iconPath": "./icons/image.svg"
     },
@@ -141,14 +219,14 @@
     "js": {
       "iconPath": "./icons/js.svg"
     },
-    "js_config": {
-      "iconPath": "./icons/js_config.svg"
-    },
     "json": {
       "iconPath": "./icons/json.svg"
     },
     "jsx": {
       "iconPath": "./icons/jsx.svg"
+    },
+    "js_config": {
+      "iconPath": "./icons/js_config.svg"
     },
     "key": {
       "iconPath": "./icons/key.svg"
@@ -161,6 +239,9 @@
     },
     "markdown": {
       "iconPath": "./icons/markdown.svg"
+    },
+    "netlify": {
+      "iconPath": "./icons/netlify.svg"
     },
     "npm": {
       "iconPath": "./icons/npm.svg"
@@ -198,6 +279,9 @@
     "readme": {
       "iconPath": "./icons/readme.svg"
     },
+    "rollup": {
+      "iconPath": "./icons/rollup.svg"
+    },
     "rust": {
       "iconPath": "./icons/rust.svg"
     },
@@ -228,11 +312,11 @@
     "ts": {
       "iconPath": "./icons/ts.svg"
     },
-    "ts_config": {
-      "iconPath": "./icons/ts_config.svg"
-    },
     "tsx": {
       "iconPath": "./icons/tsx.svg"
+    },
+    "ts_config": {
+      "iconPath": "./icons/ts_config.svg"
     },
     "vite": {
       "iconPath": "./icons/vite.svg"
@@ -242,6 +326,12 @@
     },
     "vlang": {
       "iconPath": "./icons/vlang.svg"
+    },
+    "vscode": {
+      "iconPath": "./icons/vscode.svg"
+    },
+    "vstudio": {
+      "iconPath": "./icons/vstudio.svg"
     },
     "vue": {
       "iconPath": "./icons/vue.svg"
@@ -439,6 +529,20 @@
     "toml": "toml",
     "tsconfig.json": "ts_config",
     "v": "vlang",
+    "vscodeignore": "vscode",
+    "vsixmanifest": "vscode",
+    "vsix": "vscode",
+    "code-workspace": "vscode",
+    "csproj": "vstudio",
+    "ruleset": "vstudio",
+    "sln": "vstudio",
+    "suo": "vstudio",
+    "vb": "vstudio",
+    "vbs": "vstudio",
+    "vcxitems": "vstudio",
+    "vcxitems.filters": "vstudio",
+    "vcxproj": "vstudio",
+    "vcxproj.filters": "vstudio",
     "xml": "xml",
     "plist": "xml",
     "xsd": "xml",
@@ -494,6 +598,7 @@
     "code_of_conduct.md": "code_of_conduct",
     "code_of_conduct.rst": "code_of_conduct",
     "code_of_conduct.txt": "code_of_conduct",
+    ".codeclimate.yml": "codeclimate",
     "contributing": "contributing",
     "contributing.md": "contributing",
     "contributing.rst": "contributing",
@@ -519,6 +624,12 @@
     ".git-include": "git",
     "go.mod": "gomod",
     "go.sum": "gosum",
+    ".huskyrc": "husky",
+    "husky.config.js": "husky",
+    ".huskyrc.json": "husky",
+    ".huskyrc.js": "husky",
+    ".huskyrc.yaml": "husky",
+    ".huskyrc.yml": "husky",
     "jest.config.js": "jest",
     "jest.config.cjs": "jest",
     "jest.config.mjs": "jest",
@@ -580,6 +691,10 @@
     "licence.md": "license",
     "licence.rst": "license",
     "licence.txt": "license",
+    "netlify.json": "netlify",
+    "netlify.yml": "netlify",
+    "netlify.yaml": "netlify",
+    "netlify.toml": "netlify",
     ".npmrc": "npm",
     ".npmignore": "npm",
     "nuxt.config.js": "nuxt",
@@ -604,6 +719,20 @@
     "readme.rst": "readme",
     "readme.txt": "readme",
     "readme": "readme",
+    "rollup.config.js": "rollup",
+    "rollup.config.ts": "rollup",
+    "rollup-config.js": "rollup",
+    "rollup-config.ts": "rollup",
+    "rollup.config.common.js": "rollup",
+    "rollup.config.common.ts": "rollup",
+    "rollup.config.base.js": "rollup",
+    "rollup.config.base.ts": "rollup",
+    "rollup.config.prod.js": "rollup",
+    "rollup.config.prod.ts": "rollup",
+    "rollup.config.dev.js": "rollup",
+    "rollup.config.dev.ts": "rollup",
+    "rollup.config.prod.vendor.js": "rollup",
+    "rollup.config.prod.vendor.ts": "rollup",
     "svelte.config.js": "svelte",
     "svelte.config.cjs": "svelte",
     "tsconfig.json": "ts_config",
@@ -637,13 +766,67 @@
     "vue.config.ts": "vue_config"
   },
   "folderNames": {
+    "hook": "folder_composables",
+    "hooks": "folder_composables",
+    "composable": "folder_composables",
+    "composables": "folder_composables",
+    "coverage": "folder_coverage",
+    ".nyc-output": "folder_coverage",
+    ".nyc_output": "folder_coverage",
+    ".output": "folder_dist",
     "dist": "folder_dist",
     "out": "folder_dist",
+    "output": "folder_dist",
     "build": "folder_dist",
     "release": "folder_dist",
     "bin": "folder_dist",
     "target": "folder_dist",
+    "doc": "folder_docs",
+    "docs": "folder_docs",
+    "document": "folder_docs",
+    "documents": "folder_docs",
+    "documentation": "folder_docs",
+    "demo": "folder_examples",
+    "demos": "folder_examples",
+    "example": "folder_examples",
+    "examples": "folder_examples",
+    "sample": "folder_examples",
+    "samples": "folder_examples",
+    "sample-data": "folder_examples",
+    ".github": "folder_github",
+    "husky": "folder_husky",
+    ".husky": "folder_husky",
+    "i18n": "folder_locales",
+    "internationalization": "folder_locales",
+    "lang": "folder_locales",
+    "langs": "folder_locales",
+    "language": "folder_locales",
+    "languages": "folder_locales",
+    "locale": "folder_locales",
+    "locales": "folder_locales",
+    "l10n": "folder_locales",
+    "localization": "folder_locales",
+    "translation": "folder_locales",
+    "translate": "folder_locales",
+    "translations": "folder_locales",
     "node_modules": "folder_node",
+    ".nuxt": "folder_nuxt",
+    "plugin": "folder_plugins",
+    "plugins": "folder_plugins",
+    "_plugins": "folder_plugins",
+    "extension": "folder_plugins",
+    "extensions": "folder_plugins",
+    "addon": "folder_plugins",
+    "addons": "folder_plugins",
+    "module": "folder_plugins",
+    "modules": "folder_plugins",
+    "public": "folder_public",
+    "www": "folder_public",
+    "wwwroot": "folder_public",
+    "web": "folder_public",
+    "website": "folder_public",
+    "site": "folder_public",
+    "scripts": "folder_scripts",
     "src": "folder_src",
     "srcs": "folder_src",
     "source": "folder_src",
@@ -658,16 +841,72 @@
     "__fixtures__": "folder_test",
     "__test__": "folder_test",
     "spec": "folder_test",
-    "specs": "folder_test"
+    "specs": "folder_test",
+    ".vscode": "folder_vscode",
+    ".vscode-test": "folder_vscode"
   },
   "folderNamesExpanded": {
+    "hook": "folder_composables_open",
+    "hooks": "folder_composables_open",
+    "composable": "folder_composables_open",
+    "composables": "folder_composables_open",
+    "coverage": "folder_coverage_open",
+    ".nyc-output": "folder_coverage_open",
+    ".nyc_output": "folder_coverage_open",
+    ".output": "folder_dist_open",
     "dist": "folder_dist_open",
     "out": "folder_dist_open",
+    "output": "folder_dist_open",
     "build": "folder_dist_open",
     "release": "folder_dist_open",
     "bin": "folder_dist_open",
     "target": "folder_dist_open",
+    "doc": "folder_docs_open",
+    "docs": "folder_docs_open",
+    "document": "folder_docs_open",
+    "documents": "folder_docs_open",
+    "documentation": "folder_docs_open",
+    "demo": "folder_examples_open",
+    "demos": "folder_examples_open",
+    "example": "folder_examples_open",
+    "examples": "folder_examples_open",
+    "sample": "folder_examples_open",
+    "samples": "folder_examples_open",
+    "sample-data": "folder_examples_open",
+    ".github": "folder_github_open",
+    "husky": "folder_husky_open",
+    ".husky": "folder_husky_open",
+    "i18n": "folder_locales_open",
+    "internationalization": "folder_locales_open",
+    "lang": "folder_locales_open",
+    "langs": "folder_locales_open",
+    "language": "folder_locales_open",
+    "languages": "folder_locales_open",
+    "locale": "folder_locales_open",
+    "locales": "folder_locales_open",
+    "l10n": "folder_locales_open",
+    "localization": "folder_locales_open",
+    "translation": "folder_locales_open",
+    "translate": "folder_locales_open",
+    "translations": "folder_locales_open",
     "node_modules": "folder_node_open",
+    ".nuxt": "folder_nuxt_open",
+    "plugin": "folder_plugins_open",
+    "plugins": "folder_plugins_open",
+    "_plugins": "folder_plugins_open",
+    "extension": "folder_plugins_open",
+    "extensions": "folder_plugins_open",
+    "addon": "folder_plugins_open",
+    "addons": "folder_plugins_open",
+    "module": "folder_plugins_open",
+    "modules": "folder_plugins_open",
+    "public": "folder_public_open",
+    "www": "folder_public_open",
+    "wwwroot": "folder_public_open",
+    "web": "folder_public_open",
+    "website": "folder_public_open",
+    "site": "folder_public_open",
+    "scripts": "folder_scripts_open",
     "src": "folder_src_open",
     "srcs": "folder_src_open",
     "source": "folder_src_open",
@@ -682,7 +921,9 @@
     "__fixtures__": "folder_test_open",
     "__test__": "folder_test_open",
     "spec": "folder_test_open",
-    "specs": "folder_test_open"
+    "specs": "folder_test_open",
+    ".vscode": "folder_vscode_open",
+    ".vscode-test": "folder_vscode_open"
   },
   "languageIds": {
     "awk": "bash",
