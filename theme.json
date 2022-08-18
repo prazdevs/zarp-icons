@@ -6,6 +6,9 @@
   "rootFolder": "folder_root",
   "rootFolderExpanded": "folder_root_open",
   "iconDefinitions": {
+    "babel": {
+      "iconPath": "./icons/babel.svg"
+    },
     "bash": {
       "iconPath": "./icons/bash.svg"
     },
@@ -455,6 +458,22 @@
     "yaml": "yaml"
   },
   "fileNames": {
+    ".babelrc": "babel",
+    ".babelrc.cjs": "babel",
+    ".babelrc.js": "babel",
+    ".babelrc.mjs": "babel",
+    ".babelrc.json": "babel",
+    "babel.config.cjs": "babel",
+    "babel.config.js": "babel",
+    "babel.config.mjs": "babel",
+    "babel.config.json": "babel",
+    "babel-transform.js": "babel",
+    ".babel-plugin-macrosrc": "babel",
+    ".babel-plugin-macrosrc.json": "babel",
+    ".babel-plugin-macrosrc.yaml": "babel",
+    ".babel-plugin-macrosrc.yml": "babel",
+    ".babel-plugin-macrosrc.js": "babel",
+    "babel-plugin-macros.config.js": "babel",
     "commit-msg": "bash",
     "pre-commit": "bash",
     "pre-push": "bash",
