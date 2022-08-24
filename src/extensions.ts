@@ -72,6 +72,7 @@ export const extensions: IconMap = {
   key: ['pub', 'key', 'pem', 'asc', 'gpg', 'passwd'],
   mapjs: ['js.map', 'cjs.map', 'mjs.map'],
   markdown: ['md', 'markdown'],
+  nginx: ['nginx', 'nginxconfig'],
   pdf: ['pdf'],
   powershell: ['ps1', 'psm1', 'psd1', 'ps1xml', 'psc1', 'pssc'],
   properties: [

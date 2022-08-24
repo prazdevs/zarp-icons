@@ -153,6 +153,7 @@ export const files: IconMap = {
     'netlify.yaml',
     'netlify.toml',
   ],
+  nginx: ['nginx.conf'],
   npm: ['.npmrc', '.npmignore'],
   nuxt: ['nuxt.config.js', 'nuxt.config.ts', '.nuxtignore'],
   packagejson: ['package.json'],
@@ -187,6 +188,7 @@ export const files: IconMap = {
     'rollup.config.prod.vendor.js',
     'rollup.config.prod.vendor.ts',
   ],
+  sonar: ['sonar-project.properties'],
   svelte: ['svelte.config.js', 'svelte.config.cjs'],
   ts_config: [
     'tsconfig.json',

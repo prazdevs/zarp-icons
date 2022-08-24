@@ -282,6 +282,9 @@
     "netlify": {
       "iconPath": "./icons/netlify.svg"
     },
+    "nginx": {
+      "iconPath": "./icons/nginx.svg"
+    },
     "npm": {
       "iconPath": "./icons/npm.svg"
     },
@@ -326,6 +329,9 @@
     },
     "sass": {
       "iconPath": "./icons/sass.svg"
+    },
+    "sonar": {
+      "iconPath": "./icons/sonar.svg"
     },
     "spreadsheet": {
       "iconPath": "./icons/spreadsheet.svg"
@@ -501,6 +507,8 @@
     "mjs.map": "mapjs",
     "md": "markdown",
     "markdown": "markdown",
+    "nginx": "nginx",
+    "nginxconfig": "nginx",
     "pdf": "pdf",
     "ps1": "powershell",
     "psm1": "powershell",
@@ -743,6 +751,7 @@
     "netlify.yml": "netlify",
     "netlify.yaml": "netlify",
     "netlify.toml": "netlify",
+    "nginx.conf": "nginx",
     ".npmrc": "npm",
     ".npmignore": "npm",
     "nuxt.config.js": "nuxt",
@@ -781,6 +790,7 @@
     "rollup.config.dev.ts": "rollup",
     "rollup.config.prod.vendor.js": "rollup",
     "rollup.config.prod.vendor.ts": "rollup",
+    "sonar-project.properties": "sonar",
     "svelte.config.js": "svelte",
     "svelte.config.cjs": "svelte",
     "tsconfig.json": "ts_config",

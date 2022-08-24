@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.0px"
+   height="100.0px"
+   viewBox="0 0 100.0 100.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="nginx.svg"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5307"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="3.3644569"
+     inkscape:cx="60.336632"
+     inkscape:cy="44.880943"
+     inkscape:window-width="1309"
+     inkscape:window-height="614"
+     inkscape:window-x="1"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5430" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5302" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       fill="currentColor"
+       d="M 50.000006,8.601332 14.13841,29.300668 V 70.699334 L 50.000006,91.398668 85.86159,70.699334 V 29.300668 Z M 70.699327,65.83499 c 0,2.432173 -2.228619,4.450357 -5.274863,4.450357 -2.176896,0 -4.660817,-0.879721 -6.213267,-2.794409 L 38.511876,42.855281 v 22.97626 c 0,2.48737 -1.966436,4.450357 -4.395159,4.450357 h -0.262191 c -2.487372,0 -4.450357,-2.069934 -4.450357,-4.450357 V 34.165012 c 0,-2.432171 2.17343,-4.450357 5.174834,-4.450357 2.228628,0 4.760847,0.879722 6.313297,2.79441 l 20.595824,24.635657 v -22.97971 c 0,-2.487372 2.069933,-4.450357 4.450356,-4.450357 h 0.258742 c 2.483921,0 4.450357,2.069934 4.450357,4.450357 V 65.83499 Z"
+       id="path5168"
+       style="fill:none;stroke:#009639;stroke-width:5;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
+  </g>
+</svg>
