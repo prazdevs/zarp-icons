@@ -303,6 +303,9 @@
     "php": {
       "iconPath": "./icons/php.svg"
     },
+    "pnpm": {
+      "iconPath": "./icons/pnpm.svg"
+    },
     "powershell": {
       "iconPath": "./icons/powershell.svg"
     },
@@ -761,6 +764,8 @@
     "package-lock.json": "packagelock",
     "yarn.lock": "packagelock",
     "pnpm-lock.yaml": "packagelock",
+    ".pnpmfile.cjs": "pnpm",
+    "pnpm-workspace.yaml": "pnpm",
     ".prettierrc": "prettier",
     "prettier.config.js": "prettier",
     "prettier.config.cjs": "prettier",

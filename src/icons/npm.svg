@@ -8,13 +8,13 @@
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="npm.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview22406"
+     id="namedview337"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -24,29 +24,29 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="4.2179991"
-     inkscape:cx="87.600777"
-     inkscape:cy="56.187779"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:zoom="3.3477018"
+     inkscape:cx="25.689266"
+     inkscape:cy="57.950204"
+     inkscape:window-width="1309"
+     inkscape:window-height="708"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
-       id="grid22529" />
+       id="grid460" />
   </sodipodi:namedview>
   <defs
-     id="defs22401" />
+     id="defs332" />
   <g
-     inkscape:label="Calque 1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       d="M 91.083626,8.9163723 H 8.9163736 V 91.083628 H 50 V 29.458185 H 70.541813 V 91.083628 H 91.083626 V 8.9163723"
        fill="currentColor"
-       id="path22267"
-       style="fill:none;stroke:#cc3534;stroke-width:5;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
+       d="M 23.754839,23.45613 V 77.170036 H 50.631936 V 36.874626 H 64.05026 v 40.29541 H 77.468571 V 23.45613 H 23.754653 Z M 90.927147,10.037629 V 90.628448 H 10.336341 V 10.037629 Z"
+       id="path8061"
+       style="fill:none;stroke:#c12127;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
