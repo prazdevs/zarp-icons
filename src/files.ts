@@ -147,6 +147,12 @@ export const files: IconMap = {
     'licence.rst',
     'licence.txt',
   ],
+  nest: [
+    'nest-cli.json',
+    '.nest-cli.json',
+    'nestconfig.json',
+    '.nestconfig.json',
+  ],
   netlify: [
     'netlify.json',
     'netlify.yml',

@@ -279,6 +279,9 @@
     "markdown": {
       "iconPath": "./icons/markdown.svg"
     },
+    "nest": {
+      "iconPath": "./icons/nest.svg"
+    },
     "netlify": {
       "iconPath": "./icons/netlify.svg"
     },
@@ -750,6 +753,10 @@
     "licence.md": "license",
     "licence.rst": "license",
     "licence.txt": "license",
+    "nest-cli.json": "nest",
+    ".nest-cli.json": "nest",
+    "nestconfig.json": "nest",
+    ".nestconfig.json": "nest",
     "netlify.json": "netlify",
     "netlify.yml": "netlify",
     "netlify.yaml": "netlify",
