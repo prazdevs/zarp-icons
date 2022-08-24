@@ -33,11 +33,11 @@
     "changelog": {
       "iconPath": "./icons/changelog.svg"
     },
-    "codeclimate": {
-      "iconPath": "./icons/codeclimate.svg"
-    },
     "code_of_conduct": {
       "iconPath": "./icons/code_of_conduct.svg"
+    },
+    "codeclimate": {
+      "iconPath": "./icons/codeclimate.svg"
     },
     "contributing": {
       "iconPath": "./icons/contributing.svg"
@@ -258,14 +258,14 @@
     "js": {
       "iconPath": "./icons/js.svg"
     },
+    "js_config": {
+      "iconPath": "./icons/js_config.svg"
+    },
     "json": {
       "iconPath": "./icons/json.svg"
     },
     "jsx": {
       "iconPath": "./icons/jsx.svg"
-    },
-    "js_config": {
-      "iconPath": "./icons/js_config.svg"
     },
     "key": {
       "iconPath": "./icons/key.svg"
@@ -351,11 +351,11 @@
     "ts": {
       "iconPath": "./icons/ts.svg"
     },
-    "tsx": {
-      "iconPath": "./icons/tsx.svg"
-    },
     "ts_config": {
       "iconPath": "./icons/ts_config.svg"
+    },
+    "tsx": {
+      "iconPath": "./icons/tsx.svg"
     },
     "unocss": {
       "iconPath": "./icons/unocss.svg"
