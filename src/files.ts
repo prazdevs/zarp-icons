@@ -38,6 +38,7 @@ export const files: IconMap = {
     'code_of_conduct.txt',
   ],
   codeclimate: ['.codeclimate.yml'],
+  codeowners: ['codeowners'],
   contributing: [
     'contributing',
     'contributing.md',

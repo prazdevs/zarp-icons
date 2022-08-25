@@ -39,6 +39,9 @@
     "codeclimate": {
       "iconPath": "./icons/codeclimate.svg"
     },
+    "codeowners": {
+      "iconPath": "./icons/codeowners.svg"
+    },
     "contributing": {
       "iconPath": "./icons/contributing.svg"
     },
@@ -655,6 +658,7 @@
     "code_of_conduct.rst": "code_of_conduct",
     "code_of_conduct.txt": "code_of_conduct",
     ".codeclimate.yml": "codeclimate",
+    "codeowners": "codeowners",
     "contributing": "contributing",
     "contributing.md": "contributing",
     "contributing.rst": "contributing",
