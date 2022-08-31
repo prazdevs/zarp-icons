@@ -20,10 +20,8 @@ _Note: this project is still a work in progress. I'm working on it whenever I ha
 
 ## 🔍️ Preview
 
-- File icons:
 ![file icons preview](./files-preview.png)
 
-- Folder icons:
 ![folder icons preview](./folders-preview.png)
 
 ## 🚀 Installation
