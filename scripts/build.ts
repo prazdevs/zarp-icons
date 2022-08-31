@@ -1,4 +1,5 @@
 import { optimizeSvgs } from './svg'
+import {generatePreviews } from './preview'
 import { base } from '../src/base'
 import { extensions } from '../src/extensions'
 import { folders, foldersExpanded } from '../src/folders'
@@ -17,12 +18,20 @@ function buildMap(icon: string, references: string[]): Record<string, string> {
 }
 
 function buildMaps(iconMap: IconMap): Record<string, string> {
-  return Object.keys(iconMap).reduce((acc, icon) => ({ ...acc, ...buildMap(icon, iconMap[icon]) }), {})
+  return Object.keys(iconMap).reduce(
+    (acc, icon) => ({ ...acc, ...buildMap(icon, iconMap[icon]) }),
+    {},
+  )
 }
 
 const icons = await readdir(iconsPath)
-const iconDefinitions: IconDefinitions = icons.reduce((acc, cur) => ({ ...acc, [cur.slice(0, -4)]: { iconPath: `./icons/${cur}`} }), {})
-
+const iconDefinitions: IconDefinitions = icons.reduce(
+  (acc, cur) => ({
+    ...acc,
+    [cur.slice(0, -4)]: { iconPath: `./icons/${cur}` },
+  }),
+  {},
+)
 
 const theme: Theme = {
   ...base,
@@ -31,7 +40,11 @@ const theme: Theme = {
   fileNames: buildMaps(files),
   folderNames: buildMaps(folders),
   folderNamesExpanded: buildMaps(foldersExpanded),
-  languageIds: buildMaps(languages)
+  languageIds: buildMaps(languages),
 }
 
 await writeFile('./theme.json', JSON.stringify(theme, null, 2))
+
+
+//* generate preview
+await generatePreviews(iconsPath)
