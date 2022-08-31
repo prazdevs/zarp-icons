@@ -18,6 +18,14 @@
 
 _Note: this project is still a work in progress. I'm working on it whenever I have some time._
 
+## 🔍️ Preview
+
+- File icons:
+![file icons preview](./files-preview.png)
+
+- Folder icons:
+![folder icons preview](./folders-preview.png)
+
 ## 🚀 Installation
 
 > Add the extension by searching and installing `prazdevs.zarp-icons` or simply `zarp-icons` in the Visual Studio Code extensions marketplace.

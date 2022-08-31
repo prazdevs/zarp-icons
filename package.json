@@ -1,8 +1,8 @@
 {
   "name": "zarp-icons",
-  "repository": { 
+  "repository": {
     "type": "git",
-    "url":"https://github.com/prazdevs/zarp-icons"
+    "url": "https://github.com/prazdevs/zarp-icons"
   },
   "author": {
     "name": "Sacha Bouillez",
@@ -13,6 +13,7 @@
   "type": "module",
   "scripts": {
     "build": "tsx scripts/build.ts",
+    "preview": "tsx scripts/preview.ts",
     "package": "vsce package -o dist"
   },
   "devDependencies": {
@@ -20,15 +21,19 @@
     "@types/node": "^18.7.1",
     "@types/svgo": "^2.6.3",
     "fs-extra": "^10.1.0",
+    "puppeteer": "^17.0.0",
     "svgo": "^2.8.0",
     "tsx": "^3.8.2"
   },
-  
   "publisher": "prazdevs",
   "displayName": "Zarp Icons",
   "icon": "icon.png",
-  "engines": { "vscode": "^1.67.0" },
-  "categories": ["Themes"],
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "iconThemes": [
       {
