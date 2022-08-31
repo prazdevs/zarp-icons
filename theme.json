@@ -15,6 +15,9 @@
     "bat": {
       "iconPath": "./icons/bat.svg"
     },
+    "binary": {
+      "iconPath": "./icons/binary.svg"
+    },
     "browserslist": {
       "iconPath": "./icons/browserslist.svg"
     },
@@ -33,6 +36,9 @@
     "changelog": {
       "iconPath": "./icons/changelog.svg"
     },
+    "clojure": {
+      "iconPath": "./icons/clojure.svg"
+    },
     "codeclimate": {
       "iconPath": "./icons/codeclimate.svg"
     },
@@ -41,6 +47,9 @@
     },
     "code_of_conduct": {
       "iconPath": "./icons/code_of_conduct.svg"
+    },
+    "coffee": {
+      "iconPath": "./icons/coffee.svg"
     },
     "contributing": {
       "iconPath": "./icons/contributing.svg"
@@ -54,8 +63,17 @@
     "css": {
       "iconPath": "./icons/css.svg"
     },
+    "cuda": {
+      "iconPath": "./icons/cuda.svg"
+    },
     "cypress": {
       "iconPath": "./icons/cypress.svg"
+    },
+    "dart": {
+      "iconPath": "./icons/dart.svg"
+    },
+    "diff": {
+      "iconPath": "./icons/diff.svg"
     },
     "docker": {
       "iconPath": "./icons/docker.svg"
@@ -222,6 +240,9 @@
     "folder_vscode_open": {
       "iconPath": "./icons/folder_vscode_open.svg"
     },
+    "fsharp": {
+      "iconPath": "./icons/fsharp.svg"
+    },
     "git": {
       "iconPath": "./icons/git.svg"
     },
@@ -234,8 +255,17 @@
     "gosum": {
       "iconPath": "./icons/gosum.svg"
     },
+    "graphql": {
+      "iconPath": "./icons/graphql.svg"
+    },
+    "groovy": {
+      "iconPath": "./icons/groovy.svg"
+    },
     "h": {
       "iconPath": "./icons/h.svg"
+    },
+    "handlebars": {
+      "iconPath": "./icons/handlebars.svg"
     },
     "haskell": {
       "iconPath": "./icons/haskell.svg"
@@ -270,8 +300,14 @@
     "js_config": {
       "iconPath": "./icons/js_config.svg"
     },
+    "julia": {
+      "iconPath": "./icons/julia.svg"
+    },
     "key": {
       "iconPath": "./icons/key.svg"
+    },
+    "lib": {
+      "iconPath": "./icons/lib.svg"
     },
     "license": {
       "iconPath": "./icons/license.svg"
@@ -327,6 +363,9 @@
     "python_alt": {
       "iconPath": "./icons/python_alt.svg"
     },
+    "r": {
+      "iconPath": "./icons/r.svg"
+    },
     "readme": {
       "iconPath": "./icons/readme.svg"
     },
@@ -338,6 +377,9 @@
     },
     "sass": {
       "iconPath": "./icons/sass.svg"
+    },
+    "shader": {
+      "iconPath": "./icons/shader.svg"
     },
     "sonar": {
       "iconPath": "./icons/sonar.svg"
@@ -356,6 +398,9 @@
     },
     "test_ts": {
       "iconPath": "./icons/test_ts.svg"
+    },
+    "tex": {
+      "iconPath": "./icons/tex.svg"
     },
     "text": {
       "iconPath": "./icons/text.svg"
@@ -415,6 +460,12 @@
     "cert": "certificate",
     "crt": "certificate",
     "pfx": "certificate",
+    "clj": "clojure",
+    "cljs": "clojure",
+    "cljc": "clojure",
+    "coffee": "coffee",
+    "cson": "coffee",
+    "iced": "coffee",
     "cs": "csharp",
     "csx": "csharp",
     "cc": "cpp",
@@ -425,13 +476,25 @@
     "mm": "cpp",
     "mii": "cpp",
     "ii": "cpp",
+    "cu": "cuda",
+    "cuh": "cuda",
+    "dart": "dart",
     "dockerfile": "docker",
     "dockerignore": "docker",
     "env": "dotenv",
     "d.ts": "dts",
     "d.cts": "dts",
     "d.mts": "dts",
+    "fs": "fsharp",
+    "fsx": "fsharp",
+    "fsi": "fsharp",
+    "fsproj": "fsharp",
+    "graphql": "graphql",
+    "gql": "graphql",
+    "groovy": "groovy",
     "h": "h",
+    "hbs": "handlebars",
+    "mustache": "handlebars",
     "hs": "haskell",
     "hh": "hpp",
     "hpp": "hpp",
@@ -505,12 +568,17 @@
     "jsonc": "json",
     "json5": "json",
     "jsonl": "json",
+    "jl": "julia",
     "pub": "key",
     "key": "key",
     "pem": "key",
     "asc": "key",
     "gpg": "key",
     "passwd": "key",
+    "lib": "lib",
+    "bib": "lib",
+    "dll": "properties",
+    "dlc": "properties",
     "js.map": "mapjs",
     "cjs.map": "mapjs",
     "mjs.map": "mapjs",
@@ -526,8 +594,6 @@
     "psc1": "powershell",
     "pssc": "powershell",
     "ini": "properties",
-    "dlc": "properties",
-    "dll": "properties",
     "config": "properties",
     "conf": "properties",
     "properties": "properties",
@@ -541,10 +607,48 @@
     "pyc": "python_alt",
     "pyo": "python_alt",
     "pyd": "python_alt",
+    "r": "r",
+    "rmd": "r",
     "rs": "rust",
     "ron": "rust",
     "scss": "sass",
     "sass": "sass",
+    "glsl": "shader",
+    "vert": "shader",
+    "tesc": "shader",
+    "tese": "shader",
+    "geom": "shader",
+    "frag": "shader",
+    "comp": "shader",
+    "vert.glsl": "shader",
+    "tesc.glsl": "shader",
+    "tese.glsl": "shader",
+    "geom.glsl": "shader",
+    "frag.glsl": "shader",
+    "comp.glsl": "shader",
+    "vertex.glsl": "shader",
+    "geometry.glsl": "shader",
+    "fragment.glsl": "shader",
+    "compute.glsl": "shader",
+    "ts.glsl": "shader",
+    "gs.glsl": "shader",
+    "vs.glsl": "shader",
+    "fs.glsl": "shader",
+    "shader": "shader",
+    "vertexshader": "shader",
+    "fragmentshader": "shader",
+    "geometryshader": "shader",
+    "computeshader": "shader",
+    "hlsl": "shader",
+    "pixel.hlsl": "shader",
+    "geometry.hlsl": "shader",
+    "compute.hlsl": "shader",
+    "tessellation.hlsl": "shader",
+    "px.hlsl": "shader",
+    "geom.hlsl": "shader",
+    "comp.hlsl": "shader",
+    "tess.hlsl": "shader",
+    "wgsl": "shader",
     "xlsx": "spreadsheet",
     "xlsm": "spreadsheet",
     "xls": "spreadsheet",
@@ -584,6 +688,10 @@
     "test.tsx": "test_ts",
     "tsx.snap": "test_ts",
     "cy.tsx": "test_ts",
+    "tex": "tex",
+    "sty": "tex",
+    "dtx": "tex",
+    "ltx": "tex",
     "txt": "text",
     "toml": "toml",
     "tsconfig.json": "ts_config",
@@ -669,6 +777,7 @@
     "cypress.config.js": "cypress",
     "cypress.config.cjs": "cypress",
     "cypress.config.mjs": "cypress",
+    ".pubignore": "dart",
     "dockerfile": "docker",
     "docker-compose.yml": "docker",
     "docker-compose.yaml": "docker",
@@ -690,6 +799,21 @@
     ".git-include": "git",
     "go.mod": "gomod",
     "go.sum": "gosum",
+    ".graphqlconfig": "graphql",
+    ".graphqlrc": "graphql",
+    ".graphqlrc.json": "graphql",
+    ".graphqlrc.js": "graphql",
+    ".graphqlrc.cjs": "graphql",
+    ".graphqlrc.ts": "graphql",
+    ".graphqlrc.toml": "graphql",
+    ".graphqlrc.yaml": "graphql",
+    ".graphqlrc.yml": "graphql",
+    "graphql.config.json": "graphql",
+    "graphql.config.js": "graphql",
+    "graphql.config.ts": "graphql",
+    "graphql.config.toml": "graphql",
+    "graphql.config.yaml": "graphql",
+    "graphql.config.yml": "graphql",
     ".huskyrc": "husky",
     "husky.config.js": "husky",
     ".huskyrc.json": "husky",
@@ -788,6 +912,7 @@
     ".prettierrc.yml": "prettier",
     ".prettierignore": "prettier",
     ".prettierrc.toml": "prettier",
+    ".Rhistory": "r",
     "readme.md": "readme",
     "readme.rst": "readme",
     "readme.txt": "readme",
@@ -1047,21 +1172,32 @@
     "awk": "bash",
     "shellscript": "bash",
     "bat": "bat",
+    "code-text-binary": "binary",
     "c": "c",
     "objective-c": "c",
     "objective-cpp": "c",
+    "clojure": "clojure",
+    "coffeescript": "coffee",
     "cpp": "cpp",
     "csharp": "csharp",
     "css": "css",
     "less": "css",
     "postcss": "css",
+    "cuda-cpp": "cuda",
+    "dart": "dart",
+    "diff": "diff",
     "dockerfile": "docker",
+    "dockercompose": "docker",
     "editorconfig": "editorconfig",
+    "fsharp": "fsharp",
     "git": "git",
     "git-commit": "git",
     "git-rebase": "git",
     "ignore": "git",
     "go": "go",
+    "graphql": "graphql",
+    "groovy": "groovy",
+    "handlebars": "handlebars",
     "haskell": "haskell",
     "html": "html",
     "java": "java",
@@ -1070,7 +1206,10 @@
     "jsonc": "json",
     "json5": "json",
     "javascriptreact": "jsx",
+    "julia": "julia",
+    "juliamarkdown": "julia",
     "markdown": "markdown",
+    "mdc": "markdown",
     "pdf": "pdf",
     "php": "php",
     "powershell": "powershell",
@@ -1078,22 +1217,35 @@
     "ini": "properties",
     "properties": "properties",
     "python": "python",
+    "r": "r",
     "rust": "rust",
     "sass": "sass",
     "scss": "sass",
+    "hlsl": "shader",
     "csv": "spreadsheet",
     "tsv": "spreadsheet",
     "psv": "spreadsheet",
     "svelte": "svelte",
     "svg": "svg",
+    "bibtex": "tex",
+    "bibtex-style": "tex",
+    "tex": "tex",
+    "doctex": "tex",
+    "latex": "tex",
+    "latex-expl3": "tex",
     "plaintext": "text",
     "toml": "toml",
     "typescript": "ts",
     "typescriptreact": "tsx",
     "v": "vlang",
+    "vb": "vstudio",
     "vue": "vue",
     "vue-postcss": "vue",
     "vue-html": "vue",
+    "vue-directives": "vue",
+    "vue-injection-markdown": "vue",
+    "vue-interpolations": "vue",
+    "vue-sfc-style-variable-injection": "vue",
     "xml": "xml",
     "xquery": "xml",
     "xsl": "xml",

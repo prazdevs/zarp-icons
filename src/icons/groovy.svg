@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.0px"
+   height="100.0px"
+   viewBox="0 0 100.0 100.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="groovy.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview49788"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="2.9825758"
+     inkscape:cx="-5.6997714"
+     inkscape:cy="68.397257"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid49911" />
+  </sodipodi:namedview>
+  <defs
+     id="defs49783" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#4298b8;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 72.697674,32.846781 c 2.411048,1.205202 3.287791,4.476467 9.425005,21.349304 6.137212,16.872837 -5.698841,26.68663 -5.698841,26.68663 0,0 -41.426188,16.184149 -41.426188,10.674652 -1.095931,-6.026013 -11.836053,-13.601573 -11.836053,-13.601573 0,0 -3.217988,-4.128987 0.356176,-4.949938 C 59.780834,64.676582 66.23168,60.910786 68.31395,51.78568 M 46.176145,67.281142 C 16.878258,68.945469 15.990724,50.585123 16.147639,50.063962 22.869347,27.739017 57.646888,3.5201846 67.218018,7.8818702 87.465672,17.476299 57.096627,60.263736 43.326725,57.983865 10.522215,52.552451 56.258708,17.867835 56.258708,17.867835 69.482942,9.7757594 55.089716,43.004918 49.463937,43.865777"
+       id="path29233"
+       sodipodi:nodetypes="csccscccscscc" />
+  </g>
+</svg>

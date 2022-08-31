@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.0px"
+   height="100.0px"
+   viewBox="0 0 100.0 100.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="diff.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview49788"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="4.2179991"
+     inkscape:cx="83.68897"
+     inkscape:cy="53.816987"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid49911" />
+  </sodipodi:namedview>
+  <defs
+     id="defs49783" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       fill="none"
+       stroke="currentColor"
+       d="M 32.599522,32.599523 V 15.199045 A 5.8001592,5.8001592 0 0 1 38.39968,9.3988855 h 46.401273 a 5.8001592,5.8001592 0 0 1 5.800161,5.8001595 v 46.401272 a 5.8001592,5.8001592 0 0 1 -5.800161,5.800162 H 67.400475 M 32.599522,32.599523 H 15.199044 a 5.8001592,5.8001592 0 0 0 -5.8001585,5.800158 v 46.401275 a 5.8001592,5.8001592 0 0 0 5.8001585,5.800159 h 46.401273 a 5.8001592,5.8001592 0 0 0 5.800158,-5.800159 V 67.400479 M 32.599522,32.599523 V 47.09992 m 0,-14.500397 H 47.099919 M 67.400475,67.400479 H 52.900078 m 14.500397,0 V 52.900078 M 52.900078,32.599523 H 67.400475 V 47.09992 m -34.800953,5.800158 v 14.500401 h 14.500397"
+       id="path21515"
+       style="stroke-width:5;stroke-dasharray:none;stroke:#f1502f;stroke-opacity:1" />
+  </g>
+</svg>

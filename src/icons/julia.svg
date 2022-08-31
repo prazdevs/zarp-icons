@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.0px"
+   height="100.0px"
+   viewBox="0 0 100.0 100.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="julia.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview49788"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="4.2179991"
+     inkscape:cx="36.273123"
+     inkscape:cy="45.519213"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid49911" />
+  </sodipodi:namedview>
+  <defs
+     id="defs49783" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       fill="currentColor"
+       d="m 45.221943,70.592976 c 0.0011,10.329571 -8.372438,18.703869 -18.702,18.703869 -10.329562,0 -18.7030368,-8.374299 -18.7020002,-18.703869 -0.00104,-10.32957 8.3724382,-18.703868 18.7020002,-18.703868 10.329562,0 18.703037,8.374298 18.702,18.703868 z M 68.701988,29.422445 C 68.711488,39.758032 60.335584,48.141734 50,48.141734 c -10.335585,0 -18.701988,-8.383697 -18.701988,-18.719289 0,-10.335591 8.366403,-18.71929 18.701987,-18.71929 10.335585,0 18.711551,8.383704 18.701989,18.71929 z m 23.480069,41.170531 c 0,10.328837 -8.373171,18.701994 -18.702,18.701994 -10.32883,0 -18.702001,-8.373156 -18.702001,-18.701994 0,-10.328837 8.373171,-18.701993 18.702001,-18.701993 10.328829,0 18.702,8.373156 18.702,18.701993 z"
+       id="path243"
+       style="fill:none;stroke:#28a745;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cscsccssscsssss" />
+  </g>
+</svg>
