@@ -378,6 +378,12 @@
     "rollup": {
       "iconPath": "./icons/rollup.svg"
     },
+    "ruby": {
+      "iconPath": "./icons/ruby.svg"
+    },
+    "ruby_gem": {
+      "iconPath": "./icons/ruby_gem.svg"
+    },
     "rust": {
       "iconPath": "./icons/rust.svg"
     },
@@ -398,6 +404,9 @@
     },
     "svg": {
       "iconPath": "./icons/svg.svg"
+    },
+    "swift": {
+      "iconPath": "./icons/swift.svg"
     },
     "test_js": {
       "iconPath": "./icons/test_js.svg"
@@ -446,6 +455,9 @@
     },
     "vue_config": {
       "iconPath": "./icons/vue_config.svg"
+    },
+    "windi": {
+      "iconPath": "./icons/windi.svg"
     },
     "xml": {
       "iconPath": "./icons/xml.svg"
@@ -619,6 +631,9 @@
     "rei": "reason",
     "res": "rescript",
     "resi": "rescript",
+    "rb": "ruby",
+    "erb": "ruby",
+    "gemfile": "ruby_gem",
     "rs": "rust",
     "ron": "rust",
     "scss": "sass",
@@ -668,6 +683,7 @@
     "ods": "spreadsheet",
     "svelte": "svelte",
     "svg": "svg",
+    "swift": "swift",
     "spec.js": "test_js",
     "spec.cjs": "test_js",
     "spec.mjs": "test_js",
@@ -954,7 +970,9 @@
     "tsconfig.lib.json": "ts_config",
     "tsconfig.node.json": "ts_config",
     "tsconfig.test.json": "ts_config",
+    "tsconfig.config.json": "ts_config",
     "tsconfig.e2e.json": "ts_config",
+    "tsconfig.vitest.json": "ts_config",
     "tsconfig.web.json": "ts_config",
     "tsconfig.webworker.json": "ts_config",
     "unocss.config.js": "unocss",
@@ -974,7 +992,12 @@
     "vpkg.json": "vlang",
     "v.mod": "vlang",
     "vue.config.js": "vue_config",
-    "vue.config.ts": "vue_config"
+    "vue.config.ts": "vue_config",
+    "windi.config.js": "windi",
+    "windi.config.cjs": "windi",
+    "windi.config.ts": "windi",
+    "windi.config.cts": "windi",
+    "windi.config.json": "windi"
   },
   "folderNames": {
     "components": "folder_components",
@@ -1232,6 +1255,7 @@
     "reason": "reason",
     "reason_lisp": "reason",
     "rescript": "rescript",
+    "ruby": "ruby",
     "rust": "rust",
     "sass": "sass",
     "scss": "sass",
@@ -1243,6 +1267,7 @@
     "psv": "spreadsheet",
     "svelte": "svelte",
     "svg": "svg",
+    "swift": "swift",
     "bibtex": "tex",
     "bibtex-style": "tex",
     "tex": "tex",
@@ -1263,6 +1288,7 @@
     "vue-injection-markdown": "vue",
     "vue-interpolations": "vue",
     "vue-sfc-style-variable-injection": "vue",
+    "windi": "windi",
     "xml": "xml",
     "xquery": "xml",
     "xsl": "xml",

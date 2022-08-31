@@ -104,6 +104,8 @@ export const extensions: IconMap = {
   r: ['r', 'rmd'],
   reason: ['re', 'rei'],
   rescript: ['res', 'resi'],
+  ruby: ['rb', 'erb'],
+  ruby_gem: ['gemfile'],
   rust: ['rs', 'ron'],
   sass: ['scss', 'sass'],
   shader: [
@@ -147,6 +149,7 @@ export const extensions: IconMap = {
   spreadsheet: ['xlsx', 'xlsm', 'xls', 'csv', 'tsv', 'psv', 'ods'],
   svelte: ['svelte'],
   svg: ['svg'],
+  swift: ['swift'],
   test_js: [
     'spec.js',
     'spec.cjs',

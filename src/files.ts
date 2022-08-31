@@ -228,7 +228,9 @@ export const files: IconMap = {
     'tsconfig.lib.json',
     'tsconfig.node.json',
     'tsconfig.test.json',
+    'tsconfig.config.json',
     'tsconfig.e2e.json',
+    'tsconfig.vitest.json',
     'tsconfig.web.json',
     'tsconfig.webworker.json',
   ],
@@ -264,4 +266,11 @@ export const files: IconMap = {
   vlang: ['vpkg.json', 'v.mod'],
   vsutdio: [],
   vue_config: ['vue.config.js', 'vue.config.ts'],
+  windi: [
+    'windi.config.js',
+    'windi.config.cjs',
+    'windi.config.ts',
+    'windi.config.cts',
+    'windi.config.json',
+  ]
 }
