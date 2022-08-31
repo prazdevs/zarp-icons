@@ -369,6 +369,12 @@
     "readme": {
       "iconPath": "./icons/readme.svg"
     },
+    "reason": {
+      "iconPath": "./icons/reason.svg"
+    },
+    "rescript": {
+      "iconPath": "./icons/rescript.svg"
+    },
     "rollup": {
       "iconPath": "./icons/rollup.svg"
     },
@@ -609,6 +615,10 @@
     "pyd": "python_alt",
     "r": "r",
     "rmd": "r",
+    "re": "reason",
+    "rei": "reason",
+    "res": "rescript",
+    "resi": "rescript",
     "rs": "rust",
     "ron": "rust",
     "scss": "sass",
@@ -1218,10 +1228,16 @@
     "properties": "properties",
     "python": "python",
     "r": "r",
+    "rsweave": "r",
+    "reason": "reason",
+    "reason_lisp": "reason",
+    "rescript": "rescript",
     "rust": "rust",
     "sass": "sass",
     "scss": "sass",
     "hlsl": "shader",
+    "glsl": "shader",
+    "wgsl": "shader",
     "csv": "spreadsheet",
     "tsv": "spreadsheet",
     "psv": "spreadsheet",
@@ -1239,6 +1255,7 @@
     "typescriptreact": "tsx",
     "v": "vlang",
     "vb": "vstudio",
+    "testOutput": "vstudio",
     "vue": "vue",
     "vue-postcss": "vue",
     "vue-html": "vue",
