@@ -53,7 +53,6 @@ const todo =[
   { icon: { name: 'jinja' }, ids: ['jinja'] },
   { icon: { name: 'proto' }, ids: ['proto'] },
   { icon: { name: 'python-misc' }, ids: ['pip-requirements'] },
-  { icon: { name: 'lua' }, ids: ['lua'] },
   { icon: { name: 'log' }, ids: ['log'] },
   { icon: { name: 'jupyter' }, ids: ['jupyter'] },
   { icon: { name: 'pug' }, ids: ['jade'] },

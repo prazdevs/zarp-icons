@@ -80,10 +80,13 @@ export const extensions: IconMap = {
   julia: ['jl'],
   key: ['pub', 'key', 'pem', 'asc', 'gpg', 'passwd'],
   lib: ['lib', 'bib', 'dll', 'dlc'],
+  log: ['log'],
+  lua: ['lua'],
   mapjs: ['js.map', 'cjs.map', 'mjs.map'],
   markdown: ['md', 'markdown'],
   nginx: ['nginx', 'nginxconfig'],
   pdf: ['pdf'],
+  perl:  ['pm', 'raku'],
   powershell: ['ps1', 'psm1', 'psd1', 'ps1xml', 'psc1', 'pssc'],
   properties: [
     'ini',

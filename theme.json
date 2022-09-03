@@ -312,6 +312,12 @@
     "license": {
       "iconPath": "./icons/license.svg"
     },
+    "log": {
+      "iconPath": "./icons/log.svg"
+    },
+    "lua": {
+      "iconPath": "./icons/lua.svg"
+    },
     "mapjs": {
       "iconPath": "./icons/mapjs.svg"
     },
@@ -341,6 +347,9 @@
     },
     "pdf": {
       "iconPath": "./icons/pdf.svg"
+    },
+    "perl": {
+      "iconPath": "./icons/perl.svg"
     },
     "php": {
       "iconPath": "./icons/php.svg"
@@ -597,6 +606,8 @@
     "bib": "lib",
     "dll": "properties",
     "dlc": "properties",
+    "log": "log",
+    "lua": "lua",
     "js.map": "mapjs",
     "cjs.map": "mapjs",
     "mjs.map": "mapjs",
@@ -605,6 +616,8 @@
     "nginx": "nginx",
     "nginxconfig": "nginx",
     "pdf": "pdf",
+    "pm": "perl",
+    "raku": "perl",
     "ps1": "powershell",
     "psm1": "powershell",
     "psd1": "powershell",
@@ -907,6 +920,7 @@
     "licence.md": "license",
     "licence.rst": "license",
     "licence.txt": "license",
+    ".luacheckrc": "lua",
     "nest-cli.json": "nest",
     ".nest-cli.json": "nest",
     "nestconfig.json": "nest",
@@ -1241,9 +1255,13 @@
     "javascriptreact": "jsx",
     "julia": "julia",
     "juliamarkdown": "julia",
+    "log": "log",
+    "lua": "lua",
     "markdown": "markdown",
     "mdc": "markdown",
     "pdf": "pdf",
+    "perl": "perl",
+    "perl6": "perl",
     "php": "php",
     "powershell": "powershell",
     "makefile": "properties",

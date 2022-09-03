@@ -166,6 +166,7 @@ export const files: IconMap = {
     'licence.rst',
     'licence.txt',
   ],
+  lua: ['.luacheckrc'],
   nest: [
     'nest-cli.json',
     '.nest-cli.json',
