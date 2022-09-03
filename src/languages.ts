@@ -34,6 +34,7 @@ export const languages: IconMap = {
   php: ['php'],
   powershell: ['powershell'],
   properties: ['makefile', 'ini', 'properties'],
+  pug: ['pug', 'jade'],
   python: ['python'],
   r: ['r', 'rsweave'],
   razor: ['razor', 'aspnetcorerazor'],

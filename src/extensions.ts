@@ -102,6 +102,7 @@ export const extensions: IconMap = {
     'cfg',
     'prefs',
   ],
+  pug: ['jade', 'pug'],
   python: ['py'],
   python_alt: ['pyc', 'pyo', 'pyd'],
   r: ['r', 'rmd'],

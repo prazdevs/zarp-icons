@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="4.2179991"
-     inkscape:cx="12.802279"
-     inkscape:cy="60.218126"
+     inkscape:cx="13.157898"
+     inkscape:cy="60.455205"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1912"
@@ -48,6 +48,6 @@
        stroke="currentColor"
        d="m 67.751053,50.000593 a 17.755804,17.755804 0 1 1 -35.511608,0 17.755804,17.755804 0 0 1 35.511608,0 z m 0,0 v 5.918603 a 11.837203,11.837203 0 1 0 23.674404,0 V 50.000593 A 41.430208,41.430208 0 1 0 73.669654,84.002958"
        id="path13841"
-       style="stroke-width:5;stroke-dasharray:none;stroke:#5c2d91;stroke-opacity:1" />
+       style="stroke-width:5;stroke-dasharray:none;stroke:#9562ce;stroke-opacity:1" />
   </g>
 </svg>

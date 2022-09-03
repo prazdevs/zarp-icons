@@ -366,6 +366,9 @@
     "properties": {
       "iconPath": "./icons/properties.svg"
     },
+    "pug": {
+      "iconPath": "./icons/pug.svg"
+    },
     "python": {
       "iconPath": "./icons/python.svg"
     },
@@ -637,6 +640,8 @@
     "props": "properties",
     "cfg": "properties",
     "prefs": "properties",
+    "jade": "pug",
+    "pug": "pug",
     "py": "python",
     "pyc": "python_alt",
     "pyo": "python_alt",
@@ -957,6 +962,9 @@
     ".prettierrc.yml": "prettier",
     ".prettierignore": "prettier",
     ".prettierrc.toml": "prettier",
+    ".pug-lintrc": "pug",
+    ".pug-lintrc.js": "pug",
+    ".pug-lintrc.json": "pug",
     ".Rhistory": "r",
     "readme.md": "readme",
     "readme.rst": "readme",
@@ -1272,6 +1280,8 @@
     "makefile": "properties",
     "ini": "properties",
     "properties": "properties",
+    "pug": "pug",
+    "jade": "pug",
     "python": "python",
     "r": "r",
     "rsweave": "r",

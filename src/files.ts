@@ -198,6 +198,7 @@ export const files: IconMap = {
     '.prettierignore',
     '.prettierrc.toml',
   ],
+  pug: ['.pug-lintrc', '.pug-lintrc.js', '.pug-lintrc.json'],
   r: ['.Rhistory'],
   readme: ['readme.md', 'readme.rst', 'readme.txt', 'readme'],
   rollup: [
