@@ -375,6 +375,9 @@
     "r": {
       "iconPath": "./icons/r.svg"
     },
+    "razor": {
+      "iconPath": "./icons/razor.svg"
+    },
     "readme": {
       "iconPath": "./icons/readme.svg"
     },
@@ -640,6 +643,8 @@
     "pyd": "python_alt",
     "r": "r",
     "rmd": "r",
+    "cshtml": "razor",
+    "vbhtml": "razor",
     "re": "reason",
     "rei": "reason",
     "res": "rescript",
@@ -1270,6 +1275,8 @@
     "python": "python",
     "r": "r",
     "rsweave": "r",
+    "razor": "razor",
+    "aspnetcorerazor": "razor",
     "reason": "reason",
     "reason_lisp": "reason",
     "rescript": "rescript",

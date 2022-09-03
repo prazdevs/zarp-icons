@@ -105,6 +105,7 @@ export const extensions: IconMap = {
   python: ['py'],
   python_alt: ['pyc', 'pyo', 'pyd'],
   r: ['r', 'rmd'],
+  razor: ['cshtml', 'vbhtml'],
   reason: ['re', 'rei'],
   rescript: ['res', 'resi'],
   ruby: ['rb', 'erb'],

@@ -36,6 +36,7 @@ export const languages: IconMap = {
   properties: ['makefile', 'ini', 'properties'],
   python: ['python'],
   r: ['r', 'rsweave'],
+  razor: ['razor', 'aspnetcorerazor'],
   reason: ['reason', 'reason_lisp'],
   rescript: ['rescript'],
   ruby: ['ruby'],
