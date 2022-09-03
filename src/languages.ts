@@ -10,6 +10,7 @@ export const languages: IconMap = {
   css: ['css', 'less', 'postcss'],
   cuda: ['cuda-cpp'],
   dart: ['dart'],
+  database: ['sql'],
   diff: ['diff'],
   docker: ['dockerfile', 'dockercompose'],
   editorconfig: ['editorconfig'],

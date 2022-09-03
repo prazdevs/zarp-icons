@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.0px"
+   height="100.0px"
+   viewBox="0 0 100.0 100.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="database.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7909"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="4.2179991"
+     inkscape:cx="41.014708"
+     inkscape:cy="49.78664"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid8032" />
+  </sodipodi:namedview>
+  <defs
+     id="defs7904" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       fill="none"
+       stroke="currentColor"
+       stroke-linecap="square"
+       d="m 92.117675,19.937005 c 0,6.636544 -18.856687,12.021588 -42.117675,12.021588 -23.260992,0 -42.1176753,-5.385044 -42.1176753,-12.015572 m 84.2353503,0 C 92.117675,13.294446 73.260988,7.9094012 50,7.9094012 c -23.260992,0 -42.1176753,5.3850448 -42.1176753,12.0276038 m 84.2353503,0 v 60.125991 c 0,6.63654 -18.856687,12.027603 -42.117675,12.027603 -23.260992,0 -42.1176753,-5.385045 -42.1176753,-12.027603 V 19.943021 M 92.117675,50.003007 c 0,6.642559 -18.856687,12.033622 -42.117675,12.033622 -23.260992,0 -42.1176753,-5.391063 -42.1176753,-12.033622"
+       id="path26503"
+       style="stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke:#4d8dc0;stroke-opacity:1" />
+  </g>
+</svg>

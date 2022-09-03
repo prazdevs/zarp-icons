@@ -72,6 +72,9 @@
     "dart": {
       "iconPath": "./icons/dart.svg"
     },
+    "database": {
+      "iconPath": "./icons/database.svg"
+    },
     "diff": {
       "iconPath": "./icons/diff.svg"
     },
@@ -512,6 +515,19 @@
     "cu": "cuda",
     "cuh": "cuda",
     "dart": "dart",
+    "pdb": "database",
+    "sql": "database",
+    "pks": "database",
+    "pkb": "database",
+    "accdb": "database",
+    "mdb": "database",
+    "sqlite": "database",
+    "sqlite3": "database",
+    "pgsql": "database",
+    "postgres": "database",
+    "psql": "database",
+    "db": "database",
+    "db3": "database",
     "dockerfile": "docker",
     "dockerignore": "docker",
     "env": "dotenv",
@@ -1245,6 +1261,7 @@
     "postcss": "css",
     "cuda-cpp": "cuda",
     "dart": "dart",
+    "sql": "database",
     "diff": "diff",
     "dockerfile": "docker",
     "dockercompose": "docker",
