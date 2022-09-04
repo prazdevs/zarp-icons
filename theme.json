@@ -6,6 +6,9 @@
   "rootFolder": "folder_root",
   "rootFolderExpanded": "folder_root_open",
   "iconDefinitions": {
+    "angular": {
+      "iconPath": "./icons/angular.svg"
+    },
     "babel": {
       "iconPath": "./icons/babel.svg"
     },
@@ -50,6 +53,9 @@
     },
     "coffee": {
       "iconPath": "./icons/coffee.svg"
+    },
+    "commitlint": {
+      "iconPath": "./icons/commitlint.svg"
     },
     "contributing": {
       "iconPath": "./icons/contributing.svg"
@@ -102,6 +108,12 @@
     "folder": {
       "iconPath": "./icons/folder.svg"
     },
+    "folder_api": {
+      "iconPath": "./icons/folder_api.svg"
+    },
+    "folder_api_open": {
+      "iconPath": "./icons/folder_api_open.svg"
+    },
     "folder_components": {
       "iconPath": "./icons/folder_components.svg"
     },
@@ -144,6 +156,18 @@
     "folder_examples_open": {
       "iconPath": "./icons/folder_examples_open.svg"
     },
+    "folder_fonts": {
+      "iconPath": "./icons/folder_fonts.svg"
+    },
+    "folder_fonts_open": {
+      "iconPath": "./icons/folder_fonts_open.svg"
+    },
+    "folder_functions": {
+      "iconPath": "./icons/folder_functions.svg"
+    },
+    "folder_functions_open": {
+      "iconPath": "./icons/folder_functions_open.svg"
+    },
     "folder_github": {
       "iconPath": "./icons/folder_github.svg"
     },
@@ -155,6 +179,12 @@
     },
     "folder_husky_open": {
       "iconPath": "./icons/folder_husky_open.svg"
+    },
+    "folder_images": {
+      "iconPath": "./icons/folder_images.svg"
+    },
+    "folder_images_open": {
+      "iconPath": "./icons/folder_images_open.svg"
     },
     "folder_layouts": {
       "iconPath": "./icons/folder_layouts.svg"
@@ -237,6 +267,12 @@
     "folder_test_open": {
       "iconPath": "./icons/folder_test_open.svg"
     },
+    "folder_views": {
+      "iconPath": "./icons/folder_views.svg"
+    },
+    "folder_views_open": {
+      "iconPath": "./icons/folder_views_open.svg"
+    },
     "folder_vscode": {
       "iconPath": "./icons/folder_vscode.svg"
     },
@@ -248,6 +284,9 @@
     },
     "git": {
       "iconPath": "./icons/git.svg"
+    },
+    "gitpod": {
+      "iconPath": "./icons/gitpod.svg"
     },
     "go": {
       "iconPath": "./icons/go.svg"
@@ -408,6 +447,9 @@
     "sass": {
       "iconPath": "./icons/sass.svg"
     },
+    "search": {
+      "iconPath": "./icons/search.svg"
+    },
     "shader": {
       "iconPath": "./icons/shader.svg"
     },
@@ -425,6 +467,9 @@
     },
     "swift": {
       "iconPath": "./icons/swift.svg"
+    },
+    "tailwind": {
+      "iconPath": "./icons/tailwind.svg"
     },
     "test_js": {
       "iconPath": "./icons/test_js.svg"
@@ -450,6 +495,9 @@
     "ts_config": {
       "iconPath": "./icons/ts_config.svg"
     },
+    "unity": {
+      "iconPath": "./icons/unity.svg"
+    },
     "unocss": {
       "iconPath": "./icons/unocss.svg"
     },
@@ -474,6 +522,9 @@
     "vue_config": {
       "iconPath": "./icons/vue_config.svg"
     },
+    "webpack": {
+      "iconPath": "./icons/webpack.svg"
+    },
     "windi": {
       "iconPath": "./icons/windi.svg"
     },
@@ -485,6 +536,7 @@
     }
   },
   "fileExtensions": {
+    "ng-template": "angular",
     "bash": "bash",
     "sh": "bash",
     "awk": "bash",
@@ -760,6 +812,7 @@
     "txt": "text",
     "toml": "toml",
     "tsconfig.json": "ts_config",
+    "unity": "unity",
     "v": "vlang",
     "vscodeignore": "vscode",
     "vsixmanifest": "vscode",
@@ -794,6 +847,9 @@
     "yaml": "yaml"
   },
   "fileNames": {
+    "angular-cli.json": "angular",
+    ".angular-cli.json": "angular",
+    "angular.json": "angular",
     ".babelrc": "babel",
     ".babelrc.cjs": "babel",
     ".babelrc.js": "babel",
@@ -832,6 +888,20 @@
     "code_of_conduct.txt": "code_of_conduct",
     ".codeclimate.yml": "codeclimate",
     "codeowners": "codeowners",
+    ".commitlintrc": "commitlint",
+    ".commitlintrc.js": "commitlint",
+    ".commitlintrc.cjs": "commitlint",
+    ".commitlintrc.ts": "commitlint",
+    ".commitlintrc.cts": "commitlint",
+    ".commitlintrc.json": "commitlint",
+    ".commitlintrc.yaml": "commitlint",
+    ".commitlintrc.yml": "commitlint",
+    ".commitlint.yaml": "commitlint",
+    ".commitlint.yml": "commitlint",
+    "commitlint.config.js": "commitlint",
+    "commitlint.config.cjs": "commitlint",
+    "commitlint.config.ts": "commitlint",
+    "commitlint.config.cts": "commitlint",
     "contributing": "contributing",
     "contributing.md": "contributing",
     "contributing.rst": "contributing",
@@ -862,6 +932,7 @@
     ".gitmodules": "git",
     ".gitkeep": "git",
     ".git-include": "git",
+    ".gitpod.yml": "gitpod",
     "go.mod": "gomod",
     "go.sum": "gosum",
     ".graphqlconfig": "graphql",
@@ -1003,6 +1074,12 @@
     "sonar-project.properties": "sonar",
     "svelte.config.js": "svelte",
     "svelte.config.cjs": "svelte",
+    "tailwind.js": "tailwind",
+    "tailwind.ts": "tailwind",
+    "tailwind.config.js": "tailwind",
+    "tailwind.config.cjs": "tailwind",
+    "tailwind.config.ts": "tailwind",
+    "tailwind.config.cts": "tailwind",
     "tsconfig.json": "ts_config",
     "tsconfig.app.json": "ts_config",
     "tsconfig.editor.json": "ts_config",
@@ -1036,6 +1113,181 @@
     "v.mod": "vlang",
     "vue.config.js": "vue_config",
     "vue.config.ts": "vue_config",
+    "webpack.js": "webpack",
+    "webpack.cjs": "webpack",
+    "webpack.mjs": "webpack",
+    "webpack.ts": "webpack",
+    "webpack.cts": "webpack",
+    "webpack.mts": "webpack",
+    "webpack.base.js": "webpack",
+    "webpack.base.cjs": "webpack",
+    "webpack.base.mjs": "webpack",
+    "webpack.base.ts": "webpack",
+    "webpack.base.cts": "webpack",
+    "webpack.base.mts": "webpack",
+    "webpack.config.js": "webpack",
+    "webpack.config.cjs": "webpack",
+    "webpack.config.mjs": "webpack",
+    "webpack.config.ts": "webpack",
+    "webpack.config.cts": "webpack",
+    "webpack.config.mts": "webpack",
+    "webpack.common.js": "webpack",
+    "webpack.common.cjs": "webpack",
+    "webpack.common.mjs": "webpack",
+    "webpack.common.ts": "webpack",
+    "webpack.common.cts": "webpack",
+    "webpack.common.mts": "webpack",
+    "webpack.config.common.js": "webpack",
+    "webpack.config.common.cjs": "webpack",
+    "webpack.config.common.mjs": "webpack",
+    "webpack.config.common.ts": "webpack",
+    "webpack.config.common.cts": "webpack",
+    "webpack.config.common.mts": "webpack",
+    "webpack.config.common.babel.js": "webpack",
+    "webpack.config.common.babel.ts": "webpack",
+    "webpack.dev.js": "webpack",
+    "webpack.dev.cjs": "webpack",
+    "webpack.dev.mjs": "webpack",
+    "webpack.dev.ts": "webpack",
+    "webpack.dev.cts": "webpack",
+    "webpack.dev.mts": "webpack",
+    "webpack.development.js": "webpack",
+    "webpack.development.cjs": "webpack",
+    "webpack.development.mjs": "webpack",
+    "webpack.development.ts": "webpack",
+    "webpack.development.cts": "webpack",
+    "webpack.development.mts": "webpack",
+    "webpack.config.dev.js": "webpack",
+    "webpack.config.dev.cjs": "webpack",
+    "webpack.config.dev.mjs": "webpack",
+    "webpack.config.dev.ts": "webpack",
+    "webpack.config.dev.cts": "webpack",
+    "webpack.config.dev.mts": "webpack",
+    "webpack.config.dev.babel.js": "webpack",
+    "webpack.config.dev.babel.ts": "webpack",
+    "webpack.mix.js": "webpack",
+    "webpack.mix.cjs": "webpack",
+    "webpack.mix.mjs": "webpack",
+    "webpack.mix.ts": "webpack",
+    "webpack.mix.cts": "webpack",
+    "webpack.mix.mts": "webpack",
+    "webpack.prod.js": "webpack",
+    "webpack.prod.cjs": "webpack",
+    "webpack.prod.mjs": "webpack",
+    "webpack.prod.ts": "webpack",
+    "webpack.prod.cts": "webpack",
+    "webpack.prod.mts": "webpack",
+    "webpack.prod.config.js": "webpack",
+    "webpack.prod.config.cjs": "webpack",
+    "webpack.prod.config.mjs": "webpack",
+    "webpack.prod.config.ts": "webpack",
+    "webpack.prod.config.cts": "webpack",
+    "webpack.prod.config.mts": "webpack",
+    "webpack.production.js": "webpack",
+    "webpack.production.cjs": "webpack",
+    "webpack.production.mjs": "webpack",
+    "webpack.production.ts": "webpack",
+    "webpack.production.cts": "webpack",
+    "webpack.production.mts": "webpack",
+    "webpack.server.js": "webpack",
+    "webpack.server.cjs": "webpack",
+    "webpack.server.mjs": "webpack",
+    "webpack.server.ts": "webpack",
+    "webpack.server.cts": "webpack",
+    "webpack.server.mts": "webpack",
+    "webpack.client.js": "webpack",
+    "webpack.client.cjs": "webpack",
+    "webpack.client.mjs": "webpack",
+    "webpack.client.ts": "webpack",
+    "webpack.client.cts": "webpack",
+    "webpack.client.mts": "webpack",
+    "webpack.config.server.js": "webpack",
+    "webpack.config.server.cjs": "webpack",
+    "webpack.config.server.mjs": "webpack",
+    "webpack.config.server.ts": "webpack",
+    "webpack.config.server.cts": "webpack",
+    "webpack.config.server.mts": "webpack",
+    "webpack.config.client.js": "webpack",
+    "webpack.config.client.cjs": "webpack",
+    "webpack.config.client.mjs": "webpack",
+    "webpack.config.client.ts": "webpack",
+    "webpack.config.client.cts": "webpack",
+    "webpack.config.client.mts": "webpack",
+    "webpack.config.production.babel.js": "webpack",
+    "webpack.config.production.babel.ts": "webpack",
+    "webpack.config.prod.babel.js": "webpack",
+    "webpack.config.prod.babel.cjs": "webpack",
+    "webpack.config.prod.babel.mjs": "webpack",
+    "webpack.config.prod.babel.ts": "webpack",
+    "webpack.config.prod.babel.cts": "webpack",
+    "webpack.config.prod.babel.mts": "webpack",
+    "webpack.config.prod.js": "webpack",
+    "webpack.config.prod.cjs": "webpack",
+    "webpack.config.prod.mjs": "webpack",
+    "webpack.config.prod.ts": "webpack",
+    "webpack.config.prod.cts": "webpack",
+    "webpack.config.prod.mts": "webpack",
+    "webpack.config.production.js": "webpack",
+    "webpack.config.production.cjs": "webpack",
+    "webpack.config.production.mjs": "webpack",
+    "webpack.config.production.ts": "webpack",
+    "webpack.config.production.cts": "webpack",
+    "webpack.config.production.mts": "webpack",
+    "webpack.config.staging.js": "webpack",
+    "webpack.config.staging.cjs": "webpack",
+    "webpack.config.staging.mjs": "webpack",
+    "webpack.config.staging.ts": "webpack",
+    "webpack.config.staging.cts": "webpack",
+    "webpack.config.staging.mts": "webpack",
+    "webpack.config.babel.js": "webpack",
+    "webpack.config.babel.ts": "webpack",
+    "webpack.config.base.babel.js": "webpack",
+    "webpack.config.base.babel.ts": "webpack",
+    "webpack.config.base.js": "webpack",
+    "webpack.config.base.cjs": "webpack",
+    "webpack.config.base.mjs": "webpack",
+    "webpack.config.base.ts": "webpack",
+    "webpack.config.base.cts": "webpack",
+    "webpack.config.base.mts": "webpack",
+    "webpack.config.staging.babel.js": "webpack",
+    "webpack.config.staging.babel.ts": "webpack",
+    "webpack.config.coffee": "webpack",
+    "webpack.config.test.js": "webpack",
+    "webpack.config.test.cjs": "webpack",
+    "webpack.config.test.mjs": "webpack",
+    "webpack.config.test.ts": "webpack",
+    "webpack.config.test.cts": "webpack",
+    "webpack.config.test.mts": "webpack",
+    "webpack.config.vendor.js": "webpack",
+    "webpack.config.vendor.cjs": "webpack",
+    "webpack.config.vendor.mjs": "webpack",
+    "webpack.config.vendor.ts": "webpack",
+    "webpack.config.vendor.cts": "webpack",
+    "webpack.config.vendor.mts": "webpack",
+    "webpack.config.vendor.production.js": "webpack",
+    "webpack.config.vendor.production.cjs": "webpack",
+    "webpack.config.vendor.production.mjs": "webpack",
+    "webpack.config.vendor.production.ts": "webpack",
+    "webpack.config.vendor.production.cts": "webpack",
+    "webpack.config.vendor.production.mts": "webpack",
+    "webpack.test.js": "webpack",
+    "webpack.test.cjs": "webpack",
+    "webpack.test.mjs": "webpack",
+    "webpack.test.ts": "webpack",
+    "webpack.test.cts": "webpack",
+    "webpack.test.mts": "webpack",
+    "webpack.dist.js": "webpack",
+    "webpack.dist.cjs": "webpack",
+    "webpack.dist.mjs": "webpack",
+    "webpack.dist.ts": "webpack",
+    "webpack.dist.cts": "webpack",
+    "webpack.dist.mts": "webpack",
+    "webpackfile.js": "webpack",
+    "webpackfile.cjs": "webpack",
+    "webpackfile.mjs": "webpack",
+    "webpackfile.ts": "webpack",
+    "webpackfile.cts": "webpack",
+    "webpackfile.mts": "webpack",
     "windi.config.js": "windi",
     "windi.config.cjs": "windi",
     "windi.config.ts": "windi",
@@ -1043,6 +1295,9 @@
     "windi.config.json": "windi"
   },
   "folderNames": {
+    "api": "folder_api",
+    "apis": "folder_api",
+    "restapi": "folder_api",
     "components": "folder_components",
     "widget": "folder_components",
     "widgets": "folder_components",
@@ -1076,9 +1331,44 @@
     "sample": "folder_examples",
     "samples": "folder_examples",
     "sample-data": "folder_examples",
+    "font": "folder_fonts",
+    "fonts": "folder_fonts",
+    "func": "folder_functions",
+    "funcs": "folder_functions",
+    "function": "folder_functions",
+    "functions": "folder_functions",
+    "lambda": "folder_functions",
+    "lambdas": "folder_functions",
+    "logic": "folder_functions",
+    "math": "folder_functions",
+    "maths": "folder_functions",
+    "calc": "folder_functions",
+    "calcs": "folder_functions",
+    "calculation": "folder_functions",
+    "calculations": "folder_functions",
     ".github": "folder_github",
     "husky": "folder_husky",
     ".husky": "folder_husky",
+    "images": "folder_images",
+    "image": "folder_images",
+    "imgs": "folder_images",
+    "img": "folder_images",
+    "icons": "folder_images",
+    "icon": "folder_images",
+    "icos": "folder_images",
+    "ico": "folder_images",
+    "figures": "folder_images",
+    "figure": "folder_images",
+    "figs": "folder_images",
+    "fig": "folder_images",
+    "screenshot": "folder_images",
+    "screenshots": "folder_images",
+    "screengrab": "folder_images",
+    "screengrabs": "folder_images",
+    "pic": "folder_images",
+    "pics": "folder_images",
+    "picture": "folder_images",
+    "pictures": "folder_images",
     "layout": "folder_layouts",
     "layouts": "folder_layouts",
     "_layouts": "folder_layouts",
@@ -1140,10 +1430,20 @@
     "__test__": "folder_test",
     "spec": "folder_test",
     "specs": "folder_test",
+    "view": "folder_views",
+    "views": "folder_views",
+    "screen": "folder_views",
+    "screens": "folder_views",
+    "page": "folder_views",
+    "pages": "folder_views",
+    "html": "folder_views",
     ".vscode": "folder_vscode",
     ".vscode-test": "folder_vscode"
   },
   "folderNamesExpanded": {
+    "api": "folder_api_open",
+    "apis": "folder_api_open",
+    "restapi": "folder_api_open",
     "components": "folder_components_open",
     "widget": "folder_components_open",
     "widgets": "folder_components_open",
@@ -1177,9 +1477,44 @@
     "sample": "folder_examples_open",
     "samples": "folder_examples_open",
     "sample-data": "folder_examples_open",
+    "font": "folder_fonts_open",
+    "fonts": "folder_fonts_open",
+    "func": "folder_functions_open",
+    "funcs": "folder_functions_open",
+    "function": "folder_functions_open",
+    "functions": "folder_functions_open",
+    "lambda": "folder_functions_open",
+    "lambdas": "folder_functions_open",
+    "logic": "folder_functions_open",
+    "math": "folder_functions_open",
+    "maths": "folder_functions_open",
+    "calc": "folder_functions_open",
+    "calcs": "folder_functions_open",
+    "calculation": "folder_functions_open",
+    "calculations": "folder_functions_open",
     ".github": "folder_github_open",
     "husky": "folder_husky_open",
     ".husky": "folder_husky_open",
+    "images": "folder_images_open",
+    "image": "folder_images_open",
+    "imgs": "folder_images_open",
+    "img": "folder_images_open",
+    "icons": "folder_images_open",
+    "icon": "folder_images_open",
+    "icos": "folder_images_open",
+    "ico": "folder_images_open",
+    "figures": "folder_images_open",
+    "figure": "folder_images_open",
+    "figs": "folder_images_open",
+    "fig": "folder_images_open",
+    "screenshot": "folder_images_open",
+    "screenshots": "folder_images_open",
+    "screengrab": "folder_images_open",
+    "screengrabs": "folder_images_open",
+    "pic": "folder_images_open",
+    "pics": "folder_images_open",
+    "picture": "folder_images_open",
+    "pictures": "folder_images_open",
     "layout": "folder_layouts_open",
     "layouts": "folder_layouts_open",
     "_layouts": "folder_layouts_open",
@@ -1241,10 +1576,18 @@
     "__test__": "folder_test_open",
     "spec": "folder_test_open",
     "specs": "folder_test_open",
+    "view": "folder_views_open",
+    "views": "folder_views_open",
+    "screen": "folder_views_open",
+    "screens": "folder_views_open",
+    "page": "folder_views_open",
+    "pages": "folder_views_open",
+    "html": "folder_views_open",
     ".vscode": "folder_vscode_open",
     ".vscode-test": "folder_vscode_open"
   },
   "languageIds": {
+    "ng-template": "angular",
     "awk": "bash",
     "shellscript": "bash",
     "bat": "bat",
@@ -1311,6 +1654,7 @@
     "rust": "rust",
     "sass": "sass",
     "scss": "sass",
+    "search-result": "search",
     "hlsl": "shader",
     "glsl": "shader",
     "wgsl": "shader",
@@ -1330,6 +1674,7 @@
     "toml": "toml",
     "typescript": "ts",
     "typescriptreact": "tsx",
+    "shaderlab": "unity",
     "v": "vlang",
     "vb": "vstudio",
     "testOutput": "vstudio",

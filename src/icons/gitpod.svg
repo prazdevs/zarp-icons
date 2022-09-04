@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.0px"
+   height="100.0px"
+   viewBox="0 0 100.0 100.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="gitpod.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7909"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="5.9651515"
+     inkscape:cx="62.194564"
+     inkscape:cy="54.98603"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="SVGRoot">
+    <inkscape:grid
+       type="xygrid"
+       id="grid8032" />
+  </sodipodi:namedview>
+  <defs
+     id="defs7904">
+    <clipPath
+       id="svgIDa">
+      <path
+         fill="#ffffff"
+         d="M 0,0 H 24 V 24 H 0 Z"
+         id="path3890" />
+    </clipPath>
+    <clipPath
+       id="clipPath4034">
+      <path
+         fill="#ffffff"
+         d="M 0,0 H 24 V 24 H 0 Z"
+         id="path4032" />
+    </clipPath>
+    <linearGradient
+       id="svgIDa-8"
+       x1="22.069"
+       x2="8.9370003"
+       y1="27.785"
+       y2="7.2579999"
+       gradientTransform="matrix(3.0835605,0,0,-3.0835605,-2.4919157,105.79344)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#ffb45b"
+         id="stop12232" />
+      <stop
+         offset="1"
+         stop-color="#ff8a00"
+         id="stop12234" />
+    </linearGradient>
+  </defs>
+  <path
+     fill="url(#svgIDa)"
+     fill-rule="evenodd"
+     d="M 57.094634,12.548557 A 8.2457081,8.2457081 0 0 1 54.052989,23.761651 L 29.696071,37.760938 a 2.0792492,2.0792492 0 0 0 -1.039626,1.805977 v 21.980633 a 2.0792492,2.0792492 0 0 0 1.039626,1.805977 l 19.28355,11.082398 a 2.0465753,2.0465753 0 0 0 2.046576,0 L 70.30678,63.359465 a 2.0792492,2.0792492 0 0 0 1.039624,-1.805976 V 47.889852 l -17.33203,9.825937 A 8.1417456,8.1417456 0 0 1 42.884451,54.596916 8.2457081,8.2457081 0 0 1 45.985502,43.401644 L 70.785007,29.328098 a 11.334878,11.334878 0 0 1 16.901325,9.92693 v 23.96186 A 15.659717,15.659717 0 0 1 79.850534,76.797356 L 57.715438,89.519391 a 15.475554,15.475554 0 0 1 -15.430999,0 L 20.149348,76.794385 A 15.659717,15.659717 0 0 1 12.313549,63.213919 V 37.900545 A 15.656746,15.656746 0 0 1 20.149348,24.320077 L 45.946888,9.4920613 a 8.1476864,8.1476864 0 0 1 11.147746,3.0564957 z"
+     id="path12239"
+     style="fill:none;stroke:#ffae33;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+</svg>

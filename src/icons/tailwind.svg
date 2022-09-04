@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.0px"
+   height="100.0px"
+   viewBox="0 0 100.0 100.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="tailwind.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7909"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="5.9651515"
+     inkscape:cx="62.194564"
+     inkscape:cy="54.98603"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="SVGRoot">
+    <inkscape:grid
+       type="xygrid"
+       id="grid8032" />
+  </sodipodi:namedview>
+  <defs
+     id="defs7904">
+    <clipPath
+       id="svgIDa">
+      <path
+         fill="#ffffff"
+         d="M 0,0 H 24 V 24 H 0 Z"
+         id="path3890" />
+    </clipPath>
+    <clipPath
+       id="clipPath4034">
+      <path
+         fill="#ffffff"
+         d="M 0,0 H 24 V 24 H 0 Z"
+         id="path4032" />
+    </clipPath>
+  </defs>
+  <path
+     fill="none"
+     stroke="currentColor"
+     stroke-linejoin="round"
+     d="m 50,22.737307 c -11.310991,0 -18.375056,6.058374 -21.204318,18.175128 4.240865,-6.058374 9.190558,-8.330266 14.843022,-6.815673 3.229113,0.866345 5.531298,3.374513 8.081873,6.149251 4.162104,4.519549 8.972455,9.753986 19.483737,9.753986 11.310991,0 18.375055,-6.058378 21.204318,-18.175129 C 88.16777,37.883247 83.218074,40.155138 77.56561,38.640545 74.336497,37.774196 72.034313,35.266027 69.483737,32.491292 65.321634,27.971744 60.511282,22.737307 50,22.737307 Z M 28.795682,50 C 17.484694,50 10.420627,56.058375 7.5913677,68.175128 11.832229,62.116749 16.781922,59.844859 22.434386,61.359455 c 3.229116,0.866345 5.5313,3.374514 8.081876,6.14925 4.162104,4.51955 8.972452,9.753988 19.483738,9.753988 11.310987,0 18.375055,-6.058378 21.204314,-18.175129 -4.240861,6.058375 -9.190555,8.330266 -14.843019,6.815674 -3.229116,-0.866349 -5.5313,-3.374516 -8.081875,-6.149254 C 44.117316,55.234437 39.306964,50 28.795682,50 Z"
+     clip-rule="evenodd"
+     id="path8862"
+     style="stroke-width:5;stroke-dasharray:none;stroke:#38bdf8;stroke-opacity:1" />
+</svg>

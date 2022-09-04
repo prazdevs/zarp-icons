@@ -1,4 +1,5 @@
 export const languages: IconMap = {
+  angular: ['ng-template'],
   bash: ['awk', 'shellscript'],
   bat: ['bat'],
   binary: ['code-text-binary'],
@@ -44,6 +45,7 @@ export const languages: IconMap = {
   ruby: ['ruby'],
   rust: ['rust'],
   sass: ['sass', 'scss'],
+  search: ['search-result'],
   shader: ['hlsl', 'hlsl', 'glsl', 'wgsl'],
   spreadsheet: ['csv', 'tsv', 'psv'],
   svelte: ['svelte'],
@@ -54,6 +56,7 @@ export const languages: IconMap = {
   toml: ['toml'],
   ts: ['typescript'],
   tsx: ['typescriptreact'],
+  unity: ['shaderlab'],
   vlang: ['v'],
   vstudio: ['vb', 'testOutput'],
   vue: [

@@ -1,4 +1,5 @@
 export const extensions: IconMap = {
+  angular: ['ng-template'],
   bash: ['bash', 'sh', 'awk'],
   bat: ['bat'],
   c: ['c', 'i', 'mi'],
@@ -208,6 +209,7 @@ export const extensions: IconMap = {
   text: ['txt'],
   toml: ['toml'],
   ts_config: ['tsconfig.json'],
+  unity: ['unity'],
   vlang: ['v'],
   vscode: [
     'vscodeignore',

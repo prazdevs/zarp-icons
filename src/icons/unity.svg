@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.0px"
+   height="100.0px"
+   viewBox="0 0 100.0 100.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="unity.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7909"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="4.2179991"
+     inkscape:cx="-10.905645"
+     inkscape:cy="43.622579"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="SVGRoot">
+    <inkscape:grid
+       type="xygrid"
+       id="grid8032" />
+  </sodipodi:namedview>
+  <defs
+     id="defs7904">
+    <clipPath
+       id="svgIDa">
+      <path
+         fill="#ffffff"
+         d="M 0,0 H 24 V 24 H 0 Z"
+         id="path3890" />
+    </clipPath>
+    <clipPath
+       id="clipPath4034">
+      <path
+         fill="#ffffff"
+         d="M 0,0 H 24 V 24 H 0 Z"
+         id="path4032" />
+    </clipPath>
+  </defs>
+  <path
+     stroke="currentColor"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     d="m 3.6567452,13.042907 h 9.9076158 m -9.9076158,0 4.1716271,4.69308 M 3.6567452,13.042907 7.8283723,8.349826 m 5.7359887,4.693081 5.214533,-9.3861615 m -5.214533,9.3861615 5.214533,7.300347 m 0,-16.6865085 -6.25744,1.0429068 m 6.25744,-1.0429068 1.564361,5.7359873 m -1.564361,10.9505212 1.564361,-5.735986 m -1.564361,5.735986 -6.25744,-0.521453"
+     id="path3886"
+     style="stroke-width:0.988193;stroke-dasharray:none;stroke:#e0efef;stroke-opacity:1"
+     transform="matrix(5.0597385,0,0,5.0597385,-10.716862,-10.716862)" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+</svg>
