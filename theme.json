@@ -285,6 +285,9 @@
     "git": {
       "iconPath": "./icons/git.svg"
     },
+    "gitlab": {
+      "iconPath": "./icons/gitlab.svg"
+    },
     "gitpod": {
       "iconPath": "./icons/gitpod.svg"
     },
@@ -932,6 +935,7 @@
     ".gitmodules": "git",
     ".gitkeep": "git",
     ".git-include": "git",
+    "gitlab-ci.yml": "gitlab",
     ".gitpod.yml": "gitpod",
     "go.mod": "gomod",
     "go.sum": "gosum",
@@ -1292,7 +1296,10 @@
     "windi.config.cjs": "windi",
     "windi.config.ts": "windi",
     "windi.config.cts": "windi",
-    "windi.config.json": "windi"
+    "windi.config.json": "windi",
+    ".yamllint": "yaml",
+    ".yamllint.yml": "yaml",
+    ".yamllint.yaml": "yaml"
   },
   "folderNames": {
     "api": "folder_api",

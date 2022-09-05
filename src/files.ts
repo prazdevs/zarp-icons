@@ -91,6 +91,7 @@ export const files: IconMap = {
     '.gitkeep',
     '.git-include',
   ],
+  gitlab: ['gitlab-ci.yml'],
   gitpod: ['.gitpod.yml'],
   gomod: ['go.mod'],
   gosum: ['go.sum'],
@@ -477,5 +478,6 @@ export const files: IconMap = {
     'windi.config.ts',
     'windi.config.cts',
     'windi.config.json',
-  ]
+  ],
+  yaml: ['.yamllint', '.yamllint.yml', '.yamllint.yaml']
 }

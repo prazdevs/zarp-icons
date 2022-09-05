@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.0px"
+   height="100.0px"
+   viewBox="0 0 100.0 100.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="gitlab.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview479"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="2.9825758"
+     inkscape:cx="66.050292"
+     inkscape:cy="68.397257"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid602" />
+  </sodipodi:namedview>
+  <defs
+     id="defs474" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 49.999999,89.067368 v 0 L 65.598545,41.055135 H 34.401454 Z M 12.546114,40.968235 v 0 L 7.7883411,55.545703 c -0.4311293,1.335807 0.041549,2.797584 1.1731495,3.628076 L 49.999999,89.067368 Z m 0,0 h 21.85534 L 24.994535,12.05227 c -0.475971,-1.492106 -2.587258,-1.492106 -3.063223,0 z m 74.929498,0 v 0 l 4.736047,14.577468 c 0.431129,1.335807 -0.04154,2.797584 -1.17315,3.628076 L 49.999999,89.067368 87.475612,41.055135 Z m 0,0 H 65.598545 l 9.40692,-28.915965 c 0.475969,-1.492106 2.587257,-1.492106 3.063224,0 z"
+       style="fill:none;stroke:#fc6d26;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path348" />
+  </g>
+</svg>
