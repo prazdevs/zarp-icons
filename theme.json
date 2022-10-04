@@ -114,6 +114,12 @@
     "folder_api_open": {
       "iconPath": "./icons/folder_api_open.svg"
     },
+    "folder_client": {
+      "iconPath": "./icons/folder_client.svg"
+    },
+    "folder_client_open": {
+      "iconPath": "./icons/folder_client_open.svg"
+    },
     "folder_components": {
       "iconPath": "./icons/folder_components.svg"
     },
@@ -260,6 +266,12 @@
     },
     "folder_scripts_open": {
       "iconPath": "./icons/folder_scripts_open.svg"
+    },
+    "folder_server": {
+      "iconPath": "./icons/folder_server.svg"
+    },
+    "folder_server_open": {
+      "iconPath": "./icons/folder_server_open.svg"
     },
     "folder_src": {
       "iconPath": "./icons/folder_src.svg"
@@ -1348,6 +1360,10 @@
     "api": "folder_api",
     "apis": "folder_api",
     "restapi": "folder_api",
+    "client": "folder_client",
+    "clients": "folder_client",
+    "frontend": "folder_client",
+    "pwa": "folder_client",
     "components": "folder_components",
     "widget": "folder_components",
     "widgets": "folder_components",
@@ -1478,11 +1494,14 @@
     "routes": "folder_routes",
     "router": "folder_routes",
     "routers": "folder_routes",
-    "scripts": "folder_scripts",
     "sass": "folder_sass",
     "_sass": "folder_sass",
     "scss": "folder_sass",
     "_scss": "folder_sass",
+    "scripts": "folder_scripts",
+    "server": "folder_server",
+    "servers": "folder_server",
+    "backend": "folder_server",
     "src": "folder_src",
     "srcs": "folder_src",
     "source": "folder_src",
@@ -1517,6 +1536,10 @@
     "api": "folder_api_open",
     "apis": "folder_api_open",
     "restapi": "folder_api_open",
+    "client": "folder_client_open",
+    "clients": "folder_client_open",
+    "frontend": "folder_client_open",
+    "pwa": "folder_client_open",
     "components": "folder_components_open",
     "widget": "folder_components_open",
     "widgets": "folder_components_open",
@@ -1647,11 +1670,14 @@
     "routes": "folder_routes_open",
     "router": "folder_routes_open",
     "routers": "folder_routes_open",
-    "scripts": "folder_scripts_open",
     "sass": "folder_sass_open",
     "_sass": "folder_sass_open",
     "scss": "folder_sass_open",
     "_scss": "folder_sass_open",
+    "scripts": "folder_scripts_open",
+    "server": "folder_server_open",
+    "servers": "folder_server_open",
+    "backend": "folder_server_open",
     "src": "folder_src_open",
     "srcs": "folder_src_open",
     "source": "folder_src_open",

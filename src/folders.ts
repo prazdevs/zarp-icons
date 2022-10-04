@@ -1,5 +1,6 @@
 export const folders: IconMap = {
   folder_api: ['api', 'apis', 'restapi'],
+  folder_client: ['client', 'clients', 'frontend', 'pwa'],
   folder_components: ['components', 'widget', 'widgets', 'fragments'],
   folder_composables: [
     'hook',
@@ -127,8 +128,9 @@ export const folders: IconMap = {
   ],
   folder_public: ['public', 'www', 'wwwroot', 'web', 'website', 'site'],
   folder_routes: ['routes', 'router', 'routers'],
-  folder_scripts: ['scripts'],
   folder_sass: ['sass', '_sass', 'scss', '_scss'],
+  folder_scripts: ['scripts'],
+  folder_server: ['server', 'servers', 'backend'],
   folder_src: ['src', 'srcs', 'source', 'sources', 'code'],
   folder_styles: ['css', 'stylesheet', 'stylesheets', 'style', 'styles'],
   folder_test: [
