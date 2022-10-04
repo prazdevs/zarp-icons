@@ -72,7 +72,7 @@ export const files: IconMap = {
   ],
   dart: ['.pubignore'],
   docker: ['dockerfile', 'docker-compose.yml', 'docker-compose.yaml'],
-  env: [
+  dotenv: [
     '.env.defaults',
     '.env.example',
     '.env.sample',
