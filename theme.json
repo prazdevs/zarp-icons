@@ -126,6 +126,12 @@
     "folder_composables_open": {
       "iconPath": "./icons/folder_composables_open.svg"
     },
+    "folder_config": {
+      "iconPath": "./icons/folder_config.svg"
+    },
+    "folder_config_open": {
+      "iconPath": "./icons/folder_config_open.svg"
+    },
     "folder_coverage": {
       "iconPath": "./icons/folder_coverage.svg"
     },
@@ -1344,6 +1350,19 @@
     "hooks": "folder_composables",
     "composable": "folder_composables",
     "composables": "folder_composables",
+    "cfg": "folder_config",
+    "cfgs": "folder_config",
+    "conf": "folder_config",
+    "confs": "folder_config",
+    "config": "folder_config",
+    "configs": "folder_config",
+    "configuration": "folder_config",
+    "configurations": "folder_config",
+    "setting": "folder_config",
+    ".setting": "folder_config",
+    "settings": "folder_config",
+    ".settings": "folder_config",
+    "META-INF": "folder_config",
     "coverage": "folder_coverage",
     ".nyc-output": "folder_coverage",
     ".nyc_output": "folder_coverage",
@@ -1490,6 +1509,19 @@
     "hooks": "folder_composables_open",
     "composable": "folder_composables_open",
     "composables": "folder_composables_open",
+    "cfg": "folder_config_open",
+    "cfgs": "folder_config_open",
+    "conf": "folder_config_open",
+    "confs": "folder_config_open",
+    "config": "folder_config_open",
+    "configs": "folder_config_open",
+    "configuration": "folder_config_open",
+    "configurations": "folder_config_open",
+    "setting": "folder_config_open",
+    ".setting": "folder_config_open",
+    "settings": "folder_config_open",
+    ".settings": "folder_config_open",
+    "META-INF": "folder_config_open",
     "coverage": "folder_coverage_open",
     ".nyc-output": "folder_coverage_open",
     ".nyc_output": "folder_coverage_open",
