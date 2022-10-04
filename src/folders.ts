@@ -1,7 +1,14 @@
 export const folders: IconMap = {
   folder_api: ['api', 'apis', 'restapi'],
   folder_components: ['components', 'widget', 'widgets', 'fragments'],
-  folder_composables: ['hook', 'hooks', 'composable', 'composables'],
+  folder_composables: [
+    'hook',
+    'hooks',
+    'composable',
+    'composables',
+    'mixin',
+    'mixins',
+  ],
   folder_config: [
     'cfg',
     'cfgs',
@@ -16,6 +23,16 @@ export const folders: IconMap = {
     'settings',
     '.settings',
     'META-INF',
+  ],
+  folder_controllers: [
+    'controller',
+    'controllers',
+    'service',
+    'services',
+    'provider',
+    'providers',
+    'handler',
+    'handlers',
   ],
   folder_coverage: ['coverage', '.nyc-output', '.nyc_output'],
   folder_cypress: ['cypress', '.cypress'],
