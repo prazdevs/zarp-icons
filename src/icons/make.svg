@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.0px"
+   height="100.0px"
+   viewBox="0 0 100.0 100.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="make.svg"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview137"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="3.389302"
+     inkscape:cx="52.960758"
+     inkscape:cy="34.667906"
+     inkscape:window-width="1440"
+     inkscape:window-height="783"
+     inkscape:window-x="1"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid260" />
+  </sodipodi:namedview>
+  <defs
+     id="defs132" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       fill="none"
+       stroke="currentColor"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="g5478"
+       transform="matrix(4.4371064,0,0,4.6184233,-5.2011925,-5.6020299)"
+       style="stroke:#aaaaaa;stroke-width:1.10452;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         d="m 15,12 -8.5,8.5 c -0.83,0.83 -2.17,0.83 -3,0 0,0 0,0 0,0 a 2.12,2.12 0 0 1 0,-3 L 12,9 m 5.64,6 4.36,-4.36"
+         id="path5474"
+         style="stroke:#aaaaaa;stroke-width:1.10452;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="M 20.91,11.7 19.66,10.45 C 19.06,9.85 18.73,9.05 18.73,8.2 V 7.34 L 16.01,4.6 A 5.56,5.56 0 0 0 12.07,2.96 H 9 L 9.92,3.78 A 6.18,6.18 0 0 1 12,8.4 v 1.56 l 2,2 h 2.47 l 2.26,1.91"
+         id="path5476"
+         style="stroke:#aaaaaa;stroke-width:1.10452;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
