@@ -233,6 +233,7 @@ export const extensions: IconMap = {
     'vcxproj',
     'vcxproj.filters',
   ],
+  workflow: ['workflows/yml', 'workflows/yaml'],
   xml: [
     'xml',
     'plist',

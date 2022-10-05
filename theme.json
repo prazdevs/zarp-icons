@@ -321,6 +321,12 @@
     "folder_vscode_open": {
       "iconPath": "./icons/folder_vscode_open.svg"
     },
+    "folder_workflows": {
+      "iconPath": "./icons/folder_workflows.svg"
+    },
+    "folder_workflows_open": {
+      "iconPath": "./icons/folder_workflows_open.svg"
+    },
     "fsharp": {
       "iconPath": "./icons/fsharp.svg"
     },
@@ -584,6 +590,9 @@
     },
     "windi": {
       "iconPath": "./icons/windi.svg"
+    },
+    "workflow": {
+      "iconPath": "./icons/workflow.svg"
     },
     "xml": {
       "iconPath": "./icons/xml.svg"
@@ -893,6 +902,8 @@
     "vcxitems.filters": "vstudio",
     "vcxproj": "vstudio",
     "vcxproj.filters": "vstudio",
+    "workflows/yml": "workflow",
+    "workflows/yaml": "workflow",
     "xml": "xml",
     "plist": "xml",
     "xsd": "xml",
@@ -1568,7 +1579,11 @@
     "pages": "folder_views",
     "html": "folder_views",
     ".vscode": "folder_vscode",
-    ".vscode-test": "folder_vscode"
+    ".vscode-test": "folder_vscode",
+    "workflow": "folder_workflows",
+    "workflows": "folder_workflows",
+    "ci": "folder_workflows",
+    ".ci": "folder_workflows"
   },
   "folderNamesExpanded": {
     "api": "folder_api_open",
@@ -1748,7 +1763,11 @@
     "pages": "folder_views_open",
     "html": "folder_views_open",
     ".vscode": "folder_vscode_open",
-    ".vscode-test": "folder_vscode_open"
+    ".vscode-test": "folder_vscode_open",
+    "workflow": "folder_workflows_open",
+    "workflows": "folder_workflows_open",
+    "ci": "folder_workflows_open",
+    ".ci": "folder_workflows_open"
   },
   "languageIds": {
     "ng-template": "angular",

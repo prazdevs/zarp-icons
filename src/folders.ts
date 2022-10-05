@@ -148,6 +148,7 @@ export const folders: IconMap = {
   folder_utils: ['util', 'utils', 'utility', 'utilities'],
   folder_views: ['view', 'views', 'screen', 'screens', 'page', 'pages', 'html'],
   folder_vscode: ['.vscode', '.vscode-test'],
+  folder_workflows: ['workflow', 'workflows', 'ci', '.ci']
 }
 
 export const foldersExpanded: IconMap = Object.keys(folders).reduce(
