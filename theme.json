@@ -96,6 +96,9 @@
     "editorconfig": {
       "iconPath": "./icons/editorconfig.svg"
     },
+    "elixir": {
+      "iconPath": "./icons/elixir.svg"
+    },
     "erlang": {
       "iconPath": "./icons/erlang.svg"
     },
@@ -622,6 +625,12 @@
     "d.ts": "dts",
     "d.cts": "dts",
     "d.mts": "dts",
+    "ex": "elixir",
+    "exs": "elixir",
+    "eex": "elixir",
+    "leex": "elixir",
+    "heex": "elixir",
+    "erl": "erlang",
     "fs": "fsharp",
     "fsx": "fsharp",
     "fsi": "fsharp",
@@ -1734,6 +1743,8 @@
     "dockerfile": "docker",
     "dockercompose": "docker",
     "editorconfig": "editorconfig",
+    "elixir": "elixir",
+    "erlang": "erlang",
     "fsharp": "fsharp",
     "git": "git",
     "git-commit": "git",

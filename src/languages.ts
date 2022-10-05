@@ -15,6 +15,8 @@ export const languages: IconMap = {
   diff: ['diff'],
   docker: ['dockerfile', 'dockercompose'],
   editorconfig: ['editorconfig'],
+  elixir: ['elixir'],
+  erlang: ['erlang'],
   fsharp: ['fsharp'],
   git: ['git', 'git-commit', 'git-rebase', 'ignore'],
   go: ['go'],

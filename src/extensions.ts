@@ -28,6 +28,8 @@ export const extensions: IconMap = {
   docker: ['dockerfile', 'dockerignore'],
   dotenv: ['env'],
   dts: ['d.ts', 'd.cts', 'd.mts'],
+  elixir: ['ex', 'exs', 'eex', 'leex', 'heex'],
+  erlang: ['erl'],
   fsharp: ['fs', 'fsx', 'fsi', 'fsproj'],
   graphql: ['graphql', 'gql'],
   groovy: ['groovy'],
