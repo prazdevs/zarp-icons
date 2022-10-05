@@ -62,6 +62,7 @@ export const files: IconMap = {
     'contributing.rst',
     'contributing.txt',
   ],
+  cucumber: ['feature', 'features'],
   cypress: [
     'cypress.json',
     'cypress.env.json',
@@ -320,7 +321,6 @@ export const files: IconMap = {
     'vitest.config.mts',
   ],
   vlang: ['vpkg.json', 'v.mod'],
-  vsutdio: [],
   vue_config: ['vue.config.js', 'vue.config.ts'],
   webpack: [
     'webpack.js',

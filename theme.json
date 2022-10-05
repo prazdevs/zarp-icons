@@ -69,6 +69,9 @@
     "css": {
       "iconPath": "./icons/css.svg"
     },
+    "cucumber": {
+      "iconPath": "./icons/cucumber.svg"
+    },
     "cuda": {
       "iconPath": "./icons/cuda.svg"
     },
@@ -98,6 +101,9 @@
     },
     "elixir": {
       "iconPath": "./icons/elixir.svg"
+    },
+    "elm": {
+      "iconPath": "./icons/elm.svg"
     },
     "erlang": {
       "iconPath": "./icons/erlang.svg"
@@ -378,6 +384,9 @@
     "julia": {
       "iconPath": "./icons/julia.svg"
     },
+    "jupyter": {
+      "iconPath": "./icons/jupyter.svg"
+    },
     "key": {
       "iconPath": "./icons/key.svg"
     },
@@ -434,6 +443,9 @@
     },
     "pnpm": {
       "iconPath": "./icons/pnpm.svg"
+    },
+    "postcss": {
+      "iconPath": "./icons/postcss.svg"
     },
     "powershell": {
       "iconPath": "./icons/powershell.svg"
@@ -630,6 +642,7 @@
     "eex": "elixir",
     "leex": "elixir",
     "heex": "elixir",
+    "elm": "elm",
     "erl": "erlang",
     "fs": "fsharp",
     "fsx": "fsharp",
@@ -715,6 +728,7 @@
     "json5": "json",
     "jsonl": "json",
     "jl": "julia",
+    "ipynb": "jupyter",
     "pub": "key",
     "key": "key",
     "pem": "key",
@@ -951,6 +965,8 @@
     "contributing.md": "contributing",
     "contributing.rst": "contributing",
     "contributing.txt": "contributing",
+    "feature": "cucumber",
+    "features": "cucumber",
     "cypress.json": "cypress",
     "cypress.env.json": "cypress",
     "cypress.config.ts": "cypress",
@@ -1736,6 +1752,7 @@
     "css": "css",
     "less": "css",
     "postcss": "css",
+    "cucumber": "cucumber",
     "cuda-cpp": "cuda",
     "dart": "dart",
     "sql": "database",
@@ -1744,6 +1761,7 @@
     "dockercompose": "docker",
     "editorconfig": "editorconfig",
     "elixir": "elixir",
+    "elm": "elm",
     "erlang": "erlang",
     "fsharp": "fsharp",
     "git": "git",
@@ -1764,6 +1782,7 @@
     "javascriptreact": "jsx",
     "julia": "julia",
     "juliamarkdown": "julia",
+    "jupyter": "jupyter",
     "log": "log",
     "lua": "lua",
     "makefile": "make",
