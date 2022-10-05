@@ -96,6 +96,9 @@
     "editorconfig": {
       "iconPath": "./icons/editorconfig.svg"
     },
+    "erlang": {
+      "iconPath": "./icons/erlang.svg"
+    },
     "eslint": {
       "iconPath": "./icons/eslint.svg"
     },
