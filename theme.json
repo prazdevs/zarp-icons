@@ -303,6 +303,12 @@
     "folder_test_open": {
       "iconPath": "./icons/folder_test_open.svg"
     },
+    "folder_utils": {
+      "iconPath": "./icons/folder_utils.svg"
+    },
+    "folder_utils_open": {
+      "iconPath": "./icons/folder_utils_open.svg"
+    },
     "folder_views": {
       "iconPath": "./icons/folder_views.svg"
     },
@@ -1550,6 +1556,10 @@
     "__test__": "folder_test",
     "spec": "folder_test",
     "specs": "folder_test",
+    "util": "folder_utils",
+    "utils": "folder_utils",
+    "utility": "folder_utils",
+    "utilities": "folder_utils",
     "view": "folder_views",
     "views": "folder_views",
     "screen": "folder_views",
@@ -1726,6 +1736,10 @@
     "__test__": "folder_test_open",
     "spec": "folder_test_open",
     "specs": "folder_test_open",
+    "util": "folder_utils_open",
+    "utils": "folder_utils_open",
+    "utility": "folder_utils_open",
+    "utilities": "folder_utils_open",
     "view": "folder_views_open",
     "views": "folder_views_open",
     "screen": "folder_views_open",

@@ -145,6 +145,7 @@ export const folders: IconMap = {
     'spec',
     'specs',
   ],
+  folder_utils: ['util', 'utils', 'utility', 'utilities'],
   folder_views: ['view', 'views', 'screen', 'screens', 'page', 'pages', 'html'],
   folder_vscode: ['.vscode', '.vscode-test'],
 }
