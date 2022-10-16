@@ -444,6 +444,9 @@
     "license": {
       "iconPath": "./icons/license.svg"
     },
+    "lintstaged": {
+      "iconPath": "./icons/lintstaged.svg"
+    },
     "log": {
       "iconPath": "./icons/log.svg"
     },
@@ -1184,6 +1187,7 @@
     "licence.md": "license",
     "licence.rst": "license",
     "licence.txt": "license",
+    ".lintstagedrc": "lintstaged",
     ".luacheckrc": "lua",
     "nest-cli.json": "nest",
     ".nest-cli.json": "nest",

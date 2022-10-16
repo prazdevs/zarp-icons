@@ -218,6 +218,7 @@ export const files: IconMap = {
     'licence.rst',
     'licence.txt',
   ],
+  lintstaged: ['.lintstagedrc'],
   lua: ['.luacheckrc'],
   nest: [
     'nest-cli.json',

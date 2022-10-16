@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.0px"
+   height="100.0px"
+   viewBox="0 0 100.0 100.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="lintstaged.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview251"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="5.9651515"
+     inkscape:cx="29.001778"
+     inkscape:cy="38.892558"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid374" />
+  </sodipodi:namedview>
+  <defs
+     id="defs246" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#00b3e0;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect3897"
+       width="80.521835"
+       height="80.521835"
+       x="9.7390823"
+       y="9.7390823"
+       rx="9.4731569"
+       ry="9.4731569" />
+    <rect
+       style="fill:none;stroke:#00b3e0;stroke-width:4.47845;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect3899"
+       width="43.463474"
+       height="43.452923"
+       x="-3.4448264"
+       y="46.570965"
+       rx="5.1496873"
+       ry="5.148438"
+       transform="matrix(0.86613049,-0.49981795,0.50018208,0.86592026,0,0)" />
+    <g
+       fill="none"
+       stroke="currentColor"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="g2811"
+       transform="matrix(0,-2.6580135,2.6580135,0,18.103838,81.896162)"
+       style="stroke:#00b3e0;stroke-opacity:1">
+      <circle
+         cx="12"
+         cy="12"
+         r="3"
+         id="circle2807"
+         style="stroke:#00b3e0;stroke-opacity:1" />
+      <path
+         d="m 12,3 v 6 m 0,6 v 6"
+         id="path2809"
+         style="stroke:#00b3e0;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
