@@ -87,6 +87,9 @@
     "diff": {
       "iconPath": "./icons/diff.svg"
     },
+    "django": {
+      "iconPath": "./icons/django.svg"
+    },
     "docker": {
       "iconPath": "./icons/docker.svg"
     },
@@ -228,6 +231,12 @@
     "folder_locales_open": {
       "iconPath": "./icons/folder_locales_open.svg"
     },
+    "folder_mocks": {
+      "iconPath": "./icons/folder_mocks.svg"
+    },
+    "folder_mocks_open": {
+      "iconPath": "./icons/folder_mocks_open.svg"
+    },
     "folder_node": {
       "iconPath": "./icons/folder_node.svg"
     },
@@ -242,6 +251,18 @@
     },
     "folder_open": {
       "iconPath": "./icons/folder_open.svg"
+    },
+    "folder_packages": {
+      "iconPath": "./icons/folder_packages.svg"
+    },
+    "folder_packages_open": {
+      "iconPath": "./icons/folder_packages_open.svg"
+    },
+    "folder_playground": {
+      "iconPath": "./icons/folder_playground.svg"
+    },
+    "folder_playground_open": {
+      "iconPath": "./icons/folder_playground_open.svg"
     },
     "folder_plugins": {
       "iconPath": "./icons/folder_plugins.svg"
@@ -297,11 +318,23 @@
     "folder_styles_open": {
       "iconPath": "./icons/folder_styles_open.svg"
     },
+    "folder_templates": {
+      "iconPath": "./icons/folder_templates.svg"
+    },
+    "folder_templates_open": {
+      "iconPath": "./icons/folder_templates_open.svg"
+    },
     "folder_test": {
       "iconPath": "./icons/folder_test.svg"
     },
     "folder_test_open": {
       "iconPath": "./icons/folder_test_open.svg"
+    },
+    "folder_types": {
+      "iconPath": "./icons/folder_types.svg"
+    },
+    "folder_types_open": {
+      "iconPath": "./icons/folder_types_open.svg"
     },
     "folder_utils": {
       "iconPath": "./icons/folder_utils.svg"
@@ -534,6 +567,9 @@
     "svelte": {
       "iconPath": "./icons/svelte.svg"
     },
+    "svelte_config": {
+      "iconPath": "./icons/svelte_config.svg"
+    },
     "svg": {
       "iconPath": "./icons/svg.svg"
     },
@@ -575,6 +611,9 @@
     },
     "vercel": {
       "iconPath": "./icons/vercel.svg"
+    },
+    "vim": {
+      "iconPath": "./icons/vim.svg"
     },
     "vite": {
       "iconPath": "./icons/vite.svg"
@@ -658,6 +697,7 @@
     "psql": "database",
     "db": "database",
     "db3": "database",
+    "djt": "django",
     "dockerfile": "docker",
     "dockerignore": "docker",
     "env": "dotenv",
@@ -1199,8 +1239,8 @@
     "rollup.config.prod.vendor.js": "rollup",
     "rollup.config.prod.vendor.ts": "rollup",
     "sonar-project.properties": "sonar",
-    "svelte.config.js": "svelte",
-    "svelte.config.cjs": "svelte",
+    "svelte.config.js": "svelte_config",
+    "svelte.config.cjs": "svelte_config",
     "tailwind.js": "tailwind",
     "tailwind.ts": "tailwind",
     "tailwind.config.js": "tailwind",
@@ -1543,8 +1583,26 @@
     "translation": "folder_locales",
     "translate": "folder_locales",
     "translations": "folder_locales",
+    "mock": "folder_mocks",
+    "mocks": "folder_mocks",
+    "fixture": "folder_mocks",
+    "fixtures": "folder_mocks",
+    "draft": "folder_mocks",
+    "drafts": "folder_mocks",
+    "concept": "folder_mocks",
+    "concepts": "folder_mocks",
+    "sketch": "folder_mocks",
+    "sketches": "folder_mocks",
+    "stub": "folder_mocks",
+    "stubs": "folder_mocks",
     "node_modules": "folder_node",
     ".nuxt": "folder_nuxt",
+    "package": "folder_packages",
+    "packages": "folder_packages",
+    "pkg": "folder_packages",
+    "pkgs": "folder_packages",
+    "playground": "folder_playground",
+    "playgrounds": "folder_playground",
     "plugin": "folder_plugins",
     "plugins": "folder_plugins",
     "_plugins": "folder_plugins",
@@ -1581,6 +1639,10 @@
     "stylesheets": "folder_styles",
     "style": "folder_styles",
     "styles": "folder_styles",
+    "template": "folder_templates",
+    "templates": "folder_templates",
+    "_template": "folder_templates",
+    "_templates": "folder_templates",
     "test": "folder_test",
     "tests": "folder_test",
     "testing": "folder_test",
@@ -1591,6 +1653,11 @@
     "__test__": "folder_test",
     "spec": "folder_test",
     "specs": "folder_test",
+    "typings": "folder_types",
+    "@types": "folder_types",
+    "types": "folder_types",
+    "tools": "folder_utils",
+    "tooling": "folder_utils",
     "util": "folder_utils",
     "utils": "folder_utils",
     "utility": "folder_utils",
@@ -1727,8 +1794,26 @@
     "translation": "folder_locales_open",
     "translate": "folder_locales_open",
     "translations": "folder_locales_open",
+    "mock": "folder_mocks_open",
+    "mocks": "folder_mocks_open",
+    "fixture": "folder_mocks_open",
+    "fixtures": "folder_mocks_open",
+    "draft": "folder_mocks_open",
+    "drafts": "folder_mocks_open",
+    "concept": "folder_mocks_open",
+    "concepts": "folder_mocks_open",
+    "sketch": "folder_mocks_open",
+    "sketches": "folder_mocks_open",
+    "stub": "folder_mocks_open",
+    "stubs": "folder_mocks_open",
     "node_modules": "folder_node_open",
     ".nuxt": "folder_nuxt_open",
+    "package": "folder_packages_open",
+    "packages": "folder_packages_open",
+    "pkg": "folder_packages_open",
+    "pkgs": "folder_packages_open",
+    "playground": "folder_playground_open",
+    "playgrounds": "folder_playground_open",
     "plugin": "folder_plugins_open",
     "plugins": "folder_plugins_open",
     "_plugins": "folder_plugins_open",
@@ -1765,6 +1850,10 @@
     "stylesheets": "folder_styles_open",
     "style": "folder_styles_open",
     "styles": "folder_styles_open",
+    "template": "folder_templates_open",
+    "templates": "folder_templates_open",
+    "_template": "folder_templates_open",
+    "_templates": "folder_templates_open",
     "test": "folder_test_open",
     "tests": "folder_test_open",
     "testing": "folder_test_open",
@@ -1775,6 +1864,11 @@
     "__test__": "folder_test_open",
     "spec": "folder_test_open",
     "specs": "folder_test_open",
+    "typings": "folder_types_open",
+    "@types": "folder_types_open",
+    "types": "folder_types_open",
+    "tools": "folder_utils_open",
+    "tooling": "folder_utils_open",
     "util": "folder_utils_open",
     "utils": "folder_utils_open",
     "utility": "folder_utils_open",
@@ -1814,6 +1908,8 @@
     "dart": "dart",
     "sql": "database",
     "diff": "diff",
+    "django-html": "django",
+    "django-txt": "django",
     "dockerfile": "docker",
     "dockercompose": "docker",
     "editorconfig": "editorconfig",

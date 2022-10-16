@@ -25,6 +25,7 @@ export const extensions: IconMap = {
     'db',
     'db3',
   ],
+  django: ['djt'],
   docker: ['dockerfile', 'dockerignore'],
   dotenv: ['env'],
   dts: ['d.ts', 'd.cts', 'd.mts'],

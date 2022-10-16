@@ -270,7 +270,7 @@ export const files: IconMap = {
     'rollup.config.prod.vendor.ts',
   ],
   sonar: ['sonar-project.properties'],
-  svelte: ['svelte.config.js', 'svelte.config.cjs'],
+  svelte_config: ['svelte.config.js', 'svelte.config.cjs'],
   tailwind: [
     'tailwind.js',
     'tailwind.ts',

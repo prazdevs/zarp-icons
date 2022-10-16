@@ -113,8 +113,24 @@ export const folders: IconMap = {
     'translate',
     'translations',
   ],
+  folder_mocks: [
+    'mock',
+    'mocks',
+    'fixture',
+    'fixtures',
+    'draft',
+    'drafts',
+    'concept',
+    'concepts',
+    'sketch',
+    'sketches',
+    'stub',
+    'stubs'
+  ],
   folder_node: ['node_modules'],
   folder_nuxt: ['.nuxt'],
+  folder_packages: ['package', 'packages', 'pkg', 'pkgs'],
+  folder_playground: ['playground','playgrounds'],
   folder_plugins: [
     'plugin',
     'plugins',
@@ -133,6 +149,7 @@ export const folders: IconMap = {
   folder_server: ['server', 'servers', 'backend'],
   folder_src: ['src', 'srcs', 'source', 'sources', 'code'],
   folder_styles: ['css', 'stylesheet', 'stylesheets', 'style', 'styles'],
+  folder_templates: ['template', 'templates', '_template', '_templates'],
   folder_test: [
     'test',
     'tests',
@@ -145,7 +162,8 @@ export const folders: IconMap = {
     'spec',
     'specs',
   ],
-  folder_utils: ['util', 'utils', 'utility', 'utilities'],
+  folder_types: ['typings', '@types', 'types'],
+  folder_utils: ['tools', 'tooling', 'util', 'utils', 'utility', 'utilities'],
   folder_views: ['view', 'views', 'screen', 'screens', 'page', 'pages', 'html'],
   folder_vscode: ['.vscode', '.vscode-test'],
   folder_workflows: ['workflow', 'workflows', 'ci', '.ci']
