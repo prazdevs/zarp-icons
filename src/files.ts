@@ -139,6 +139,12 @@ export const files: IconMap = {
     'graphql.config.yaml',
     'graphql.config.yml',
   ],
+  histoire: [
+    'histoire.config.ts',
+    'histoire.config.js',
+    '.histoire.js',
+    '.histoire.ts',
+  ],
   husky: [
     '.huskyrc',
     'husky.config.js',

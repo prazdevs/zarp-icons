@@ -42,14 +42,14 @@
     "clojure": {
       "iconPath": "./icons/clojure.svg"
     },
-    "code_of_conduct": {
-      "iconPath": "./icons/code_of_conduct.svg"
-    },
     "codeclimate": {
       "iconPath": "./icons/codeclimate.svg"
     },
     "codeowners": {
       "iconPath": "./icons/codeowners.svg"
+    },
+    "code_of_conduct": {
+      "iconPath": "./icons/code_of_conduct.svg"
     },
     "coffee": {
       "iconPath": "./icons/coffee.svg"
@@ -363,6 +363,9 @@
     "haskell": {
       "iconPath": "./icons/haskell.svg"
     },
+    "histoire": {
+      "iconPath": "./icons/histoire.svg"
+    },
     "hpp": {
       "iconPath": "./icons/hpp.svg"
     },
@@ -384,14 +387,14 @@
     "js": {
       "iconPath": "./icons/js.svg"
     },
-    "js_config": {
-      "iconPath": "./icons/js_config.svg"
-    },
     "json": {
       "iconPath": "./icons/json.svg"
     },
     "jsx": {
       "iconPath": "./icons/jsx.svg"
+    },
+    "js_config": {
+      "iconPath": "./icons/js_config.svg"
     },
     "julia": {
       "iconPath": "./icons/julia.svg"
@@ -519,6 +522,15 @@
     "spreadsheet": {
       "iconPath": "./icons/spreadsheet.svg"
     },
+    "storybook": {
+      "iconPath": "./icons/storybook.svg"
+    },
+    "storybook_svelte": {
+      "iconPath": "./icons/storybook_svelte.svg"
+    },
+    "storybook_vue": {
+      "iconPath": "./icons/storybook_vue.svg"
+    },
     "svelte": {
       "iconPath": "./icons/svelte.svg"
     },
@@ -549,11 +561,11 @@
     "ts": {
       "iconPath": "./icons/ts.svg"
     },
-    "ts_config": {
-      "iconPath": "./icons/ts_config.svg"
-    },
     "tsx": {
       "iconPath": "./icons/tsx.svg"
+    },
+    "ts_config": {
+      "iconPath": "./icons/ts_config.svg"
     },
     "unity": {
       "iconPath": "./icons/unity.svg"
@@ -846,6 +858,14 @@
     "tsv": "spreadsheet",
     "psv": "spreadsheet",
     "ods": "spreadsheet",
+    "story.js": "storybook",
+    "story.ts": "storybook",
+    "stories.js": "storybook",
+    "stories.ts": "storybook",
+    "story.svelte": "storybook_svelte",
+    "stories.svelte": "storybook_svelte",
+    "story.vue": "storybook_vue",
+    "stories.vue": "storybook_vue",
     "svelte": "svelte",
     "svg": "svg",
     "swift": "swift",
@@ -1053,6 +1073,10 @@
     "graphql.config.toml": "graphql",
     "graphql.config.yaml": "graphql",
     "graphql.config.yml": "graphql",
+    "histoire.config.ts": "histoire",
+    "histoire.config.js": "histoire",
+    ".histoire.js": "histoire",
+    ".histoire.ts": "histoire",
     ".huskyrc": "husky",
     "husky.config.js": "husky",
     ".huskyrc.json": "husky",
