@@ -534,6 +534,9 @@
     "rollup": {
       "iconPath": "./icons/rollup.svg"
     },
+    "rome": {
+      "iconPath": "./icons/rome.svg"
+    },
     "ruby": {
       "iconPath": "./icons/ruby.svg"
     },
@@ -1242,6 +1245,7 @@
     "rollup.config.dev.ts": "rollup",
     "rollup.config.prod.vendor.js": "rollup",
     "rollup.config.prod.vendor.ts": "rollup",
+    "rome.json": "rome",
     "sonar-project.properties": "sonar",
     "svelte.config.js": "svelte_config",
     "svelte.config.cjs": "svelte_config",
