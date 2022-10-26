@@ -492,6 +492,9 @@
     "php": {
       "iconPath": "./icons/php.svg"
     },
+    "playwright": {
+      "iconPath": "./icons/playwright.svg"
+    },
     "pnpm": {
       "iconPath": "./icons/pnpm.svg"
     },
@@ -1210,6 +1213,12 @@
     "package-lock.json": "packagelock",
     "yarn.lock": "packagelock",
     "pnpm-lock.yaml": "packagelock",
+    "playwright.config.js": "playwright",
+    "playwright.config.mjs": "playwright",
+    "playwright.config.ts": "playwright",
+    "playwright-ct.config.js": "playwright",
+    "playwright-ct.config.mjs": "playwright",
+    "playwright-ct.config.ts": "playwright",
     ".pnpmfile.cjs": "pnpm",
     "pnpm-workspace.yaml": "pnpm",
     ".prettierrc": "prettier",

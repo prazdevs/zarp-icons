@@ -237,6 +237,14 @@ export const files: IconMap = {
   nuxt: ['nuxt.config.js', 'nuxt.config.ts', '.nuxtignore'],
   packagejson: ['package.json'],
   packagelock: ['package-lock.json', 'yarn.lock', 'pnpm-lock.yaml'],
+  playwright: [
+    'playwright.config.js',
+    'playwright.config.mjs',
+    'playwright.config.ts',
+    'playwright-ct.config.js',
+    'playwright-ct.config.mjs',
+    'playwright-ct.config.ts',
+  ],
   pnpm: ['.pnpmfile.cjs', 'pnpm-workspace.yaml'],
   prettier: [
     '.prettierrc',
