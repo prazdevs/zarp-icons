@@ -227,12 +227,7 @@ export const files: IconMap = {
     'nestconfig.json',
     '.nestconfig.json',
   ],
-  netlify: [
-    'netlify.json',
-    'netlify.yml',
-    'netlify.yaml',
-    'netlify.toml',
-  ],
+  netlify: ['netlify.json', 'netlify.yml', 'netlify.yaml', 'netlify.toml'],
   nginx: ['nginx.conf'],
   npm: ['.npmrc', '.npmignore'],
   nuxt: ['nuxt.config.js', 'nuxt.config.ts', '.nuxtignore'],
@@ -523,5 +518,5 @@ export const files: IconMap = {
     'windi.config.cts',
     'windi.config.json',
   ],
-  yaml: ['.yamllint', '.yamllint.yml', '.yamllint.yaml']
+  yaml: ['.yamllint', '.yamllint.yml', '.yamllint.yaml'],
 }

@@ -3,6 +3,6 @@ export const base: Base = {
   file: 'file',
   folder: 'folder',
   folderExpanded: 'folder_open',
-  rootFolder:  'folder_root',
+  rootFolder: 'folder_root',
   rootFolderExpanded: 'folder_root_open',
 }

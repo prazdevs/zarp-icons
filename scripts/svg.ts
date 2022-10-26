@@ -44,7 +44,6 @@ function optimizeSvg(svg: Buffer): string {
         'sortDefsChildren',
         'removeTitle',
         'removeDesc',
-        
       ],
     }) as OptimizedSvg
   ).data

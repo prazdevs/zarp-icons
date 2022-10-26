@@ -107,7 +107,7 @@ export const extensions: IconMap = {
   markdown: ['md', 'markdown'],
   nginx: ['nginx', 'nginxconfig'],
   pdf: ['pdf'],
-  perl:  ['pm', 'raku'],
+  perl: ['pm', 'raku'],
   powershell: ['ps1', 'psm1', 'psd1', 'ps1xml', 'psc1', 'pssc'],
   properties: [
     'ini',
@@ -173,7 +173,7 @@ export const extensions: IconMap = {
     'wgsl',
   ],
   spreadsheet: ['xlsx', 'xlsm', 'xls', 'csv', 'tsv', 'psv', 'ods'],
-  storybook: ['story.js', 'story.ts','stories.js', 'stories.ts'],
+  storybook: ['story.js', 'story.ts', 'stories.js', 'stories.ts'],
   storybook_svelte: ['story.svelte', 'stories.svelte'],
   storybook_vue: ['story.vue', 'stories.vue'],
   svelte: ['svelte'],
@@ -219,12 +219,7 @@ export const extensions: IconMap = {
   ts_config: ['tsconfig.json'],
   unity: ['unity'],
   vlang: ['v'],
-  vscode: [
-    'vscodeignore',
-    'vsixmanifest',
-    'vsix',
-    'code-workspace',
-  ],
+  vscode: ['vscodeignore', 'vsixmanifest', 'vsix', 'code-workspace'],
   vstudio: [
     'csproj',
     'ruleset',

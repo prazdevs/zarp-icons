@@ -46,7 +46,7 @@ Feel free to open an issue to request icons!
 
 ## 👤 About the author
 
-Feel free to contact me: 
+Feel free to contact me:
 
 [![twitter: @prazdevs](https://img.shields.io/twitter/follow/prazdevs?style=social)](https://twitter.com/prazdevs)
 

@@ -125,12 +125,12 @@ export const folders: IconMap = {
     'sketch',
     'sketches',
     'stub',
-    'stubs'
+    'stubs',
   ],
   folder_node: ['node_modules'],
   folder_nuxt: ['.nuxt'],
   folder_packages: ['package', 'packages', 'pkg', 'pkgs'],
-  folder_playground: ['playground','playgrounds'],
+  folder_playground: ['playground', 'playgrounds'],
   folder_plugins: [
     'plugin',
     'plugins',
@@ -166,7 +166,7 @@ export const folders: IconMap = {
   folder_utils: ['tools', 'tooling', 'util', 'utils', 'utility', 'utilities'],
   folder_views: ['view', 'views', 'screen', 'screens', 'page', 'pages', 'html'],
   folder_vscode: ['.vscode', '.vscode-test'],
-  folder_workflows: ['workflow', 'workflows', 'ci', '.ci']
+  folder_workflows: ['workflow', 'workflows', 'ci', '.ci'],
 }
 
 export const foldersExpanded: IconMap = Object.keys(folders).reduce(
