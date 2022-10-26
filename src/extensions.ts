@@ -105,6 +105,7 @@ export const extensions: IconMap = {
   lua: ['lua'],
   mapjs: ['js.map', 'cjs.map', 'mjs.map'],
   markdown: ['md', 'markdown'],
+  mdx: ['mdx'],
   nginx: ['nginx', 'nginxconfig'],
   pdf: ['pdf'],
   perl: ['pm', 'raku'],

@@ -465,6 +465,9 @@
     "markdown": {
       "iconPath": "./icons/markdown.svg"
     },
+    "mdx": {
+      "iconPath": "./icons/mdx.svg"
+    },
     "nest": {
       "iconPath": "./icons/nest.svg"
     },
@@ -825,6 +828,7 @@
     "mjs.map": "mapjs",
     "md": "markdown",
     "markdown": "markdown",
+    "mdx": "mdx",
     "nginx": "nginx",
     "nginxconfig": "nginx",
     "pdf": "pdf",
