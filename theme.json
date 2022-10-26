@@ -6,6 +6,9 @@
   "rootFolder": "folder_root",
   "rootFolderExpanded": "folder_root_open",
   "iconDefinitions": {
+    "alex": {
+      "iconPath": "./icons/alex.svg"
+    },
     "angular": {
       "iconPath": "./icons/angular.svg"
     },
@@ -992,6 +995,10 @@
     "yaml": "yaml"
   },
   "fileNames": {
+    ".alexrc": "alex",
+    ".alexrc.yml": "alex",
+    ".alexrc.yaml": "alex",
+    "alexrc.js": "alex",
     "angular-cli.json": "angular",
     ".angular-cli.json": "angular",
     "angular.json": "angular",

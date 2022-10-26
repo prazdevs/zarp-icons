@@ -1,4 +1,5 @@
 export const files: IconMap = {
+  alex: ['.alexrc', '.alexrc.yml', '.alexrc.yaml', 'alexrc.js'],
   angular: ['angular-cli.json', '.angular-cli.json', 'angular.json'],
   babel: [
     '.babelrc',
