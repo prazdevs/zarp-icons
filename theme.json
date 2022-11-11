@@ -696,6 +696,8 @@
     "mm": "cpp",
     "mii": "cpp",
     "ii": "cpp",
+    "feature": "cucumber",
+    "features": "cucumber",
     "cu": "cuda",
     "cuh": "cuda",
     "dart": "dart",

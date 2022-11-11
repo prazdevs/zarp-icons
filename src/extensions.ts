@@ -8,6 +8,7 @@ export const extensions: IconMap = {
   coffee: ['coffee', 'cson', 'iced'],
   csharp: ['cs', 'csx'],
   cpp: ['cc', 'cpp', 'cxx', 'c++', 'cp', 'mm', 'mii', 'ii'],
+  cucumber: ['feature', 'features'],
   cuda: ['cu', 'cuh'],
   dart: ['dart'],
   database: [
