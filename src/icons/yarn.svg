@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.0px"
+   height="100.0px"
+   viewBox="0 0 100.0 100.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="yarn.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview305"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="2.1745121"
+     inkscape:cx="45.987328"
+     inkscape:cy="45.067581"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid428" />
+  </sodipodi:namedview>
+  <defs
+     id="defs300" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       fill="currentColor"
+       d="m 43.937794,16.153207 c 0,0 3.592587,-10.9156841 6.908821,-8.7878166 1.022456,0.6633137 4.697829,8.8431206 4.697829,8.8431206 0,0 3.924244,-2.29361 4.366341,-1.437066 5.117304,15.597926 0.403887,26.595728 -6.355946,35.372317 8.990932,8.395828 10.555033,16.99863 8.815469,27.883308 8.458171,0.01823 12.81211,-8.22539 23.599757,-8.732512 4.836091,-0.08296 5.084792,5.582191 1.437066,6.466386 -7.499567,1.058655 -14.89523,9.424653 -30.011173,13.679211 -1.949889,2.96765 -13.59944,2.635826 -22.770866,3.454326 -9.703686,0.103073 -7.196904,-7.454319 -3.703027,-8.732512 -2.278528,-1.241493 -2.371371,-2.479633 -2.818665,-2.348915 -2.426676,12.9254 -9.046406,8.98708 -13.098686,7.875802 -3.122837,-1.658117 0.221055,-5.55454 0.221055,-5.55454 -3.040048,1.303165 -5.4394088,-4.441755 -5.084792,-10.086624 0.331658,-4.504433 5.361144,-8.870774 5.361144,-8.870774 C 15.202307,53.931086 18.487369,46.615195 27.219044,40.471582 24.16827,36.879163 20.64892,31.097374 25.29044,24.362008 31.332661,22.676071 32.505778,15.51168 43.937968,16.153207 Z"
+       id="path2"
+       style="fill:none;stroke:#368fb9;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>

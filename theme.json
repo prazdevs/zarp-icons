@@ -665,6 +665,9 @@
     },
     "yaml": {
       "iconPath": "./icons/yaml.svg"
+    },
+    "yarn": {
+      "iconPath": "./icons/yarn.svg"
     }
   },
   "fileExtensions": {
@@ -1224,8 +1227,6 @@
     ".nuxtignore": "nuxt",
     "package.json": "packagejson",
     "package-lock.json": "packagelock",
-    "yarn.lock": "packagelock",
-    "pnpm-lock.yaml": "packagelock",
     "playwright.config.js": "playwright",
     "playwright.config.mjs": "playwright",
     "playwright.config.ts": "playwright",
@@ -1234,6 +1235,7 @@
     "playwright-ct.config.ts": "playwright",
     ".pnpmfile.cjs": "pnpm",
     "pnpm-workspace.yaml": "pnpm",
+    "pnpm-lock.yaml": "pnpm",
     ".prettierrc": "prettier",
     "prettier.config.js": "prettier",
     "prettier.config.cjs": "prettier",
@@ -1493,7 +1495,8 @@
     "windi.config.json": "windi",
     ".yamllint": "yaml",
     ".yamllint.yml": "yaml",
-    ".yamllint.yaml": "yaml"
+    ".yamllint.yaml": "yaml",
+    "yarn.lock": "yarn"
   },
   "folderNames": {
     "api": "folder_api",

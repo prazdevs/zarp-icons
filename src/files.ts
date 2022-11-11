@@ -232,7 +232,7 @@ export const files: IconMap = {
   npm: ['.npmrc', '.npmignore'],
   nuxt: ['nuxt.config.js', 'nuxt.config.ts', '.nuxtignore'],
   packagejson: ['package.json'],
-  packagelock: ['package-lock.json', 'yarn.lock', 'pnpm-lock.yaml'],
+  packagelock: ['package-lock.json'],
   playwright: [
     'playwright.config.js',
     'playwright.config.mjs',
@@ -241,7 +241,7 @@ export const files: IconMap = {
     'playwright-ct.config.mjs',
     'playwright-ct.config.ts',
   ],
-  pnpm: ['.pnpmfile.cjs', 'pnpm-workspace.yaml'],
+  pnpm: ['.pnpmfile.cjs', 'pnpm-workspace.yaml', 'pnpm-lock.yaml'],
   prettier: [
     '.prettierrc',
     'prettier.config.js',
@@ -519,4 +519,5 @@ export const files: IconMap = {
     'windi.config.json',
   ],
   yaml: ['.yamllint', '.yamllint.yml', '.yamllint.yaml'],
+  yarn: ['yarn.lock']
 }
