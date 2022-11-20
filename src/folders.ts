@@ -128,7 +128,7 @@ export const folders: IconMap = {
     'stubs',
   ],
   folder_node: ['node_modules'],
-  folder_nuxt: ['.nuxt'],
+  folder_nuxt: ['.nuxt', 'nuxt'],
   folder_packages: ['package', 'packages', 'pkg', 'pkgs'],
   folder_playground: ['playground', 'playgrounds'],
   folder_plugins: [

@@ -231,6 +231,7 @@ export const files: IconMap = {
   nginx: ['nginx.conf'],
   npm: ['.npmrc', '.npmignore'],
   nuxt: ['nuxt.config.js', 'nuxt.config.ts', '.nuxtignore'],
+  nx: ['nx.json', '.nxignore'],
   packagejson: ['package.json'],
   packagelock: ['package-lock.json'],
   playwright: [

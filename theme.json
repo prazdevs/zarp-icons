@@ -483,6 +483,9 @@
     "nuxt": {
       "iconPath": "./icons/nuxt.svg"
     },
+    "nx": {
+      "iconPath": "./icons/nx.svg"
+    },
     "packagejson": {
       "iconPath": "./icons/packagejson.svg"
     },
@@ -1225,6 +1228,8 @@
     "nuxt.config.js": "nuxt",
     "nuxt.config.ts": "nuxt",
     ".nuxtignore": "nuxt",
+    "nx.json": "nx",
+    ".nxignore": "nx",
     "package.json": "packagejson",
     "package-lock.json": "packagelock",
     "playwright.config.js": "playwright",
@@ -1630,6 +1635,7 @@
     "stubs": "folder_mocks",
     "node_modules": "folder_node",
     ".nuxt": "folder_nuxt",
+    "nuxt": "folder_nuxt",
     "package": "folder_packages",
     "packages": "folder_packages",
     "pkg": "folder_packages",
@@ -1841,6 +1847,7 @@
     "stubs": "folder_mocks_open",
     "node_modules": "folder_node_open",
     ".nuxt": "folder_nuxt_open",
+    "nuxt": "folder_nuxt_open",
     "package": "folder_packages_open",
     "packages": "folder_packages_open",
     "pkg": "folder_packages_open",
