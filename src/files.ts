@@ -230,7 +230,7 @@ export const files: IconMap = {
   netlify: ['netlify.json', 'netlify.yml', 'netlify.yaml', 'netlify.toml'],
   nginx: ['nginx.conf'],
   npm: ['.npmrc', '.npmignore'],
-  nuxt: ['nuxt.config.js', 'nuxt.config.ts', '.nuxtignore'],
+  nuxt: ['nuxt.config.js', 'nuxt.config.ts', '.nuxtignore', '.nuxtrc'],
   nx: ['nx.json', '.nxignore'],
   packagejson: ['package.json'],
   packagelock: ['package-lock.json'],

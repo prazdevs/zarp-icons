@@ -1228,6 +1228,7 @@
     "nuxt.config.js": "nuxt",
     "nuxt.config.ts": "nuxt",
     ".nuxtignore": "nuxt",
+    ".nuxtrc": "nuxt",
     "nx.json": "nx",
     ".nxignore": "nx",
     "package.json": "packagejson",
