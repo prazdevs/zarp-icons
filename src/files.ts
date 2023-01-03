@@ -277,6 +277,7 @@ export const files: IconMap = {
   ],
   rome: ['rome.json'],
   sonar: ['sonar-project.properties'],
+  stackblitz: ['.stackblitzrc'],
   svelte_config: ['svelte.config.js', 'svelte.config.cjs'],
   tailwind: [
     'tailwind.js',
