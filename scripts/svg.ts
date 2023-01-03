@@ -1,10 +1,10 @@
 import { remove, ensureDir } from 'fs-extra'
 import { readFile, writeFile, readdir } from 'fs/promises'
-import { optimize, OptimizedSvg } from 'svgo'
+import { optimize } from 'svgo'
 
 function optimizeSvg(svg: string): string {
   return (
-    (optimize(svg, {
+    optimize(svg, {
       js2svg: { pretty: true },
       plugins: [
         'removeDoctype',
@@ -17,7 +17,7 @@ function optimizeSvg(svg: string): string {
         'mergeStyles',
         'inlineStyles',
         'minifyStyles',
-        'cleanupIDs',
+        'cleanupIds',
         'removeRasterImages',
         'removeUselessDefs',
         'cleanupNumericValues',
@@ -46,7 +46,7 @@ function optimizeSvg(svg: string): string {
         'removeDesc',
       ],
     })
-  ) as OptimizedSvg).data
+  ).data
 }
 
 export async function optimizeSvgs(src: string, dest: string) {
