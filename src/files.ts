@@ -89,6 +89,7 @@ export const files: IconMap = {
     '.env.dist',
     '.env.prod',
     '.env.production',
+    '.env.mock',
     '.env.stage',
     '.env.staging',
     '.env.preview',

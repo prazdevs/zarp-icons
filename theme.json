@@ -1099,6 +1099,7 @@
     ".env.dist": "dotenv",
     ".env.prod": "dotenv",
     ".env.production": "dotenv",
+    ".env.mock": "dotenv",
     ".env.stage": "dotenv",
     ".env.staging": "dotenv",
     ".env.preview": "dotenv",
