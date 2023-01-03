@@ -8,7 +8,7 @@
     "name": "Sacha Bouillez",
     "url": "https://praz.dev"
   },
-  "version": "0.0.32",
+  "version": "0.0.33",
   "description": "A consistent icon theme.",
   "type": "module",
   "scripts": {
