@@ -525,9 +525,6 @@
     "python": {
       "iconPath": "./icons/python.svg"
     },
-    "python_alt": {
-      "iconPath": "./icons/python_alt.svg"
-    },
     "r": {
       "iconPath": "./icons/r.svg"
     },
@@ -864,9 +861,9 @@
     "jade": "pug",
     "pug": "pug",
     "py": "python",
-    "pyc": "python_alt",
-    "pyo": "python_alt",
-    "pyd": "python_alt",
+    "pyc": "python",
+    "pyo": "python",
+    "pyd": "python",
     "r": "r",
     "rmd": "r",
     "cshtml": "razor",
